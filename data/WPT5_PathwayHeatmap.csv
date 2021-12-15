@@ -1,0 +1,865 @@
+num,ROI_Name,X_position,Y_position,type,PathwayNameFull,Pathway_Value,PathwayName
+1,Germinal center_ROI027,21345,12134,Germinal center,T cell receptor signaling pathway,-0.393365005,TCR 
+2,Germinal center_ROI026,27284,24303,Germinal center,T cell receptor signaling pathway,-0.65882455,TCR 
+3,Germinal center_ROI025,22106,13564,Germinal center,T cell receptor signaling pathway,-0.721098341,TCR 
+4,Germinal center_ROI022,7333,20899,Germinal center,T cell receptor signaling pathway,0.232594312,TCR 
+5,Germinal center_ROI024,20423,22880,Germinal center,T cell receptor signaling pathway,-0.366833295,TCR 
+6,Germinal center_ROI013,21798,36418,Germinal center,T cell receptor signaling pathway,-0.538874214,TCR 
+7,Germinal center_ROI023,12921,26841,Germinal center,T cell receptor signaling pathway,-0.960240401,TCR 
+8,Germinal center_ROI019,9260,15437,Germinal center,T cell receptor signaling pathway,-1.071029924,TCR 
+9,Germinal center_ROI007,9503,34845,Germinal center,T cell receptor signaling pathway,-0.849523407,TCR 
+10,Germinal center_ROI010,9318,33128,Germinal center,T cell receptor signaling pathway,-0.122174825,TCR 
+11,Germinal center_ROI016,25388,26749,Germinal center,T cell receptor signaling pathway,-0.977139539,TCR 
+12,Germinal center_ROI020,6925,16105,Germinal center,T cell receptor signaling pathway,-0.523865186,TCR 
+13,Germinal center_ROI021,11177,16145,Germinal center,T cell receptor signaling pathway,-0.687956588,TCR 
+14,Germinal center_ROI001,23975,27060,Germinal center,T cell receptor signaling pathway,-0.542729447,TCR 
+15,Germinal center_ROI004,25384,18364,Germinal center,T cell receptor signaling pathway,-0.508940121,TCR 
+16,Paracortex zone_ROI018,26014,26134,Paracortex zone,T cell receptor signaling pathway,1.769564837,TCR 
+17,Paracortex zone_ROI003,23615,27609,Paracortex zone,T cell receptor signaling pathway,1.737276083,TCR 
+18,Paracortex zone_ROI009,10097,34409,Paracortex zone,T cell receptor signaling pathway,1.784634981,TCR 
+19,Paracortex zone_ROI015,20756,36279,Paracortex zone,T cell receptor signaling pathway,1.583722543,TCR 
+20,Paracortex zone_ROI006,25105,18785,Paracortex zone,T cell receptor signaling pathway,1.851090259,TCR 
+21,Paracortex zone_ROI012,10169,32873,Paracortex zone,T cell receptor signaling pathway,1.785064693,TCR 
+22,Mantle zone_ROI008,9380,34978,Mantle zone,T cell receptor signaling pathway,-0.285490007,TCR 
+23,Mantle zone_ROI014,22224,36621,Mantle zone,T cell receptor signaling pathway,0.191103192,TCR 
+24,Mantle zone_ROI002,24303,27332,Mantle zone,T cell receptor signaling pathway,-0.328238088,TCR 
+25,Mantle zone_ROI005,25645,18105,Mantle zone,T cell receptor signaling pathway,-0.475107439,TCR 
+26,Mantle zone_ROI011,8967,33528,Mantle zone,T cell receptor signaling pathway,-0.370454058,TCR 
+27,Mantle zone_ROI017,25314,27219,Mantle zone,T cell receptor signaling pathway,-0.553166466,TCR 
+28,Germinal center_ROI027,21345,12134,Germinal center,Human immunodeficiency virus 1,-0.34010665,HIV1 
+29,Germinal center_ROI026,27284,24303,Germinal center,Human immunodeficiency virus 1,-0.732585007,HIV1 
+30,Germinal center_ROI025,22106,13564,Germinal center,Human immunodeficiency virus 1,-0.574112301,HIV1 
+31,Germinal center_ROI022,7333,20899,Germinal center,Human immunodeficiency virus 1,-0.463422806,HIV1 
+32,Germinal center_ROI024,20423,22880,Germinal center,Human immunodeficiency virus 1,-1.058694518,HIV1 
+33,Germinal center_ROI013,21798,36418,Germinal center,Human immunodeficiency virus 1,0.047218138,HIV1 
+34,Germinal center_ROI023,12921,26841,Germinal center,Human immunodeficiency virus 1,-0.900079155,HIV1 
+35,Germinal center_ROI019,9260,15437,Germinal center,Human immunodeficiency virus 1,-0.120708941,HIV1 
+36,Germinal center_ROI007,9503,34845,Germinal center,Human immunodeficiency virus 1,-0.698530421,HIV1 
+37,Germinal center_ROI010,9318,33128,Germinal center,Human immunodeficiency virus 1,-0.496581227,HIV1 
+38,Germinal center_ROI016,25388,26749,Germinal center,Human immunodeficiency virus 1,-0.745978343,HIV1 
+39,Germinal center_ROI020,6925,16105,Germinal center,Human immunodeficiency virus 1,-0.213016425,HIV1 
+40,Germinal center_ROI021,11177,16145,Germinal center,Human immunodeficiency virus 1,-0.799966509,HIV1 
+41,Germinal center_ROI001,23975,27060,Germinal center,Human immunodeficiency virus 1,-0.377276428,HIV1 
+42,Germinal center_ROI004,25384,18364,Germinal center,Human immunodeficiency virus 1,-0.251654516,HIV1 
+43,Paracortex zone_ROI018,26014,26134,Paracortex zone,Human immunodeficiency virus 1,1.625360158,HIV1 
+44,Paracortex zone_ROI003,23615,27609,Paracortex zone,Human immunodeficiency virus 1,1.64907014,HIV1 
+45,Paracortex zone_ROI009,10097,34409,Paracortex zone,Human immunodeficiency virus 1,2.066678595,HIV1 
+46,Paracortex zone_ROI015,20756,36279,Paracortex zone,Human immunodeficiency virus 1,1.853408866,HIV1 
+47,Paracortex zone_ROI006,25105,18785,Paracortex zone,Human immunodeficiency virus 1,1.79243885,HIV1 
+48,Paracortex zone_ROI012,10169,32873,Paracortex zone,Human immunodeficiency virus 1,1.604579129,HIV1 
+49,Mantle zone_ROI008,9380,34978,Mantle zone,Human immunodeficiency virus 1,-0.665129643,HIV1 
+50,Mantle zone_ROI014,22224,36621,Mantle zone,Human immunodeficiency virus 1,-0.816190227,HIV1 
+51,Mantle zone_ROI002,24303,27332,Mantle zone,Human immunodeficiency virus 1,-0.58271271,HIV1 
+52,Mantle zone_ROI005,25645,18105,Mantle zone,Human immunodeficiency virus 1,-0.375088362,HIV1 
+53,Mantle zone_ROI011,8967,33528,Mantle zone,Human immunodeficiency virus 1,0.049722097,HIV1 
+54,Mantle zone_ROI017,25314,27219,Mantle zone,Human immunodeficiency virus 1,-0.476641783,HIV1 
+55,Germinal center_ROI027,21345,12134,Germinal center,"CD48, BCM1; CD48 antigen",-1.280458205,CD48 
+56,Germinal center_ROI026,27284,24303,Germinal center,"CD48, BCM1; CD48 antigen",0.378757937,CD48 
+57,Germinal center_ROI025,22106,13564,Germinal center,"CD48, BCM1; CD48 antigen",-0.164089702,CD48 
+58,Germinal center_ROI022,7333,20899,Germinal center,"CD48, BCM1; CD48 antigen",0.255125428,CD48 
+59,Germinal center_ROI024,20423,22880,Germinal center,"CD48, BCM1; CD48 antigen",0.113950218,CD48 
+60,Germinal center_ROI013,21798,36418,Germinal center,"CD48, BCM1; CD48 antigen",0.49984811,CD48 
+61,Germinal center_ROI023,12921,26841,Germinal center,"CD48, BCM1; CD48 antigen",-0.001338656,CD48 
+62,Germinal center_ROI019,9260,15437,Germinal center,"CD48, BCM1; CD48 antigen",0.472651718,CD48 
+63,Germinal center_ROI007,9503,34845,Germinal center,"CD48, BCM1; CD48 antigen",-1.219760228,CD48 
+64,Germinal center_ROI010,9318,33128,Germinal center,"CD48, BCM1; CD48 antigen",-0.589719247,CD48 
+65,Germinal center_ROI016,25388,26749,Germinal center,"CD48, BCM1; CD48 antigen",-0.965419932,CD48 
+66,Germinal center_ROI020,6925,16105,Germinal center,"CD48, BCM1; CD48 antigen",-0.569799243,CD48 
+67,Germinal center_ROI021,11177,16145,Germinal center,"CD48, BCM1; CD48 antigen",-0.831161476,CD48 
+68,Germinal center_ROI001,23975,27060,Germinal center,"CD48, BCM1; CD48 antigen",-0.130814016,CD48 
+69,Germinal center_ROI004,25384,18364,Germinal center,"CD48, BCM1; CD48 antigen",-0.357611653,CD48 
+70,Paracortex zone_ROI018,26014,26134,Paracortex zone,"CD48, BCM1; CD48 antigen",1.507554001,CD48 
+71,Paracortex zone_ROI003,23615,27609,Paracortex zone,"CD48, BCM1; CD48 antigen",1.518542311,CD48 
+72,Paracortex zone_ROI009,10097,34409,Paracortex zone,"CD48, BCM1; CD48 antigen",1.556654808,CD48 
+73,Paracortex zone_ROI015,20756,36279,Paracortex zone,"CD48, BCM1; CD48 antigen",1.54038279,CD48 
+74,Paracortex zone_ROI006,25105,18785,Paracortex zone,"CD48, BCM1; CD48 antigen",1.525877964,CD48 
+75,Paracortex zone_ROI012,10169,32873,Paracortex zone,"CD48, BCM1; CD48 antigen",1.556707106,CD48 
+76,Mantle zone_ROI008,9380,34978,Mantle zone,"CD48, BCM1; CD48 antigen",-1.571646967,CD48 
+77,Mantle zone_ROI014,22224,36621,Mantle zone,"CD48, BCM1; CD48 antigen",-0.331700922,CD48 
+78,Mantle zone_ROI002,24303,27332,Mantle zone,"CD48, BCM1; CD48 antigen",-0.61532889,CD48 
+79,Mantle zone_ROI005,25645,18105,Mantle zone,"CD48, BCM1; CD48 antigen",-1.430082951,CD48 
+80,Mantle zone_ROI011,8967,33528,Mantle zone,"CD48, BCM1; CD48 antigen",-0.113792242,CD48 
+81,Mantle zone_ROI017,25314,27219,Mantle zone,"CD48, BCM1; CD48 antigen",-0.753328061,CD48 
+82,Germinal center_ROI027,21345,12134,Germinal center,CD80; CD80 antigen,-1.048533506,CD80 
+83,Germinal center_ROI026,27284,24303,Germinal center,CD80; CD80 antigen,0.335392226,CD80 
+84,Germinal center_ROI025,22106,13564,Germinal center,CD80; CD80 antigen,0.112036736,CD80 
+85,Germinal center_ROI022,7333,20899,Germinal center,CD80; CD80 antigen,0.651453237,CD80 
+86,Germinal center_ROI024,20423,22880,Germinal center,CD80; CD80 antigen,0.511756542,CD80 
+87,Germinal center_ROI013,21798,36418,Germinal center,CD80; CD80 antigen,0.232994234,CD80 
+88,Germinal center_ROI023,12921,26841,Germinal center,CD80; CD80 antigen,0.196369313,CD80 
+89,Germinal center_ROI019,9260,15437,Germinal center,CD80; CD80 antigen,-0.968354255,CD80 
+90,Germinal center_ROI007,9503,34845,Germinal center,CD80; CD80 antigen,-0.650890324,CD80 
+91,Germinal center_ROI010,9318,33128,Germinal center,CD80; CD80 antigen,-0.45486033,CD80 
+92,Germinal center_ROI016,25388,26749,Germinal center,CD80; CD80 antigen,-0.596746991,CD80 
+93,Germinal center_ROI020,6925,16105,Germinal center,CD80; CD80 antigen,-0.6488938,CD80 
+94,Germinal center_ROI021,11177,16145,Germinal center,CD80; CD80 antigen,-1.038932883,CD80 
+95,Germinal center_ROI001,23975,27060,Germinal center,CD80; CD80 antigen,-0.409185721,CD80 
+96,Germinal center_ROI004,25384,18364,Germinal center,CD80; CD80 antigen,-0.161255212,CD80 
+97,Paracortex zone_ROI018,26014,26134,Paracortex zone,CD80; CD80 antigen,1.770040753,CD80 
+98,Paracortex zone_ROI003,23615,27609,Paracortex zone,CD80; CD80 antigen,1.577944202,CD80 
+99,Paracortex zone_ROI009,10097,34409,Paracortex zone,CD80; CD80 antigen,1.848032765,CD80 
+100,Paracortex zone_ROI015,20756,36279,Paracortex zone,CD80; CD80 antigen,1.509513702,CD80 
+101,Paracortex zone_ROI006,25105,18785,Paracortex zone,CD80; CD80 antigen,1.631981175,CD80 
+102,Paracortex zone_ROI012,10169,32873,Paracortex zone,CD80; CD80 antigen,0.87868369,CD80 
+103,Mantle zone_ROI008,9380,34978,Mantle zone,CD80; CD80 antigen,-0.706915568,CD80 
+104,Mantle zone_ROI014,22224,36621,Mantle zone,CD80; CD80 antigen,-0.954091014,CD80 
+105,Mantle zone_ROI002,24303,27332,Mantle zone,CD80; CD80 antigen,-1.365180779,CD80 
+106,Mantle zone_ROI005,25645,18105,Mantle zone,CD80; CD80 antigen,-1.207768091,CD80 
+107,Mantle zone_ROI011,8967,33528,Mantle zone,CD80; CD80 antigen,-0.105241255,CD80 
+108,Mantle zone_ROI017,25314,27219,Mantle zone,CD80; CD80 antigen,-0.939348845,CD80 
+109,Germinal center_ROI027,21345,12134,Germinal center,"ICOSLG, ICOSL; inducible T-cell co-stimulator ligand",-0.660714686,ICOSL
+110,Germinal center_ROI026,27284,24303,Germinal center,"ICOSLG, ICOSL; inducible T-cell co-stimulator ligand",-0.063327698,ICOSL
+111,Germinal center_ROI025,22106,13564,Germinal center,"ICOSLG, ICOSL; inducible T-cell co-stimulator ligand",0.028510158,ICOSL
+112,Germinal center_ROI022,7333,20899,Germinal center,"ICOSLG, ICOSL; inducible T-cell co-stimulator ligand",0.510445714,ICOSL
+113,Germinal center_ROI024,20423,22880,Germinal center,"ICOSLG, ICOSL; inducible T-cell co-stimulator ligand",0.838475924,ICOSL
+114,Germinal center_ROI013,21798,36418,Germinal center,"ICOSLG, ICOSL; inducible T-cell co-stimulator ligand",0.616967888,ICOSL
+115,Germinal center_ROI023,12921,26841,Germinal center,"ICOSLG, ICOSL; inducible T-cell co-stimulator ligand",0.48146703,ICOSL
+116,Germinal center_ROI019,9260,15437,Germinal center,"ICOSLG, ICOSL; inducible T-cell co-stimulator ligand",-0.203244295,ICOSL
+117,Germinal center_ROI007,9503,34845,Germinal center,"ICOSLG, ICOSL; inducible T-cell co-stimulator ligand",-0.390091608,ICOSL
+118,Germinal center_ROI010,9318,33128,Germinal center,"ICOSLG, ICOSL; inducible T-cell co-stimulator ligand",-0.305850343,ICOSL
+119,Germinal center_ROI016,25388,26749,Germinal center,"ICOSLG, ICOSL; inducible T-cell co-stimulator ligand",-0.808958156,ICOSL
+120,Germinal center_ROI020,6925,16105,Germinal center,"ICOSLG, ICOSL; inducible T-cell co-stimulator ligand",-0.23008232,ICOSL
+121,Germinal center_ROI021,11177,16145,Germinal center,"ICOSLG, ICOSL; inducible T-cell co-stimulator ligand",-0.825650323,ICOSL
+122,Germinal center_ROI001,23975,27060,Germinal center,"ICOSLG, ICOSL; inducible T-cell co-stimulator ligand",0.176735792,ICOSL
+123,Germinal center_ROI004,25384,18364,Germinal center,"ICOSLG, ICOSL; inducible T-cell co-stimulator ligand",-0.0942446,ICOSL
+124,Paracortex zone_ROI018,26014,26134,Paracortex zone,"ICOSLG, ICOSL; inducible T-cell co-stimulator ligand",1.542760894,ICOSL
+125,Paracortex zone_ROI003,23615,27609,Paracortex zone,"ICOSLG, ICOSL; inducible T-cell co-stimulator ligand",1.335676177,ICOSL
+126,Paracortex zone_ROI009,10097,34409,Paracortex zone,"ICOSLG, ICOSL; inducible T-cell co-stimulator ligand",1.490561607,ICOSL
+127,Paracortex zone_ROI015,20756,36279,Paracortex zone,"ICOSLG, ICOSL; inducible T-cell co-stimulator ligand",1.457509907,ICOSL
+128,Paracortex zone_ROI006,25105,18785,Paracortex zone,"ICOSLG, ICOSL; inducible T-cell co-stimulator ligand",1.201029796,ICOSL
+129,Paracortex zone_ROI012,10169,32873,Paracortex zone,"ICOSLG, ICOSL; inducible T-cell co-stimulator ligand",1.302086413,ICOSL
+130,Mantle zone_ROI008,9380,34978,Mantle zone,"ICOSLG, ICOSL; inducible T-cell co-stimulator ligand",-1.25147993,ICOSL
+131,Mantle zone_ROI014,22224,36621,Mantle zone,"ICOSLG, ICOSL; inducible T-cell co-stimulator ligand",-0.804588357,ICOSL
+132,Mantle zone_ROI002,24303,27332,Mantle zone,"ICOSLG, ICOSL; inducible T-cell co-stimulator ligand",-1.584823976,ICOSL
+133,Mantle zone_ROI005,25645,18105,Mantle zone,"ICOSLG, ICOSL; inducible T-cell co-stimulator ligand",-2.138512518,ICOSL
+134,Mantle zone_ROI011,8967,33528,Mantle zone,"ICOSLG, ICOSL; inducible T-cell co-stimulator ligand",-0.753328982,ICOSL
+135,Mantle zone_ROI017,25314,27219,Mantle zone,"ICOSLG, ICOSL; inducible T-cell co-stimulator ligand",-0.867329507,ICOSL
+136,Germinal center_ROI027,21345,12134,Germinal center,Exosomal proteins of epithelial cells,0.332388961,EXO-E
+137,Germinal center_ROI026,27284,24303,Germinal center,Exosomal proteins of epithelial cells,-1.496844092,EXO-E
+138,Germinal center_ROI025,22106,13564,Germinal center,Exosomal proteins of epithelial cells,-0.110985172,EXO-E
+139,Germinal center_ROI022,7333,20899,Germinal center,Exosomal proteins of epithelial cells,0.61797686,EXO-E
+140,Germinal center_ROI024,20423,22880,Germinal center,Exosomal proteins of epithelial cells,-1.434313494,EXO-E
+141,Germinal center_ROI013,21798,36418,Germinal center,Exosomal proteins of epithelial cells,-0.674939604,EXO-E
+142,Germinal center_ROI023,12921,26841,Germinal center,Exosomal proteins of epithelial cells,-0.70423217,EXO-E
+143,Germinal center_ROI019,9260,15437,Germinal center,Exosomal proteins of epithelial cells,-0.919224941,EXO-E
+144,Germinal center_ROI007,9503,34845,Germinal center,Exosomal proteins of epithelial cells,-0.646815913,EXO-E
+145,Germinal center_ROI010,9318,33128,Germinal center,Exosomal proteins of epithelial cells,-1.092881279,EXO-E
+146,Germinal center_ROI016,25388,26749,Germinal center,Exosomal proteins of epithelial cells,-0.867921516,EXO-E
+147,Germinal center_ROI020,6925,16105,Germinal center,Exosomal proteins of epithelial cells,-0.531328709,EXO-E
+148,Germinal center_ROI021,11177,16145,Germinal center,Exosomal proteins of epithelial cells,0.715762695,EXO-E
+149,Germinal center_ROI001,23975,27060,Germinal center,Exosomal proteins of epithelial cells,-1.144733325,EXO-E
+150,Germinal center_ROI004,25384,18364,Germinal center,Exosomal proteins of epithelial cells,-0.561777502,EXO-E
+151,Paracortex zone_ROI018,26014,26134,Paracortex zone,Exosomal proteins of epithelial cells,0.301448488,EXO-E
+152,Paracortex zone_ROI003,23615,27609,Paracortex zone,Exosomal proteins of epithelial cells,0.810326452,EXO-E
+153,Paracortex zone_ROI009,10097,34409,Paracortex zone,Exosomal proteins of epithelial cells,0.236395149,EXO-E
+154,Paracortex zone_ROI015,20756,36279,Paracortex zone,Exosomal proteins of epithelial cells,0.702383325,EXO-E
+155,Paracortex zone_ROI006,25105,18785,Paracortex zone,Exosomal proteins of epithelial cells,2.17035082,EXO-E
+156,Paracortex zone_ROI012,10169,32873,Paracortex zone,Exosomal proteins of epithelial cells,2.286613319,EXO-E
+157,Mantle zone_ROI008,9380,34978,Mantle zone,Exosomal proteins of epithelial cells,-0.154386595,EXO-E
+158,Mantle zone_ROI014,22224,36621,Mantle zone,Exosomal proteins of epithelial cells,1.440750747,EXO-E
+159,Mantle zone_ROI002,24303,27332,Mantle zone,Exosomal proteins of epithelial cells,0.160706639,EXO-E
+160,Mantle zone_ROI005,25645,18105,Mantle zone,Exosomal proteins of epithelial cells,0.473274584,EXO-E
+161,Mantle zone_ROI011,8967,33528,Mantle zone,Exosomal proteins of epithelial cells,-0.669877091,EXO-E
+162,Mantle zone_ROI017,25314,27219,Mantle zone,Exosomal proteins of epithelial cells,0.761883365,EXO-E
+163,Germinal center_ROI027,21345,12134,Germinal center,CD209; CD209 antigen,-0.670887794,CD209
+164,Germinal center_ROI026,27284,24303,Germinal center,CD209; CD209 antigen,-0.075093687,CD209
+165,Germinal center_ROI025,22106,13564,Germinal center,CD209; CD209 antigen,0.908032987,CD209
+166,Germinal center_ROI022,7333,20899,Germinal center,CD209; CD209 antigen,0.310572483,CD209
+167,Germinal center_ROI024,20423,22880,Germinal center,CD209; CD209 antigen,-1.711951172,CD209
+168,Germinal center_ROI013,21798,36418,Germinal center,CD209; CD209 antigen,-1.093276706,CD209
+169,Germinal center_ROI023,12921,26841,Germinal center,CD209; CD209 antigen,-0.633644222,CD209
+170,Germinal center_ROI019,9260,15437,Germinal center,CD209; CD209 antigen,-1.15612227,CD209
+171,Germinal center_ROI007,9503,34845,Germinal center,CD209; CD209 antigen,-1.369391888,CD209
+172,Germinal center_ROI010,9318,33128,Germinal center,CD209; CD209 antigen,-0.690677238,CD209
+173,Germinal center_ROI016,25388,26749,Germinal center,CD209; CD209 antigen,-0.786267416,CD209
+174,Germinal center_ROI020,6925,16105,Germinal center,CD209; CD209 antigen,-1.513837006,CD209
+175,Germinal center_ROI021,11177,16145,Germinal center,CD209; CD209 antigen,0.722906085,CD209
+176,Germinal center_ROI001,23975,27060,Germinal center,CD209; CD209 antigen,-0.241521546,CD209
+177,Germinal center_ROI004,25384,18364,Germinal center,CD209; CD209 antigen,-0.378248796,CD209
+178,Paracortex zone_ROI018,26014,26134,Paracortex zone,CD209; CD209 antigen,-0.42979177,CD209
+179,Paracortex zone_ROI003,23615,27609,Paracortex zone,CD209; CD209 antigen,0.972627826,CD209
+180,Paracortex zone_ROI009,10097,34409,Paracortex zone,CD209; CD209 antigen,0.551037361,CD209
+181,Paracortex zone_ROI015,20756,36279,Paracortex zone,CD209; CD209 antigen,-0.214039026,CD209
+182,Paracortex zone_ROI006,25105,18785,Paracortex zone,CD209; CD209 antigen,2.201160483,CD209
+183,Paracortex zone_ROI012,10169,32873,Paracortex zone,CD209; CD209 antigen,1.165373234,CD209
+184,Mantle zone_ROI008,9380,34978,Mantle zone,CD209; CD209 antigen,0.403867715,CD209
+185,Mantle zone_ROI014,22224,36621,Mantle zone,CD209; CD209 antigen,0.315438,CD209
+186,Mantle zone_ROI002,24303,27332,Mantle zone,CD209; CD209 antigen,1.597726501,CD209
+187,Mantle zone_ROI005,25645,18105,Mantle zone,CD209; CD209 antigen,1.243063952,CD209
+188,Mantle zone_ROI011,8967,33528,Mantle zone,CD209; CD209 antigen,-0.244982257,CD209
+189,Mantle zone_ROI017,25314,27219,Mantle zone,CD209; CD209 antigen,0.817926167,CD209
+190,Germinal center_ROI027,21345,12134,Germinal center,"CD8B; CD8B antigen, beta polypeptide 1",0.589109289,CD8B 
+191,Germinal center_ROI026,27284,24303,Germinal center,"CD8B; CD8B antigen, beta polypeptide 1",-1.027342767,CD8B 
+192,Germinal center_ROI025,22106,13564,Germinal center,"CD8B; CD8B antigen, beta polypeptide 1",-0.387651736,CD8B 
+193,Germinal center_ROI022,7333,20899,Germinal center,"CD8B; CD8B antigen, beta polypeptide 1",0.127478765,CD8B 
+194,Germinal center_ROI024,20423,22880,Germinal center,"CD8B; CD8B antigen, beta polypeptide 1",-1.021072655,CD8B 
+195,Germinal center_ROI013,21798,36418,Germinal center,"CD8B; CD8B antigen, beta polypeptide 1",-0.246996759,CD8B 
+196,Germinal center_ROI023,12921,26841,Germinal center,"CD8B; CD8B antigen, beta polypeptide 1",0.113478844,CD8B 
+197,Germinal center_ROI019,9260,15437,Germinal center,"CD8B; CD8B antigen, beta polypeptide 1",-1.128859369,CD8B 
+198,Germinal center_ROI007,9503,34845,Germinal center,"CD8B; CD8B antigen, beta polypeptide 1",-1.345048589,CD8B 
+199,Germinal center_ROI010,9318,33128,Germinal center,"CD8B; CD8B antigen, beta polypeptide 1",-0.581345021,CD8B 
+200,Germinal center_ROI016,25388,26749,Germinal center,"CD8B; CD8B antigen, beta polypeptide 1",-0.794135479,CD8B 
+201,Germinal center_ROI020,6925,16105,Germinal center,"CD8B; CD8B antigen, beta polypeptide 1",-0.932882106,CD8B 
+202,Germinal center_ROI021,11177,16145,Germinal center,"CD8B; CD8B antigen, beta polypeptide 1",-1.421794159,CD8B 
+203,Germinal center_ROI001,23975,27060,Germinal center,"CD8B; CD8B antigen, beta polypeptide 1",-1.29492877,CD8B 
+204,Germinal center_ROI004,25384,18364,Germinal center,"CD8B; CD8B antigen, beta polypeptide 1",-1.14269806,CD8B 
+205,Paracortex zone_ROI018,26014,26134,Paracortex zone,"CD8B; CD8B antigen, beta polypeptide 1",0.766972284,CD8B 
+206,Paracortex zone_ROI003,23615,27609,Paracortex zone,"CD8B; CD8B antigen, beta polypeptide 1",0.851721152,CD8B 
+207,Paracortex zone_ROI009,10097,34409,Paracortex zone,"CD8B; CD8B antigen, beta polypeptide 1",1.313489967,CD8B 
+208,Paracortex zone_ROI015,20756,36279,Paracortex zone,"CD8B; CD8B antigen, beta polypeptide 1",1.918325155,CD8B 
+209,Paracortex zone_ROI006,25105,18785,Paracortex zone,"CD8B; CD8B antigen, beta polypeptide 1",0.74578082,CD8B 
+210,Paracortex zone_ROI012,10169,32873,Paracortex zone,"CD8B; CD8B antigen, beta polypeptide 1",0.748673731,CD8B 
+211,Mantle zone_ROI008,9380,34978,Mantle zone,"CD8B; CD8B antigen, beta polypeptide 1",-0.066393104,CD8B 
+212,Mantle zone_ROI014,22224,36621,Mantle zone,"CD8B; CD8B antigen, beta polypeptide 1",0.127254502,CD8B 
+213,Mantle zone_ROI002,24303,27332,Mantle zone,"CD8B; CD8B antigen, beta polypeptide 1",1.005237899,CD8B 
+214,Mantle zone_ROI005,25645,18105,Mantle zone,"CD8B; CD8B antigen, beta polypeptide 1",0.081143399,CD8B 
+215,Mantle zone_ROI011,8967,33528,Mantle zone,"CD8B; CD8B antigen, beta polypeptide 1",1.44076799,CD8B 
+216,Mantle zone_ROI017,25314,27219,Mantle zone,"CD8B; CD8B antigen, beta polypeptide 1",1.561714775,CD8B 
+217,Germinal center_ROI027,21345,12134,Germinal center,Human T-lymphotropic virus 1,0.589109289,HTLV1
+218,Germinal center_ROI026,27284,24303,Germinal center,Human T-lymphotropic virus 1,-1.027342767,HTLV1
+219,Germinal center_ROI025,22106,13564,Germinal center,Human T-lymphotropic virus 1,-0.387651736,HTLV1
+220,Germinal center_ROI022,7333,20899,Germinal center,Human T-lymphotropic virus 1,0.127478765,HTLV1
+221,Germinal center_ROI024,20423,22880,Germinal center,Human T-lymphotropic virus 1,-1.021072655,HTLV1
+222,Germinal center_ROI013,21798,36418,Germinal center,Human T-lymphotropic virus 1,-0.246996759,HTLV1
+223,Germinal center_ROI023,12921,26841,Germinal center,Human T-lymphotropic virus 1,0.113478844,HTLV1
+224,Germinal center_ROI019,9260,15437,Germinal center,Human T-lymphotropic virus 1,-1.128859369,HTLV1
+225,Germinal center_ROI007,9503,34845,Germinal center,Human T-lymphotropic virus 1,-1.345048589,HTLV1
+226,Germinal center_ROI010,9318,33128,Germinal center,Human T-lymphotropic virus 1,-0.581345021,HTLV1
+227,Germinal center_ROI016,25388,26749,Germinal center,Human T-lymphotropic virus 1,-0.794135479,HTLV1
+228,Germinal center_ROI020,6925,16105,Germinal center,Human T-lymphotropic virus 1,-0.932882106,HTLV1
+229,Germinal center_ROI021,11177,16145,Germinal center,Human T-lymphotropic virus 1,-1.421794159,HTLV1
+230,Germinal center_ROI001,23975,27060,Germinal center,Human T-lymphotropic virus 1,-1.29492877,HTLV1
+231,Germinal center_ROI004,25384,18364,Germinal center,Human T-lymphotropic virus 1,-1.14269806,HTLV1
+232,Paracortex zone_ROI018,26014,26134,Paracortex zone,Human T-lymphotropic virus 1,0.766972284,HTLV1
+233,Paracortex zone_ROI003,23615,27609,Paracortex zone,Human T-lymphotropic virus 1,0.851721152,HTLV1
+234,Paracortex zone_ROI009,10097,34409,Paracortex zone,Human T-lymphotropic virus 1,1.313489967,HTLV1
+235,Paracortex zone_ROI015,20756,36279,Paracortex zone,Human T-lymphotropic virus 1,1.918325155,HTLV1
+236,Paracortex zone_ROI006,25105,18785,Paracortex zone,Human T-lymphotropic virus 1,0.74578082,HTLV1
+237,Paracortex zone_ROI012,10169,32873,Paracortex zone,Human T-lymphotropic virus 1,0.748673731,HTLV1
+238,Mantle zone_ROI008,9380,34978,Mantle zone,Human T-lymphotropic virus 1,-0.066393104,HTLV1
+239,Mantle zone_ROI014,22224,36621,Mantle zone,Human T-lymphotropic virus 1,0.127254502,HTLV1
+240,Mantle zone_ROI002,24303,27332,Mantle zone,Human T-lymphotropic virus 1,1.005237899,HTLV1
+241,Mantle zone_ROI005,25645,18105,Mantle zone,Human T-lymphotropic virus 1,0.081143399,HTLV1
+242,Mantle zone_ROI011,8967,33528,Mantle zone,Human T-lymphotropic virus 1,1.44076799,HTLV1
+243,Mantle zone_ROI017,25314,27219,Mantle zone,Human T-lymphotropic virus 1,1.561714775,HTLV1
+244,Germinal center_ROI027,21345,12134,Germinal center,"CD8A; CD8A antigen, alpha polypeptide",0.589109289,CD8A 
+245,Germinal center_ROI026,27284,24303,Germinal center,"CD8A; CD8A antigen, alpha polypeptide",-1.027342767,CD8A 
+246,Germinal center_ROI025,22106,13564,Germinal center,"CD8A; CD8A antigen, alpha polypeptide",-0.387651736,CD8A 
+247,Germinal center_ROI022,7333,20899,Germinal center,"CD8A; CD8A antigen, alpha polypeptide",0.127478765,CD8A 
+248,Germinal center_ROI024,20423,22880,Germinal center,"CD8A; CD8A antigen, alpha polypeptide",-1.021072655,CD8A 
+249,Germinal center_ROI013,21798,36418,Germinal center,"CD8A; CD8A antigen, alpha polypeptide",-0.246996759,CD8A 
+250,Germinal center_ROI023,12921,26841,Germinal center,"CD8A; CD8A antigen, alpha polypeptide",0.113478844,CD8A 
+251,Germinal center_ROI019,9260,15437,Germinal center,"CD8A; CD8A antigen, alpha polypeptide",-1.128859369,CD8A 
+252,Germinal center_ROI007,9503,34845,Germinal center,"CD8A; CD8A antigen, alpha polypeptide",-1.345048589,CD8A 
+253,Germinal center_ROI010,9318,33128,Germinal center,"CD8A; CD8A antigen, alpha polypeptide",-0.581345021,CD8A 
+254,Germinal center_ROI016,25388,26749,Germinal center,"CD8A; CD8A antigen, alpha polypeptide",-0.794135479,CD8A 
+255,Germinal center_ROI020,6925,16105,Germinal center,"CD8A; CD8A antigen, alpha polypeptide",-0.932882106,CD8A 
+256,Germinal center_ROI021,11177,16145,Germinal center,"CD8A; CD8A antigen, alpha polypeptide",-1.421794159,CD8A 
+257,Germinal center_ROI001,23975,27060,Germinal center,"CD8A; CD8A antigen, alpha polypeptide",-1.29492877,CD8A 
+258,Germinal center_ROI004,25384,18364,Germinal center,"CD8A; CD8A antigen, alpha polypeptide",-1.14269806,CD8A 
+259,Paracortex zone_ROI018,26014,26134,Paracortex zone,"CD8A; CD8A antigen, alpha polypeptide",0.766972284,CD8A 
+260,Paracortex zone_ROI003,23615,27609,Paracortex zone,"CD8A; CD8A antigen, alpha polypeptide",0.851721152,CD8A 
+261,Paracortex zone_ROI009,10097,34409,Paracortex zone,"CD8A; CD8A antigen, alpha polypeptide",1.313489967,CD8A 
+262,Paracortex zone_ROI015,20756,36279,Paracortex zone,"CD8A; CD8A antigen, alpha polypeptide",1.918325155,CD8A 
+263,Paracortex zone_ROI006,25105,18785,Paracortex zone,"CD8A; CD8A antigen, alpha polypeptide",0.74578082,CD8A 
+264,Paracortex zone_ROI012,10169,32873,Paracortex zone,"CD8A; CD8A antigen, alpha polypeptide",0.748673731,CD8A 
+265,Mantle zone_ROI008,9380,34978,Mantle zone,"CD8A; CD8A antigen, alpha polypeptide",-0.066393104,CD8A 
+266,Mantle zone_ROI014,22224,36621,Mantle zone,"CD8A; CD8A antigen, alpha polypeptide",0.127254502,CD8A 
+267,Mantle zone_ROI002,24303,27332,Mantle zone,"CD8A; CD8A antigen, alpha polypeptide",1.005237899,CD8A 
+268,Mantle zone_ROI005,25645,18105,Mantle zone,"CD8A; CD8A antigen, alpha polypeptide",0.081143399,CD8A 
+269,Mantle zone_ROI011,8967,33528,Mantle zone,"CD8A; CD8A antigen, alpha polypeptide",1.44076799,CD8A 
+270,Mantle zone_ROI017,25314,27219,Mantle zone,"CD8A; CD8A antigen, alpha polypeptide",1.561714775,CD8A 
+271,Germinal center_ROI027,21345,12134,Germinal center,"Extracellular matrix (ECM) proteoglycans, Others",-1.929345074,ECM  
+272,Germinal center_ROI026,27284,24303,Germinal center,"Extracellular matrix (ECM) proteoglycans, Others",-0.043042672,ECM  
+273,Germinal center_ROI025,22106,13564,Germinal center,"Extracellular matrix (ECM) proteoglycans, Others",-0.207522916,ECM  
+274,Germinal center_ROI022,7333,20899,Germinal center,"Extracellular matrix (ECM) proteoglycans, Others",-0.211139107,ECM  
+275,Germinal center_ROI024,20423,22880,Germinal center,"Extracellular matrix (ECM) proteoglycans, Others",-0.135610163,ECM  
+276,Germinal center_ROI013,21798,36418,Germinal center,"Extracellular matrix (ECM) proteoglycans, Others",1.506564869,ECM  
+277,Germinal center_ROI023,12921,26841,Germinal center,"Extracellular matrix (ECM) proteoglycans, Others",0.108719139,ECM  
+278,Germinal center_ROI019,9260,15437,Germinal center,"Extracellular matrix (ECM) proteoglycans, Others",-0.970834949,ECM  
+279,Germinal center_ROI007,9503,34845,Germinal center,"Extracellular matrix (ECM) proteoglycans, Others",-0.910413397,ECM  
+280,Germinal center_ROI010,9318,33128,Germinal center,"Extracellular matrix (ECM) proteoglycans, Others",-0.396531251,ECM  
+281,Germinal center_ROI016,25388,26749,Germinal center,"Extracellular matrix (ECM) proteoglycans, Others",-1.498347186,ECM  
+282,Germinal center_ROI020,6925,16105,Germinal center,"Extracellular matrix (ECM) proteoglycans, Others",-0.926201836,ECM  
+283,Germinal center_ROI021,11177,16145,Germinal center,"Extracellular matrix (ECM) proteoglycans, Others",-0.564634377,ECM  
+284,Germinal center_ROI001,23975,27060,Germinal center,"Extracellular matrix (ECM) proteoglycans, Others",-1.59541127,ECM  
+285,Germinal center_ROI004,25384,18364,Germinal center,"Extracellular matrix (ECM) proteoglycans, Others",-0.834151672,ECM  
+286,Paracortex zone_ROI018,26014,26134,Paracortex zone,"Extracellular matrix (ECM) proteoglycans, Others",2.198096464,ECM  
+287,Paracortex zone_ROI003,23615,27609,Paracortex zone,"Extracellular matrix (ECM) proteoglycans, Others",0.878422121,ECM  
+288,Paracortex zone_ROI009,10097,34409,Paracortex zone,"Extracellular matrix (ECM) proteoglycans, Others",1.140745262,ECM  
+289,Paracortex zone_ROI015,20756,36279,Paracortex zone,"Extracellular matrix (ECM) proteoglycans, Others",0.922665555,ECM  
+290,Paracortex zone_ROI006,25105,18785,Paracortex zone,"Extracellular matrix (ECM) proteoglycans, Others",0.593702612,ECM  
+291,Paracortex zone_ROI012,10169,32873,Paracortex zone,"Extracellular matrix (ECM) proteoglycans, Others",0.588639389,ECM  
+292,Mantle zone_ROI008,9380,34978,Mantle zone,"Extracellular matrix (ECM) proteoglycans, Others",0.084934609,ECM  
+293,Mantle zone_ROI014,22224,36621,Mantle zone,"Extracellular matrix (ECM) proteoglycans, Others",1.253506462,ECM  
+294,Mantle zone_ROI002,24303,27332,Mantle zone,"Extracellular matrix (ECM) proteoglycans, Others",1.045435431,ECM  
+295,Mantle zone_ROI005,25645,18105,Mantle zone,"Extracellular matrix (ECM) proteoglycans, Others",0.301057586,ECM  
+296,Mantle zone_ROI011,8967,33528,Mantle zone,"Extracellular matrix (ECM) proteoglycans, Others",-0.192928763,ECM  
+297,Mantle zone_ROI017,25314,27219,Mantle zone,"Extracellular matrix (ECM) proteoglycans, Others",-0.206374868,ECM  
+298,Germinal center_ROI027,21345,12134,Germinal center,"SELL; selectin, lymphocyte",-1.352212975,SELL 
+299,Germinal center_ROI026,27284,24303,Germinal center,"SELL; selectin, lymphocyte",0.302715886,SELL 
+300,Germinal center_ROI025,22106,13564,Germinal center,"SELL; selectin, lymphocyte",-0.947846292,SELL 
+301,Germinal center_ROI022,7333,20899,Germinal center,"SELL; selectin, lymphocyte",-1.649931708,SELL 
+302,Germinal center_ROI024,20423,22880,Germinal center,"SELL; selectin, lymphocyte",-1.130453383,SELL 
+303,Germinal center_ROI013,21798,36418,Germinal center,"SELL; selectin, lymphocyte",-0.925234933,SELL 
+304,Germinal center_ROI023,12921,26841,Germinal center,"SELL; selectin, lymphocyte",-0.202344461,SELL 
+305,Germinal center_ROI019,9260,15437,Germinal center,"SELL; selectin, lymphocyte",-0.181386952,SELL 
+306,Germinal center_ROI007,9503,34845,Germinal center,"SELL; selectin, lymphocyte",-1.326504798,SELL 
+307,Germinal center_ROI010,9318,33128,Germinal center,"SELL; selectin, lymphocyte",-0.429466339,SELL 
+308,Germinal center_ROI016,25388,26749,Germinal center,"SELL; selectin, lymphocyte",-0.471971204,SELL 
+309,Germinal center_ROI020,6925,16105,Germinal center,"SELL; selectin, lymphocyte",0.059689482,SELL 
+310,Germinal center_ROI021,11177,16145,Germinal center,"SELL; selectin, lymphocyte",-0.916317878,SELL 
+311,Germinal center_ROI001,23975,27060,Germinal center,"SELL; selectin, lymphocyte",-0.511690476,SELL 
+312,Germinal center_ROI004,25384,18364,Germinal center,"SELL; selectin, lymphocyte",-0.839577423,SELL 
+313,Paracortex zone_ROI018,26014,26134,Paracortex zone,"SELL; selectin, lymphocyte",1.029700625,SELL 
+314,Paracortex zone_ROI003,23615,27609,Paracortex zone,"SELL; selectin, lymphocyte",0.994245139,SELL 
+315,Paracortex zone_ROI009,10097,34409,Paracortex zone,"SELL; selectin, lymphocyte",1.087791653,SELL 
+316,Paracortex zone_ROI015,20756,36279,Paracortex zone,"SELL; selectin, lymphocyte",1.449818209,SELL 
+317,Paracortex zone_ROI006,25105,18785,Paracortex zone,"SELL; selectin, lymphocyte",0.978532367,SELL 
+318,Paracortex zone_ROI012,10169,32873,Paracortex zone,"SELL; selectin, lymphocyte",0.98209837,SELL 
+319,Mantle zone_ROI008,9380,34978,Mantle zone,"SELL; selectin, lymphocyte",-0.817729578,SELL 
+320,Mantle zone_ROI014,22224,36621,Mantle zone,"SELL; selectin, lymphocyte",0.896380614,SELL 
+321,Mantle zone_ROI002,24303,27332,Mantle zone,"SELL; selectin, lymphocyte",1.619822875,SELL 
+322,Mantle zone_ROI005,25645,18105,Mantle zone,"SELL; selectin, lymphocyte",1.160566236,SELL 
+323,Mantle zone_ROI011,8967,33528,Mantle zone,"SELL; selectin, lymphocyte",-0.109166798,SELL 
+324,Mantle zone_ROI017,25314,27219,Mantle zone,"SELL; selectin, lymphocyte",1.250473742,SELL 
+325,Germinal center_ROI027,21345,12134,Germinal center,sialyl Lewis x antigen,-1.396412015,SiLXA
+326,Germinal center_ROI026,27284,24303,Germinal center,sialyl Lewis x antigen,0.675503837,SiLXA
+327,Germinal center_ROI025,22106,13564,Germinal center,sialyl Lewis x antigen,-0.614591112,SiLXA
+328,Germinal center_ROI022,7333,20899,Germinal center,sialyl Lewis x antigen,-0.24367491,SiLXA
+329,Germinal center_ROI024,20423,22880,Germinal center,sialyl Lewis x antigen,-0.808977935,SiLXA
+330,Germinal center_ROI013,21798,36418,Germinal center,sialyl Lewis x antigen,-0.158070265,SiLXA
+331,Germinal center_ROI023,12921,26841,Germinal center,sialyl Lewis x antigen,-0.833681645,SiLXA
+332,Germinal center_ROI019,9260,15437,Germinal center,sialyl Lewis x antigen,-0.261851285,SiLXA
+333,Germinal center_ROI007,9503,34845,Germinal center,sialyl Lewis x antigen,-1.892276224,SiLXA
+334,Germinal center_ROI010,9318,33128,Germinal center,sialyl Lewis x antigen,-1.100177369,SiLXA
+335,Germinal center_ROI016,25388,26749,Germinal center,sialyl Lewis x antigen,-0.516323892,SiLXA
+336,Germinal center_ROI020,6925,16105,Germinal center,sialyl Lewis x antigen,-0.683622411,SiLXA
+337,Germinal center_ROI021,11177,16145,Germinal center,sialyl Lewis x antigen,-0.088117808,SiLXA
+338,Germinal center_ROI001,23975,27060,Germinal center,sialyl Lewis x antigen,-0.95700838,SiLXA
+339,Germinal center_ROI004,25384,18364,Germinal center,sialyl Lewis x antigen,-1.088008531,SiLXA
+340,Paracortex zone_ROI018,26014,26134,Paracortex zone,sialyl Lewis x antigen,0.687231027,SiLXA
+341,Paracortex zone_ROI003,23615,27609,Paracortex zone,sialyl Lewis x antigen,0.508798974,SiLXA
+342,Paracortex zone_ROI009,10097,34409,Paracortex zone,sialyl Lewis x antigen,-0.103565224,SiLXA
+343,Paracortex zone_ROI015,20756,36279,Paracortex zone,sialyl Lewis x antigen,0.185333943,SiLXA
+344,Paracortex zone_ROI006,25105,18785,Paracortex zone,sialyl Lewis x antigen,1.230114578,SiLXA
+345,Paracortex zone_ROI012,10169,32873,Paracortex zone,sialyl Lewis x antigen,0.427056725,SiLXA
+346,Mantle zone_ROI008,9380,34978,Mantle zone,sialyl Lewis x antigen,1.018201343,SiLXA
+347,Mantle zone_ROI014,22224,36621,Mantle zone,sialyl Lewis x antigen,0.914266342,SiLXA
+348,Mantle zone_ROI002,24303,27332,Mantle zone,sialyl Lewis x antigen,2.832170357,SiLXA
+349,Mantle zone_ROI005,25645,18105,Mantle zone,sialyl Lewis x antigen,0.727537822,SiLXA
+350,Mantle zone_ROI011,8967,33528,Mantle zone,sialyl Lewis x antigen,0.758932494,SiLXA
+351,Mantle zone_ROI017,25314,27219,Mantle zone,sialyl Lewis x antigen,0.781211564,SiLXA
+352,Germinal center_ROI027,21345,12134,Germinal center,Macrophage receptos,2.368706339,MACR 
+353,Germinal center_ROI026,27284,24303,Germinal center,Macrophage receptos,-0.791384848,MACR 
+354,Germinal center_ROI025,22106,13564,Germinal center,Macrophage receptos,0.717373637,MACR 
+355,Germinal center_ROI022,7333,20899,Germinal center,Macrophage receptos,-1.012221589,MACR 
+356,Germinal center_ROI024,20423,22880,Germinal center,Macrophage receptos,0.633130262,MACR 
+357,Germinal center_ROI013,21798,36418,Germinal center,Macrophage receptos,-0.33507636,MACR 
+358,Germinal center_ROI023,12921,26841,Germinal center,Macrophage receptos,-1.021940485,MACR 
+359,Germinal center_ROI019,9260,15437,Germinal center,Macrophage receptos,0.187738723,MACR 
+360,Germinal center_ROI007,9503,34845,Germinal center,Macrophage receptos,-0.435552515,MACR 
+361,Germinal center_ROI010,9318,33128,Germinal center,Macrophage receptos,-0.431447774,MACR 
+362,Germinal center_ROI016,25388,26749,Germinal center,Macrophage receptos,-1.040872398,MACR 
+363,Germinal center_ROI020,6925,16105,Germinal center,Macrophage receptos,-1.123917225,MACR 
+364,Germinal center_ROI021,11177,16145,Germinal center,Macrophage receptos,-0.376120574,MACR 
+365,Germinal center_ROI001,23975,27060,Germinal center,Macrophage receptos,0.828851406,MACR 
+366,Germinal center_ROI004,25384,18364,Germinal center,Macrophage receptos,1.360598021,MACR 
+367,Paracortex zone_ROI018,26014,26134,Paracortex zone,Macrophage receptos,-1.593576588,MACR 
+368,Paracortex zone_ROI003,23615,27609,Paracortex zone,Macrophage receptos,0.288755411,MACR 
+369,Paracortex zone_ROI009,10097,34409,Paracortex zone,Macrophage receptos,-0.231073541,MACR 
+370,Paracortex zone_ROI015,20756,36279,Paracortex zone,Macrophage receptos,-0.633736941,MACR 
+371,Paracortex zone_ROI006,25105,18785,Paracortex zone,Macrophage receptos,0.333523974,MACR 
+372,Paracortex zone_ROI012,10169,32873,Paracortex zone,Macrophage receptos,-0.029618609,MACR 
+373,Mantle zone_ROI008,9380,34978,Mantle zone,Macrophage receptos,1.887700752,MACR 
+374,Mantle zone_ROI014,22224,36621,Mantle zone,Macrophage receptos,1.42005481,MACR 
+375,Mantle zone_ROI002,24303,27332,Mantle zone,Macrophage receptos,0.299079391,MACR 
+376,Mantle zone_ROI005,25645,18105,Mantle zone,Macrophage receptos,-1.218370749,MACR 
+377,Mantle zone_ROI011,8967,33528,Mantle zone,Macrophage receptos,0.639421567,MACR 
+378,Mantle zone_ROI017,25314,27219,Mantle zone,Macrophage receptos,-0.690024097,MACR 
+379,Germinal center_ROI027,21345,12134,Germinal center,TIGIT; T-cell immunoreceptor with Ig and ITIM domains,-0.262655292,TIGIT
+380,Germinal center_ROI026,27284,24303,Germinal center,TIGIT; T-cell immunoreceptor with Ig and ITIM domains,0.039193933,TIGIT
+381,Germinal center_ROI025,22106,13564,Germinal center,TIGIT; T-cell immunoreceptor with Ig and ITIM domains,0.637933295,TIGIT
+382,Germinal center_ROI022,7333,20899,Germinal center,TIGIT; T-cell immunoreceptor with Ig and ITIM domains,-0.163890628,TIGIT
+383,Germinal center_ROI024,20423,22880,Germinal center,TIGIT; T-cell immunoreceptor with Ig and ITIM domains,-0.00335132,TIGIT
+384,Germinal center_ROI013,21798,36418,Germinal center,TIGIT; T-cell immunoreceptor with Ig and ITIM domains,0.245190917,TIGIT
+385,Germinal center_ROI023,12921,26841,Germinal center,TIGIT; T-cell immunoreceptor with Ig and ITIM domains,-0.011870051,TIGIT
+386,Germinal center_ROI019,9260,15437,Germinal center,TIGIT; T-cell immunoreceptor with Ig and ITIM domains,0.378882472,TIGIT
+387,Germinal center_ROI007,9503,34845,Germinal center,TIGIT; T-cell immunoreceptor with Ig and ITIM domains,0.785161671,TIGIT
+388,Germinal center_ROI010,9318,33128,Germinal center,TIGIT; T-cell immunoreceptor with Ig and ITIM domains,1.43781303,TIGIT
+389,Germinal center_ROI016,25388,26749,Germinal center,TIGIT; T-cell immunoreceptor with Ig and ITIM domains,1.225872601,TIGIT
+390,Germinal center_ROI020,6925,16105,Germinal center,TIGIT; T-cell immunoreceptor with Ig and ITIM domains,0.525352746,TIGIT
+391,Germinal center_ROI021,11177,16145,Germinal center,TIGIT; T-cell immunoreceptor with Ig and ITIM domains,-0.915372866,TIGIT
+392,Germinal center_ROI001,23975,27060,Germinal center,TIGIT; T-cell immunoreceptor with Ig and ITIM domains,-0.417114508,TIGIT
+393,Germinal center_ROI004,25384,18364,Germinal center,TIGIT; T-cell immunoreceptor with Ig and ITIM domains,-0.44250887,TIGIT
+394,Paracortex zone_ROI018,26014,26134,Paracortex zone,TIGIT; T-cell immunoreceptor with Ig and ITIM domains,0.646977721,TIGIT
+395,Paracortex zone_ROI003,23615,27609,Paracortex zone,TIGIT; T-cell immunoreceptor with Ig and ITIM domains,-0.191404253,TIGIT
+396,Paracortex zone_ROI009,10097,34409,Paracortex zone,TIGIT; T-cell immunoreceptor with Ig and ITIM domains,-1.446448221,TIGIT
+397,Paracortex zone_ROI015,20756,36279,Paracortex zone,TIGIT; T-cell immunoreceptor with Ig and ITIM domains,-1.266658431,TIGIT
+398,Paracortex zone_ROI006,25105,18785,Paracortex zone,TIGIT; T-cell immunoreceptor with Ig and ITIM domains,-0.52341467,TIGIT
+399,Paracortex zone_ROI012,10169,32873,Paracortex zone,TIGIT; T-cell immunoreceptor with Ig and ITIM domains,0.250726318,TIGIT
+400,Mantle zone_ROI008,9380,34978,Mantle zone,TIGIT; T-cell immunoreceptor with Ig and ITIM domains,2.434594989,TIGIT
+401,Mantle zone_ROI014,22224,36621,Mantle zone,TIGIT; T-cell immunoreceptor with Ig and ITIM domains,0.035074628,TIGIT
+402,Mantle zone_ROI002,24303,27332,Mantle zone,TIGIT; T-cell immunoreceptor with Ig and ITIM domains,-1.043695241,TIGIT
+403,Mantle zone_ROI005,25645,18105,Mantle zone,TIGIT; T-cell immunoreceptor with Ig and ITIM domains,-2.558010473,TIGIT
+404,Mantle zone_ROI011,8967,33528,Mantle zone,TIGIT; T-cell immunoreceptor with Ig and ITIM domains,-0.531714307,TIGIT
+405,Mantle zone_ROI017,25314,27219,Mantle zone,TIGIT; T-cell immunoreceptor with Ig and ITIM domains,1.135334812,TIGIT
+406,Germinal center_ROI027,21345,12134,Germinal center,"IGSF4, NECL2, TSLC1; immunoglobulin superfamily, member 4",0.04608261,TSLC1
+407,Germinal center_ROI026,27284,24303,Germinal center,"IGSF4, NECL2, TSLC1; immunoglobulin superfamily, member 4",1.00065721,TSLC1
+408,Germinal center_ROI025,22106,13564,Germinal center,"IGSF4, NECL2, TSLC1; immunoglobulin superfamily, member 4",-0.105032723,TSLC1
+409,Germinal center_ROI022,7333,20899,Germinal center,"IGSF4, NECL2, TSLC1; immunoglobulin superfamily, member 4",-1.314771538,TSLC1
+410,Germinal center_ROI024,20423,22880,Germinal center,"IGSF4, NECL2, TSLC1; immunoglobulin superfamily, member 4",-0.711127008,TSLC1
+411,Germinal center_ROI013,21798,36418,Germinal center,"IGSF4, NECL2, TSLC1; immunoglobulin superfamily, member 4",0.523965892,TSLC1
+412,Germinal center_ROI023,12921,26841,Germinal center,"IGSF4, NECL2, TSLC1; immunoglobulin superfamily, member 4",0.819032557,TSLC1
+413,Germinal center_ROI019,9260,15437,Germinal center,"IGSF4, NECL2, TSLC1; immunoglobulin superfamily, member 4",-1.186544444,TSLC1
+414,Germinal center_ROI007,9503,34845,Germinal center,"IGSF4, NECL2, TSLC1; immunoglobulin superfamily, member 4",0.057131547,TSLC1
+415,Germinal center_ROI010,9318,33128,Germinal center,"IGSF4, NECL2, TSLC1; immunoglobulin superfamily, member 4",0.489969169,TSLC1
+416,Germinal center_ROI016,25388,26749,Germinal center,"IGSF4, NECL2, TSLC1; immunoglobulin superfamily, member 4",-0.335629209,TSLC1
+417,Germinal center_ROI020,6925,16105,Germinal center,"IGSF4, NECL2, TSLC1; immunoglobulin superfamily, member 4",-0.185940015,TSLC1
+418,Germinal center_ROI021,11177,16145,Germinal center,"IGSF4, NECL2, TSLC1; immunoglobulin superfamily, member 4",-0.800234425,TSLC1
+419,Germinal center_ROI001,23975,27060,Germinal center,"IGSF4, NECL2, TSLC1; immunoglobulin superfamily, member 4",-1.50128151,TSLC1
+420,Germinal center_ROI004,25384,18364,Germinal center,"IGSF4, NECL2, TSLC1; immunoglobulin superfamily, member 4",-0.512740709,TSLC1
+421,Paracortex zone_ROI018,26014,26134,Paracortex zone,"IGSF4, NECL2, TSLC1; immunoglobulin superfamily, member 4",0.210626389,TSLC1
+422,Paracortex zone_ROI003,23615,27609,Paracortex zone,"IGSF4, NECL2, TSLC1; immunoglobulin superfamily, member 4",-1.096274337,TSLC1
+423,Paracortex zone_ROI009,10097,34409,Paracortex zone,"IGSF4, NECL2, TSLC1; immunoglobulin superfamily, member 4",-0.951359905,TSLC1
+424,Paracortex zone_ROI015,20756,36279,Paracortex zone,"IGSF4, NECL2, TSLC1; immunoglobulin superfamily, member 4",-2.058981073,TSLC1
+425,Paracortex zone_ROI006,25105,18785,Paracortex zone,"IGSF4, NECL2, TSLC1; immunoglobulin superfamily, member 4",0.888547776,TSLC1
+426,Paracortex zone_ROI012,10169,32873,Paracortex zone,"IGSF4, NECL2, TSLC1; immunoglobulin superfamily, member 4",-0.098575206,TSLC1
+427,Mantle zone_ROI008,9380,34978,Mantle zone,"IGSF4, NECL2, TSLC1; immunoglobulin superfamily, member 4",1.622957499,TSLC1
+428,Mantle zone_ROI014,22224,36621,Mantle zone,"IGSF4, NECL2, TSLC1; immunoglobulin superfamily, member 4",0.614037565,TSLC1
+429,Mantle zone_ROI002,24303,27332,Mantle zone,"IGSF4, NECL2, TSLC1; immunoglobulin superfamily, member 4",0.228410808,TSLC1
+430,Mantle zone_ROI005,25645,18105,Mantle zone,"IGSF4, NECL2, TSLC1; immunoglobulin superfamily, member 4",1.044657771,TSLC1
+431,Mantle zone_ROI011,8967,33528,Mantle zone,"IGSF4, NECL2, TSLC1; immunoglobulin superfamily, member 4",1.556666743,TSLC1
+432,Mantle zone_ROI017,25314,27219,Mantle zone,"IGSF4, NECL2, TSLC1; immunoglobulin superfamily, member 4",1.755748564,TSLC1
+433,Germinal center_ROI027,21345,12134,Germinal center,ECM-receptor interaction,-1.10397638,ECMR 
+434,Germinal center_ROI026,27284,24303,Germinal center,ECM-receptor interaction,-0.724716403,ECMR 
+435,Germinal center_ROI025,22106,13564,Germinal center,ECM-receptor interaction,-0.786337707,ECMR 
+436,Germinal center_ROI022,7333,20899,Germinal center,ECM-receptor interaction,-0.156433829,ECMR 
+437,Germinal center_ROI024,20423,22880,Germinal center,ECM-receptor interaction,-1.654178533,ECMR 
+438,Germinal center_ROI013,21798,36418,Germinal center,ECM-receptor interaction,-0.198336439,ECMR 
+439,Germinal center_ROI023,12921,26841,Germinal center,ECM-receptor interaction,-0.689959952,ECMR 
+440,Germinal center_ROI019,9260,15437,Germinal center,ECM-receptor interaction,-0.05336023,ECMR 
+441,Germinal center_ROI007,9503,34845,Germinal center,ECM-receptor interaction,-0.274650164,ECMR 
+442,Germinal center_ROI010,9318,33128,Germinal center,ECM-receptor interaction,-0.163886369,ECMR 
+443,Germinal center_ROI016,25388,26749,Germinal center,ECM-receptor interaction,0.400866968,ECMR 
+444,Germinal center_ROI020,6925,16105,Germinal center,ECM-receptor interaction,0.955302647,ECMR 
+445,Germinal center_ROI021,11177,16145,Germinal center,ECM-receptor interaction,-0.869909022,ECMR 
+446,Germinal center_ROI001,23975,27060,Germinal center,ECM-receptor interaction,-1.926400281,ECMR 
+447,Germinal center_ROI004,25384,18364,Germinal center,ECM-receptor interaction,-1.156545671,ECMR 
+448,Paracortex zone_ROI018,26014,26134,Paracortex zone,ECM-receptor interaction,-0.1977184,ECMR 
+449,Paracortex zone_ROI003,23615,27609,Paracortex zone,ECM-receptor interaction,0.582236813,ECMR 
+450,Paracortex zone_ROI009,10097,34409,Paracortex zone,ECM-receptor interaction,-0.349937744,ECMR 
+451,Paracortex zone_ROI015,20756,36279,Paracortex zone,ECM-receptor interaction,-0.10294933,ECMR 
+452,Paracortex zone_ROI006,25105,18785,Paracortex zone,ECM-receptor interaction,0.91762683,ECMR 
+453,Paracortex zone_ROI012,10169,32873,Paracortex zone,ECM-receptor interaction,0.650035257,ECMR 
+454,Mantle zone_ROI008,9380,34978,Mantle zone,ECM-receptor interaction,1.578767681,ECMR 
+455,Mantle zone_ROI014,22224,36621,Mantle zone,ECM-receptor interaction,0.871644858,ECMR 
+456,Mantle zone_ROI002,24303,27332,Mantle zone,ECM-receptor interaction,-0.229656141,ECMR 
+457,Mantle zone_ROI005,25645,18105,Mantle zone,ECM-receptor interaction,0.757617921,ECMR 
+458,Mantle zone_ROI011,8967,33528,Mantle zone,ECM-receptor interaction,1.860514822,ECMR 
+459,Mantle zone_ROI017,25314,27219,Mantle zone,ECM-receptor interaction,2.064338798,ECMR 
+460,Germinal center_ROI027,21345,12134,Germinal center,CD44; CD44 antigen,-1.253439723,CD44 
+461,Germinal center_ROI026,27284,24303,Germinal center,CD44; CD44 antigen,-0.80114853,CD44 
+462,Germinal center_ROI025,22106,13564,Germinal center,CD44; CD44 antigen,-0.677523149,CD44 
+463,Germinal center_ROI022,7333,20899,Germinal center,CD44; CD44 antigen,-0.655320934,CD44 
+464,Germinal center_ROI024,20423,22880,Germinal center,CD44; CD44 antigen,-1.636497642,CD44 
+465,Germinal center_ROI013,21798,36418,Germinal center,CD44; CD44 antigen,0.512585977,CD44 
+466,Germinal center_ROI023,12921,26841,Germinal center,CD44; CD44 antigen,-0.699606957,CD44 
+467,Germinal center_ROI019,9260,15437,Germinal center,CD44; CD44 antigen,0.37545761,CD44 
+468,Germinal center_ROI007,9503,34845,Germinal center,CD44; CD44 antigen,-0.634394453,CD44 
+469,Germinal center_ROI010,9318,33128,Germinal center,CD44; CD44 antigen,0.180727511,CD44 
+470,Germinal center_ROI016,25388,26749,Germinal center,CD44; CD44 antigen,0.373997467,CD44 
+471,Germinal center_ROI020,6925,16105,Germinal center,CD44; CD44 antigen,1.643775512,CD44 
+472,Germinal center_ROI021,11177,16145,Germinal center,CD44; CD44 antigen,-0.187329597,CD44 
+473,Germinal center_ROI001,23975,27060,Germinal center,CD44; CD44 antigen,-0.687828805,CD44 
+474,Germinal center_ROI004,25384,18364,Germinal center,CD44; CD44 antigen,-0.630078924,CD44 
+475,Paracortex zone_ROI018,26014,26134,Paracortex zone,CD44; CD44 antigen,-0.389661256,CD44 
+476,Paracortex zone_ROI003,23615,27609,Paracortex zone,CD44; CD44 antigen,-0.030842381,CD44 
+477,Paracortex zone_ROI009,10097,34409,Paracortex zone,CD44; CD44 antigen,-1.379374508,CD44 
+478,Paracortex zone_ROI015,20756,36279,Paracortex zone,CD44; CD44 antigen,-0.198856813,CD44 
+479,Paracortex zone_ROI006,25105,18785,Paracortex zone,CD44; CD44 antigen,-0.459214806,CD44 
+480,Paracortex zone_ROI012,10169,32873,Paracortex zone,CD44; CD44 antigen,-0.563480762,CD44 
+481,Mantle zone_ROI008,9380,34978,Mantle zone,CD44; CD44 antigen,1.941145369,CD44 
+482,Mantle zone_ROI014,22224,36621,Mantle zone,CD44; CD44 antigen,1.754940455,CD44 
+483,Mantle zone_ROI002,24303,27332,Mantle zone,CD44; CD44 antigen,0.856113573,CD44 
+484,Mantle zone_ROI005,25645,18105,Mantle zone,CD44; CD44 antigen,0.723475646,CD44 
+485,Mantle zone_ROI011,8967,33528,Mantle zone,CD44; CD44 antigen,0.47496971,CD44 
+486,Mantle zone_ROI017,25314,27219,Mantle zone,CD44; CD44 antigen,2.047410409,CD44 
+487,Germinal center_ROI027,21345,12134,Germinal center,Autoimmune thyroid disease,-0.991787314,ATD  
+488,Germinal center_ROI026,27284,24303,Germinal center,Autoimmune thyroid disease,-1.000147636,ATD  
+489,Germinal center_ROI025,22106,13564,Germinal center,Autoimmune thyroid disease,1.05380122,ATD  
+490,Germinal center_ROI022,7333,20899,Germinal center,Autoimmune thyroid disease,2.075620325,ATD  
+491,Germinal center_ROI024,20423,22880,Germinal center,Autoimmune thyroid disease,2.094737261,ATD  
+492,Germinal center_ROI013,21798,36418,Germinal center,Autoimmune thyroid disease,1.013785336,ATD  
+493,Germinal center_ROI023,12921,26841,Germinal center,Autoimmune thyroid disease,-0.185707491,ATD  
+494,Germinal center_ROI019,9260,15437,Germinal center,Autoimmune thyroid disease,-0.340787162,ATD  
+495,Germinal center_ROI007,9503,34845,Germinal center,Autoimmune thyroid disease,-1.18191828,ATD  
+496,Germinal center_ROI010,9318,33128,Germinal center,Autoimmune thyroid disease,0.672212171,ATD  
+497,Germinal center_ROI016,25388,26749,Germinal center,Autoimmune thyroid disease,-0.973148726,ATD  
+498,Germinal center_ROI020,6925,16105,Germinal center,Autoimmune thyroid disease,-0.062726857,ATD  
+499,Germinal center_ROI021,11177,16145,Germinal center,Autoimmune thyroid disease,-0.504468341,ATD  
+500,Germinal center_ROI001,23975,27060,Germinal center,Autoimmune thyroid disease,-0.332216991,ATD  
+501,Germinal center_ROI004,25384,18364,Germinal center,Autoimmune thyroid disease,-0.678688752,ATD  
+502,Paracortex zone_ROI018,26014,26134,Paracortex zone,Autoimmune thyroid disease,-0.270890091,ATD  
+503,Paracortex zone_ROI003,23615,27609,Paracortex zone,Autoimmune thyroid disease,0.230567119,ATD  
+504,Paracortex zone_ROI009,10097,34409,Paracortex zone,Autoimmune thyroid disease,-1.468233202,ATD  
+505,Paracortex zone_ROI015,20756,36279,Paracortex zone,Autoimmune thyroid disease,-0.485764105,ATD  
+506,Paracortex zone_ROI006,25105,18785,Paracortex zone,Autoimmune thyroid disease,1.676543797,ATD  
+507,Paracortex zone_ROI012,10169,32873,Paracortex zone,Autoimmune thyroid disease,0.495455369,ATD  
+508,Mantle zone_ROI008,9380,34978,Mantle zone,Autoimmune thyroid disease,-0.57912715,ATD  
+509,Mantle zone_ROI014,22224,36621,Mantle zone,Autoimmune thyroid disease,0.602324567,ATD  
+510,Mantle zone_ROI002,24303,27332,Mantle zone,Autoimmune thyroid disease,-0.709213547,ATD  
+511,Mantle zone_ROI005,25645,18105,Mantle zone,Autoimmune thyroid disease,-1.193043479,ATD  
+512,Mantle zone_ROI011,8967,33528,Mantle zone,Autoimmune thyroid disease,-0.054383264,ATD  
+513,Mantle zone_ROI017,25314,27219,Mantle zone,Autoimmune thyroid disease,1.097205221,ATD  
+514,Germinal center_ROI027,21345,12134,Germinal center,"Infectious diseases, Bacterial invasion of epithelial cells",-0.944333494,BACT 
+515,Germinal center_ROI026,27284,24303,Germinal center,"Infectious diseases, Bacterial invasion of epithelial cells",-0.762672625,BACT 
+516,Germinal center_ROI025,22106,13564,Germinal center,"Infectious diseases, Bacterial invasion of epithelial cells",-0.495277343,BACT 
+517,Germinal center_ROI022,7333,20899,Germinal center,"Infectious diseases, Bacterial invasion of epithelial cells",0.373245825,BACT 
+518,Germinal center_ROI024,20423,22880,Germinal center,"Infectious diseases, Bacterial invasion of epithelial cells",-0.820785549,BACT 
+519,Germinal center_ROI013,21798,36418,Germinal center,"Infectious diseases, Bacterial invasion of epithelial cells",0.834837548,BACT 
+520,Germinal center_ROI023,12921,26841,Germinal center,"Infectious diseases, Bacterial invasion of epithelial cells",1.258484845,BACT 
+521,Germinal center_ROI019,9260,15437,Germinal center,"Infectious diseases, Bacterial invasion of epithelial cells",1.443494133,BACT 
+522,Germinal center_ROI007,9503,34845,Germinal center,"Infectious diseases, Bacterial invasion of epithelial cells",0.691151207,BACT 
+523,Germinal center_ROI010,9318,33128,Germinal center,"Infectious diseases, Bacterial invasion of epithelial cells",1.333640137,BACT 
+524,Germinal center_ROI016,25388,26749,Germinal center,"Infectious diseases, Bacterial invasion of epithelial cells",1.621250446,BACT 
+525,Germinal center_ROI020,6925,16105,Germinal center,"Infectious diseases, Bacterial invasion of epithelial cells",1.980871449,BACT 
+526,Germinal center_ROI021,11177,16145,Germinal center,"Infectious diseases, Bacterial invasion of epithelial cells",0.622765399,BACT 
+527,Germinal center_ROI001,23975,27060,Germinal center,"Infectious diseases, Bacterial invasion of epithelial cells",-0.100046187,BACT 
+528,Germinal center_ROI004,25384,18364,Germinal center,"Infectious diseases, Bacterial invasion of epithelial cells",0.722039173,BACT 
+529,Paracortex zone_ROI018,26014,26134,Paracortex zone,"Infectious diseases, Bacterial invasion of epithelial cells",0.586677428,BACT 
+530,Paracortex zone_ROI003,23615,27609,Paracortex zone,"Infectious diseases, Bacterial invasion of epithelial cells",-0.881694137,BACT 
+531,Paracortex zone_ROI009,10097,34409,Paracortex zone,"Infectious diseases, Bacterial invasion of epithelial cells",-0.775632097,BACT 
+532,Paracortex zone_ROI015,20756,36279,Paracortex zone,"Infectious diseases, Bacterial invasion of epithelial cells",-0.841603204,BACT 
+533,Paracortex zone_ROI006,25105,18785,Paracortex zone,"Infectious diseases, Bacterial invasion of epithelial cells",-0.213482884,BACT 
+534,Paracortex zone_ROI012,10169,32873,Paracortex zone,"Infectious diseases, Bacterial invasion of epithelial cells",-0.568913515,BACT 
+535,Mantle zone_ROI008,9380,34978,Mantle zone,"Infectious diseases, Bacterial invasion of epithelial cells",-1.057278476,BACT 
+536,Mantle zone_ROI014,22224,36621,Mantle zone,"Infectious diseases, Bacterial invasion of epithelial cells",-1.080106332,BACT 
+537,Mantle zone_ROI002,24303,27332,Mantle zone,"Infectious diseases, Bacterial invasion of epithelial cells",-1.945952666,BACT 
+538,Mantle zone_ROI005,25645,18105,Mantle zone,"Infectious diseases, Bacterial invasion of epithelial cells",-0.644205167,BACT 
+539,Mantle zone_ROI011,8967,33528,Mantle zone,"Infectious diseases, Bacterial invasion of epithelial cells",-0.295816006,BACT 
+540,Mantle zone_ROI017,25314,27219,Mantle zone,"Infectious diseases, Bacterial invasion of epithelial cells",-0.040657906,BACT 
+541,Germinal center_ROI027,21345,12134,Germinal center,CD2; CD2 antigen,-1.473909087,CD2  
+542,Germinal center_ROI026,27284,24303,Germinal center,CD2; CD2 antigen,-0.291875975,CD2  
+543,Germinal center_ROI025,22106,13564,Germinal center,CD2; CD2 antigen,0.0611969,CD2  
+544,Germinal center_ROI022,7333,20899,Germinal center,CD2; CD2 antigen,1.120211615,CD2  
+545,Germinal center_ROI024,20423,22880,Germinal center,CD2; CD2 antigen,0.689869824,CD2  
+546,Germinal center_ROI013,21798,36418,Germinal center,CD2; CD2 antigen,1.088941071,CD2  
+547,Germinal center_ROI023,12921,26841,Germinal center,CD2; CD2 antigen,0.604372473,CD2  
+548,Germinal center_ROI019,9260,15437,Germinal center,CD2; CD2 antigen,0.940297331,CD2  
+549,Germinal center_ROI007,9503,34845,Germinal center,CD2; CD2 antigen,1.350951462,CD2  
+550,Germinal center_ROI010,9318,33128,Germinal center,CD2; CD2 antigen,1.276037553,CD2  
+551,Germinal center_ROI016,25388,26749,Germinal center,CD2; CD2 antigen,0.707365377,CD2  
+552,Germinal center_ROI020,6925,16105,Germinal center,CD2; CD2 antigen,0.796255502,CD2  
+553,Germinal center_ROI021,11177,16145,Germinal center,CD2; CD2 antigen,0.849101733,CD2  
+554,Germinal center_ROI001,23975,27060,Germinal center,CD2; CD2 antigen,0.40342986,CD2  
+555,Germinal center_ROI004,25384,18364,Germinal center,CD2; CD2 antigen,0.05090694,CD2  
+556,Paracortex zone_ROI018,26014,26134,Paracortex zone,CD2; CD2 antigen,-0.064554772,CD2  
+557,Paracortex zone_ROI003,23615,27609,Paracortex zone,CD2; CD2 antigen,-0.28596645,CD2  
+558,Paracortex zone_ROI009,10097,34409,Paracortex zone,CD2; CD2 antigen,-2.417645518,CD2  
+559,Paracortex zone_ROI015,20756,36279,Paracortex zone,CD2; CD2 antigen,-1.229615633,CD2  
+560,Paracortex zone_ROI006,25105,18785,Paracortex zone,CD2; CD2 antigen,-0.01163887,CD2  
+561,Paracortex zone_ROI012,10169,32873,Paracortex zone,CD2; CD2 antigen,-0.056761622,CD2  
+562,Mantle zone_ROI008,9380,34978,Mantle zone,CD2; CD2 antigen,0.030622915,CD2  
+563,Mantle zone_ROI014,22224,36621,Mantle zone,CD2; CD2 antigen,-0.066660432,CD2  
+564,Mantle zone_ROI002,24303,27332,Mantle zone,CD2; CD2 antigen,-1.968032707,CD2  
+565,Mantle zone_ROI005,25645,18105,Mantle zone,CD2; CD2 antigen,-1.469197857,CD2  
+566,Mantle zone_ROI011,8967,33528,Mantle zone,CD2; CD2 antigen,0.138374751,CD2  
+567,Mantle zone_ROI017,25314,27219,Mantle zone,CD2; CD2 antigen,-0.772076382,CD2  
+568,Germinal center_ROI027,21345,12134,Germinal center,CD28; CD28 antigen,-0.466624532,CD28 
+569,Germinal center_ROI026,27284,24303,Germinal center,CD28; CD28 antigen,-0.636380816,CD28 
+570,Germinal center_ROI025,22106,13564,Germinal center,CD28; CD28 antigen,1.500091198,CD28 
+571,Germinal center_ROI022,7333,20899,Germinal center,CD28; CD28 antigen,0.920512168,CD28 
+572,Germinal center_ROI024,20423,22880,Germinal center,CD28; CD28 antigen,0.485968633,CD28 
+573,Germinal center_ROI013,21798,36418,Germinal center,CD28; CD28 antigen,1.014122147,CD28 
+574,Germinal center_ROI023,12921,26841,Germinal center,CD28; CD28 antigen,0.004883174,CD28 
+575,Germinal center_ROI019,9260,15437,Germinal center,CD28; CD28 antigen,1.159518753,CD28 
+576,Germinal center_ROI007,9503,34845,Germinal center,CD28; CD28 antigen,0.893157647,CD28 
+577,Germinal center_ROI010,9318,33128,Germinal center,CD28; CD28 antigen,2.036230682,CD28 
+578,Germinal center_ROI016,25388,26749,Germinal center,CD28; CD28 antigen,1.041272749,CD28 
+579,Germinal center_ROI020,6925,16105,Germinal center,CD28; CD28 antigen,0.7395087,CD28 
+580,Germinal center_ROI021,11177,16145,Germinal center,CD28; CD28 antigen,1.249517379,CD28 
+581,Germinal center_ROI001,23975,27060,Germinal center,CD28; CD28 antigen,0.043093413,CD28 
+582,Germinal center_ROI004,25384,18364,Germinal center,CD28; CD28 antigen,0.373650157,CD28 
+583,Paracortex zone_ROI018,26014,26134,Paracortex zone,CD28; CD28 antigen,-1.503329545,CD28 
+584,Paracortex zone_ROI003,23615,27609,Paracortex zone,CD28; CD28 antigen,-1.022023423,CD28 
+585,Paracortex zone_ROI009,10097,34409,Paracortex zone,CD28; CD28 antigen,-1.456497404,CD28 
+586,Paracortex zone_ROI015,20756,36279,Paracortex zone,CD28; CD28 antigen,-1.176666328,CD28 
+587,Paracortex zone_ROI006,25105,18785,Paracortex zone,CD28; CD28 antigen,-0.809971874,CD28 
+588,Paracortex zone_ROI012,10169,32873,Paracortex zone,CD28; CD28 antigen,-1.465317524,CD28 
+589,Mantle zone_ROI008,9380,34978,Mantle zone,CD28; CD28 antigen,-0.135601471,CD28 
+590,Mantle zone_ROI014,22224,36621,Mantle zone,CD28; CD28 antigen,-0.568146541,CD28 
+591,Mantle zone_ROI002,24303,27332,Mantle zone,CD28; CD28 antigen,-0.471082435,CD28 
+592,Mantle zone_ROI005,25645,18105,Mantle zone,CD28; CD28 antigen,-0.307013821,CD28 
+593,Mantle zone_ROI011,8967,33528,Mantle zone,CD28; CD28 antigen,-0.520522583,CD28 
+594,Mantle zone_ROI017,25314,27219,Mantle zone,CD28; CD28 antigen,-0.922348504,CD28 
+595,Germinal center_ROI027,21345,12134,Germinal center,"CTLA4, CD152; cytotoxic T-lymphocyte-associated protein 4",-0.466624532,CTLA4
+596,Germinal center_ROI026,27284,24303,Germinal center,"CTLA4, CD152; cytotoxic T-lymphocyte-associated protein 4",-0.636380816,CTLA4
+597,Germinal center_ROI025,22106,13564,Germinal center,"CTLA4, CD152; cytotoxic T-lymphocyte-associated protein 4",1.500091198,CTLA4
+598,Germinal center_ROI022,7333,20899,Germinal center,"CTLA4, CD152; cytotoxic T-lymphocyte-associated protein 4",0.920512168,CTLA4
+599,Germinal center_ROI024,20423,22880,Germinal center,"CTLA4, CD152; cytotoxic T-lymphocyte-associated protein 4",0.485968633,CTLA4
+600,Germinal center_ROI013,21798,36418,Germinal center,"CTLA4, CD152; cytotoxic T-lymphocyte-associated protein 4",1.014122147,CTLA4
+601,Germinal center_ROI023,12921,26841,Germinal center,"CTLA4, CD152; cytotoxic T-lymphocyte-associated protein 4",0.004883174,CTLA4
+602,Germinal center_ROI019,9260,15437,Germinal center,"CTLA4, CD152; cytotoxic T-lymphocyte-associated protein 4",1.159518753,CTLA4
+603,Germinal center_ROI007,9503,34845,Germinal center,"CTLA4, CD152; cytotoxic T-lymphocyte-associated protein 4",0.893157647,CTLA4
+604,Germinal center_ROI010,9318,33128,Germinal center,"CTLA4, CD152; cytotoxic T-lymphocyte-associated protein 4",2.036230682,CTLA4
+605,Germinal center_ROI016,25388,26749,Germinal center,"CTLA4, CD152; cytotoxic T-lymphocyte-associated protein 4",1.041272749,CTLA4
+606,Germinal center_ROI020,6925,16105,Germinal center,"CTLA4, CD152; cytotoxic T-lymphocyte-associated protein 4",0.7395087,CTLA4
+607,Germinal center_ROI021,11177,16145,Germinal center,"CTLA4, CD152; cytotoxic T-lymphocyte-associated protein 4",1.249517379,CTLA4
+608,Germinal center_ROI001,23975,27060,Germinal center,"CTLA4, CD152; cytotoxic T-lymphocyte-associated protein 4",0.043093413,CTLA4
+609,Germinal center_ROI004,25384,18364,Germinal center,"CTLA4, CD152; cytotoxic T-lymphocyte-associated protein 4",0.373650157,CTLA4
+610,Paracortex zone_ROI018,26014,26134,Paracortex zone,"CTLA4, CD152; cytotoxic T-lymphocyte-associated protein 4",-1.503329545,CTLA4
+611,Paracortex zone_ROI003,23615,27609,Paracortex zone,"CTLA4, CD152; cytotoxic T-lymphocyte-associated protein 4",-1.022023423,CTLA4
+612,Paracortex zone_ROI009,10097,34409,Paracortex zone,"CTLA4, CD152; cytotoxic T-lymphocyte-associated protein 4",-1.456497404,CTLA4
+613,Paracortex zone_ROI015,20756,36279,Paracortex zone,"CTLA4, CD152; cytotoxic T-lymphocyte-associated protein 4",-1.176666328,CTLA4
+614,Paracortex zone_ROI006,25105,18785,Paracortex zone,"CTLA4, CD152; cytotoxic T-lymphocyte-associated protein 4",-0.809971874,CTLA4
+615,Paracortex zone_ROI012,10169,32873,Paracortex zone,"CTLA4, CD152; cytotoxic T-lymphocyte-associated protein 4",-1.465317524,CTLA4
+616,Mantle zone_ROI008,9380,34978,Mantle zone,"CTLA4, CD152; cytotoxic T-lymphocyte-associated protein 4",-0.135601471,CTLA4
+617,Mantle zone_ROI014,22224,36621,Mantle zone,"CTLA4, CD152; cytotoxic T-lymphocyte-associated protein 4",-0.568146541,CTLA4
+618,Mantle zone_ROI002,24303,27332,Mantle zone,"CTLA4, CD152; cytotoxic T-lymphocyte-associated protein 4",-0.471082435,CTLA4
+619,Mantle zone_ROI005,25645,18105,Mantle zone,"CTLA4, CD152; cytotoxic T-lymphocyte-associated protein 4",-0.307013821,CTLA4
+620,Mantle zone_ROI011,8967,33528,Mantle zone,"CTLA4, CD152; cytotoxic T-lymphocyte-associated protein 4",-0.520522583,CTLA4
+621,Mantle zone_ROI017,25314,27219,Mantle zone,"CTLA4, CD152; cytotoxic T-lymphocyte-associated protein 4",-0.922348504,CTLA4
+622,Germinal center_ROI027,21345,12134,Germinal center,"Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)",0.630883196,EXO-H
+623,Germinal center_ROI026,27284,24303,Germinal center,"Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)",0.871439292,EXO-H
+624,Germinal center_ROI025,22106,13564,Germinal center,"Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)",0.599212216,EXO-H
+625,Germinal center_ROI022,7333,20899,Germinal center,"Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)",0.798056843,EXO-H
+626,Germinal center_ROI024,20423,22880,Germinal center,"Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)",0.684704543,EXO-H
+627,Germinal center_ROI013,21798,36418,Germinal center,"Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)",0.885860733,EXO-H
+628,Germinal center_ROI023,12921,26841,Germinal center,"Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)",0.472170318,EXO-H
+629,Germinal center_ROI019,9260,15437,Germinal center,"Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)",0.779356634,EXO-H
+630,Germinal center_ROI007,9503,34845,Germinal center,"Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)",1.133970537,EXO-H
+631,Germinal center_ROI010,9318,33128,Germinal center,"Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)",0.918765313,EXO-H
+632,Germinal center_ROI016,25388,26749,Germinal center,"Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)",0.911356241,EXO-H
+633,Germinal center_ROI020,6925,16105,Germinal center,"Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)",0.823217655,EXO-H
+634,Germinal center_ROI021,11177,16145,Germinal center,"Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)",0.91559123,EXO-H
+635,Germinal center_ROI001,23975,27060,Germinal center,"Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)",0.846598132,EXO-H
+636,Germinal center_ROI004,25384,18364,Germinal center,"Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)",0.854560867,EXO-H
+637,Paracortex zone_ROI018,26014,26134,Paracortex zone,"Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)",-0.185659969,EXO-H
+638,Paracortex zone_ROI003,23615,27609,Paracortex zone,"Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)",-0.427174003,EXO-H
+639,Paracortex zone_ROI009,10097,34409,Paracortex zone,"Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)",-1.28788484,EXO-H
+640,Paracortex zone_ROI015,20756,36279,Paracortex zone,"Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)",-0.92692064,EXO-H
+641,Paracortex zone_ROI006,25105,18785,Paracortex zone,"Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)",-0.279768942,EXO-H
+642,Paracortex zone_ROI012,10169,32873,Paracortex zone,"Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)",-2.059151061,EXO-H
+643,Mantle zone_ROI008,9380,34978,Mantle zone,"Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)",-1.404266655,EXO-H
+644,Mantle zone_ROI014,22224,36621,Mantle zone,"Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)",-1.511105305,EXO-H
+645,Mantle zone_ROI002,24303,27332,Mantle zone,"Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)",-1.496067447,EXO-H
+646,Mantle zone_ROI005,25645,18105,Mantle zone,"Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)",-1.090689661,EXO-H
+647,Mantle zone_ROI011,8967,33528,Mantle zone,"Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)",-0.872144179,EXO-H
+648,Mantle zone_ROI017,25314,27219,Mantle zone,"Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)",-0.584911049,EXO-H
+649,Germinal center_ROI027,21345,12134,Germinal center,Viral carcinogenesis,0.842297955,VIR-C
+650,Germinal center_ROI026,27284,24303,Germinal center,Viral carcinogenesis,1.136777389,VIR-C
+651,Germinal center_ROI025,22106,13564,Germinal center,Viral carcinogenesis,-0.232089573,VIR-C
+652,Germinal center_ROI022,7333,20899,Germinal center,Viral carcinogenesis,1.116109337,VIR-C
+653,Germinal center_ROI024,20423,22880,Germinal center,Viral carcinogenesis,0.414423553,VIR-C
+654,Germinal center_ROI013,21798,36418,Germinal center,Viral carcinogenesis,1.058019667,VIR-C
+655,Germinal center_ROI023,12921,26841,Germinal center,Viral carcinogenesis,0.234945735,VIR-C
+656,Germinal center_ROI019,9260,15437,Germinal center,Viral carcinogenesis,0.996244342,VIR-C
+657,Germinal center_ROI007,9503,34845,Germinal center,Viral carcinogenesis,0.843989787,VIR-C
+658,Germinal center_ROI010,9318,33128,Germinal center,Viral carcinogenesis,0.651153627,VIR-C
+659,Germinal center_ROI016,25388,26749,Germinal center,Viral carcinogenesis,0.800659166,VIR-C
+660,Germinal center_ROI020,6925,16105,Germinal center,Viral carcinogenesis,0.874756433,VIR-C
+661,Germinal center_ROI021,11177,16145,Germinal center,Viral carcinogenesis,1.039500927,VIR-C
+662,Germinal center_ROI001,23975,27060,Germinal center,Viral carcinogenesis,1.043437698,VIR-C
+663,Germinal center_ROI004,25384,18364,Germinal center,Viral carcinogenesis,0.918982228,VIR-C
+664,Paracortex zone_ROI018,26014,26134,Paracortex zone,Viral carcinogenesis,-0.022485713,VIR-C
+665,Paracortex zone_ROI003,23615,27609,Paracortex zone,Viral carcinogenesis,-0.564322695,VIR-C
+666,Paracortex zone_ROI009,10097,34409,Paracortex zone,Viral carcinogenesis,-1.601042361,VIR-C
+667,Paracortex zone_ROI015,20756,36279,Paracortex zone,Viral carcinogenesis,-0.518352606,VIR-C
+668,Paracortex zone_ROI006,25105,18785,Paracortex zone,Viral carcinogenesis,-0.400159401,VIR-C
+669,Paracortex zone_ROI012,10169,32873,Paracortex zone,Viral carcinogenesis,-1.887449764,VIR-C
+670,Mantle zone_ROI008,9380,34978,Mantle zone,Viral carcinogenesis,-1.191494786,VIR-C
+671,Mantle zone_ROI014,22224,36621,Mantle zone,Viral carcinogenesis,-1.092700256,VIR-C
+672,Mantle zone_ROI002,24303,27332,Mantle zone,Viral carcinogenesis,-1.392930623,VIR-C
+673,Mantle zone_ROI005,25645,18105,Mantle zone,Viral carcinogenesis,-1.419480561,VIR-C
+674,Mantle zone_ROI011,8967,33528,Mantle zone,Viral carcinogenesis,-0.853980618,VIR-C
+675,Mantle zone_ROI017,25314,27219,Mantle zone,Viral carcinogenesis,-0.794808886,VIR-C
+676,Germinal center_ROI027,21345,12134,Germinal center,Primary immunodeficiency,0.371831444,PID  
+677,Germinal center_ROI026,27284,24303,Germinal center,Primary immunodeficiency,1.115806266,PID  
+678,Germinal center_ROI025,22106,13564,Germinal center,Primary immunodeficiency,1.708726122,PID  
+679,Germinal center_ROI022,7333,20899,Germinal center,Primary immunodeficiency,1.203960993,PID  
+680,Germinal center_ROI024,20423,22880,Germinal center,Primary immunodeficiency,1.575584484,PID  
+681,Germinal center_ROI013,21798,36418,Germinal center,Primary immunodeficiency,0.625858805,PID  
+682,Germinal center_ROI023,12921,26841,Germinal center,Primary immunodeficiency,-0.003282385,PID  
+683,Germinal center_ROI019,9260,15437,Germinal center,Primary immunodeficiency,1.456168898,PID  
+684,Germinal center_ROI007,9503,34845,Germinal center,Primary immunodeficiency,-0.32158328,PID  
+685,Germinal center_ROI010,9318,33128,Germinal center,Primary immunodeficiency,0.078189784,PID  
+686,Germinal center_ROI016,25388,26749,Germinal center,Primary immunodeficiency,-1.191809175,PID  
+687,Germinal center_ROI020,6925,16105,Germinal center,Primary immunodeficiency,0.523735652,PID  
+688,Germinal center_ROI021,11177,16145,Germinal center,Primary immunodeficiency,0.034120125,PID  
+689,Germinal center_ROI001,23975,27060,Germinal center,Primary immunodeficiency,0.544517213,PID  
+690,Germinal center_ROI004,25384,18364,Germinal center,Primary immunodeficiency,0.485797515,PID  
+691,Paracortex zone_ROI018,26014,26134,Paracortex zone,Primary immunodeficiency,-0.900022619,PID  
+692,Paracortex zone_ROI003,23615,27609,Paracortex zone,Primary immunodeficiency,-0.968306102,PID  
+693,Paracortex zone_ROI009,10097,34409,Paracortex zone,Primary immunodeficiency,-1.881336329,PID  
+694,Paracortex zone_ROI015,20756,36279,Paracortex zone,Primary immunodeficiency,-2.085889256,PID  
+695,Paracortex zone_ROI006,25105,18785,Paracortex zone,Primary immunodeficiency,0.727424283,PID  
+696,Paracortex zone_ROI012,10169,32873,Paracortex zone,Primary immunodeficiency,-0.003597128,PID  
+697,Mantle zone_ROI008,9380,34978,Mantle zone,Primary immunodeficiency,-0.600620809,PID  
+698,Mantle zone_ROI014,22224,36621,Mantle zone,Primary immunodeficiency,-0.170759949,PID  
+699,Mantle zone_ROI002,24303,27332,Mantle zone,Primary immunodeficiency,-0.47882581,PID  
+700,Mantle zone_ROI005,25645,18105,Mantle zone,Primary immunodeficiency,-1.410392866,PID  
+701,Mantle zone_ROI011,8967,33528,Mantle zone,Primary immunodeficiency,-0.068246127,PID  
+702,Mantle zone_ROI017,25314,27219,Mantle zone,Primary immunodeficiency,-0.36704975,PID  
+703,Germinal center_ROI027,21345,12134,Germinal center,Viral myocarditis,-0.514649475,VIR-M
+704,Germinal center_ROI026,27284,24303,Germinal center,Viral myocarditis,0.810478295,VIR-M
+705,Germinal center_ROI025,22106,13564,Germinal center,Viral myocarditis,0.080548326,VIR-M
+706,Germinal center_ROI022,7333,20899,Germinal center,Viral myocarditis,0.987781482,VIR-M
+707,Germinal center_ROI024,20423,22880,Germinal center,Viral myocarditis,1.548021913,VIR-M
+708,Germinal center_ROI013,21798,36418,Germinal center,Viral myocarditis,0.885794904,VIR-M
+709,Germinal center_ROI023,12921,26841,Germinal center,Viral myocarditis,0.782682498,VIR-M
+710,Germinal center_ROI019,9260,15437,Germinal center,Viral myocarditis,-0.06133655,VIR-M
+711,Germinal center_ROI007,9503,34845,Germinal center,Viral myocarditis,0.485372106,VIR-M
+712,Germinal center_ROI010,9318,33128,Germinal center,Viral myocarditis,1.08855427,VIR-M
+713,Germinal center_ROI016,25388,26749,Germinal center,Viral myocarditis,-0.317854117,VIR-M
+714,Germinal center_ROI020,6925,16105,Germinal center,Viral myocarditis,-0.436137191,VIR-M
+715,Germinal center_ROI021,11177,16145,Germinal center,Viral myocarditis,-0.191361601,VIR-M
+716,Germinal center_ROI001,23975,27060,Germinal center,Viral myocarditis,0.041480136,VIR-M
+717,Germinal center_ROI004,25384,18364,Germinal center,Viral myocarditis,0.211393517,VIR-M
+718,Paracortex zone_ROI018,26014,26134,Paracortex zone,Viral myocarditis,-1.693392255,VIR-M
+719,Paracortex zone_ROI003,23615,27609,Paracortex zone,Viral myocarditis,0.335632833,VIR-M
+720,Paracortex zone_ROI009,10097,34409,Paracortex zone,Viral myocarditis,-2.419321551,VIR-M
+721,Paracortex zone_ROI015,20756,36279,Paracortex zone,Viral myocarditis,-1.767800917,VIR-M
+722,Paracortex zone_ROI006,25105,18785,Paracortex zone,Viral myocarditis,1.378805096,VIR-M
+723,Paracortex zone_ROI012,10169,32873,Paracortex zone,Viral myocarditis,-1.643288956,VIR-M
+724,Mantle zone_ROI008,9380,34978,Mantle zone,Viral myocarditis,-0.620101154,VIR-M
+725,Mantle zone_ROI014,22224,36621,Mantle zone,Viral myocarditis,-0.41321723,VIR-M
+726,Mantle zone_ROI002,24303,27332,Mantle zone,Viral myocarditis,0.35985759,VIR-M
+727,Mantle zone_ROI005,25645,18105,Mantle zone,Viral myocarditis,-0.370326868,VIR-M
+728,Mantle zone_ROI011,8967,33528,Mantle zone,Viral myocarditis,0.909633974,VIR-M
+729,Mantle zone_ROI017,25314,27219,Mantle zone,Viral myocarditis,0.542750926,VIR-M
+730,Germinal center_ROI027,21345,12134,Germinal center,Epithelial cell signaling in Helicobacter pylori infection,0.208563086,H.PYL
+731,Germinal center_ROI026,27284,24303,Germinal center,Epithelial cell signaling in Helicobacter pylori infection,-0.230995546,H.PYL
+732,Germinal center_ROI025,22106,13564,Germinal center,Epithelial cell signaling in Helicobacter pylori infection,1.769593413,H.PYL
+733,Germinal center_ROI022,7333,20899,Germinal center,Epithelial cell signaling in Helicobacter pylori infection,0.26356676,H.PYL
+734,Germinal center_ROI024,20423,22880,Germinal center,Epithelial cell signaling in Helicobacter pylori infection,-0.358366107,H.PYL
+735,Germinal center_ROI013,21798,36418,Germinal center,Epithelial cell signaling in Helicobacter pylori infection,0.70504405,H.PYL
+736,Germinal center_ROI023,12921,26841,Germinal center,Epithelial cell signaling in Helicobacter pylori infection,0.287457774,H.PYL
+737,Germinal center_ROI019,9260,15437,Germinal center,Epithelial cell signaling in Helicobacter pylori infection,0.64164863,H.PYL
+738,Germinal center_ROI007,9503,34845,Germinal center,Epithelial cell signaling in Helicobacter pylori infection,0.656087651,H.PYL
+739,Germinal center_ROI010,9318,33128,Germinal center,Epithelial cell signaling in Helicobacter pylori infection,0.736913065,H.PYL
+740,Germinal center_ROI016,25388,26749,Germinal center,Epithelial cell signaling in Helicobacter pylori infection,0.910187609,H.PYL
+741,Germinal center_ROI020,6925,16105,Germinal center,Epithelial cell signaling in Helicobacter pylori infection,-0.036884082,H.PYL
+742,Germinal center_ROI021,11177,16145,Germinal center,Epithelial cell signaling in Helicobacter pylori infection,0.365817713,H.PYL
+743,Germinal center_ROI001,23975,27060,Germinal center,Epithelial cell signaling in Helicobacter pylori infection,-0.382391447,H.PYL
+744,Germinal center_ROI004,25384,18364,Germinal center,Epithelial cell signaling in Helicobacter pylori infection,0.507976267,H.PYL
+745,Paracortex zone_ROI018,26014,26134,Paracortex zone,Epithelial cell signaling in Helicobacter pylori infection,-1.254965296,H.PYL
+746,Paracortex zone_ROI003,23615,27609,Paracortex zone,Epithelial cell signaling in Helicobacter pylori infection,-1.095979759,H.PYL
+747,Paracortex zone_ROI009,10097,34409,Paracortex zone,Epithelial cell signaling in Helicobacter pylori infection,-2.001238192,H.PYL
+748,Paracortex zone_ROI015,20756,36279,Paracortex zone,Epithelial cell signaling in Helicobacter pylori infection,-3.014307309,H.PYL
+749,Paracortex zone_ROI006,25105,18785,Paracortex zone,Epithelial cell signaling in Helicobacter pylori infection,0.302073931,H.PYL
+750,Paracortex zone_ROI012,10169,32873,Paracortex zone,Epithelial cell signaling in Helicobacter pylori infection,-0.798860172,H.PYL
+751,Mantle zone_ROI008,9380,34978,Mantle zone,Epithelial cell signaling in Helicobacter pylori infection,-0.001223234,H.PYL
+752,Mantle zone_ROI014,22224,36621,Mantle zone,Epithelial cell signaling in Helicobacter pylori infection,0.783742458,H.PYL
+753,Mantle zone_ROI002,24303,27332,Mantle zone,Epithelial cell signaling in Helicobacter pylori infection,0.505125878,H.PYL
+754,Mantle zone_ROI005,25645,18105,Mantle zone,Epithelial cell signaling in Helicobacter pylori infection,0.21119342,H.PYL
+755,Mantle zone_ROI011,8967,33528,Mantle zone,Epithelial cell signaling in Helicobacter pylori infection,1.076395426,H.PYL
+756,Mantle zone_ROI017,25314,27219,Mantle zone,Epithelial cell signaling in Helicobacter pylori infection,-0.756175985,H.PYL
+757,Germinal center_ROI027,21345,12134,Germinal center,B cell receptor signaling pathway,0.183976872,BCR  
+758,Germinal center_ROI026,27284,24303,Germinal center,B cell receptor signaling pathway,0.11258378,BCR  
+759,Germinal center_ROI025,22106,13564,Germinal center,B cell receptor signaling pathway,-0.147945973,BCR  
+760,Germinal center_ROI022,7333,20899,Germinal center,B cell receptor signaling pathway,0.572268334,BCR  
+761,Germinal center_ROI024,20423,22880,Germinal center,B cell receptor signaling pathway,-0.035214553,BCR  
+762,Germinal center_ROI013,21798,36418,Germinal center,B cell receptor signaling pathway,0.12597265,BCR  
+763,Germinal center_ROI023,12921,26841,Germinal center,B cell receptor signaling pathway,-0.334064917,BCR  
+764,Germinal center_ROI019,9260,15437,Germinal center,B cell receptor signaling pathway,-0.184717367,BCR  
+765,Germinal center_ROI007,9503,34845,Germinal center,B cell receptor signaling pathway,0.436090537,BCR  
+766,Germinal center_ROI010,9318,33128,Germinal center,B cell receptor signaling pathway,0.37561196,BCR  
+767,Germinal center_ROI016,25388,26749,Germinal center,B cell receptor signaling pathway,0.320787697,BCR  
+768,Germinal center_ROI020,6925,16105,Germinal center,B cell receptor signaling pathway,0.414605983,BCR  
+769,Germinal center_ROI021,11177,16145,Germinal center,B cell receptor signaling pathway,0.233354931,BCR  
+770,Germinal center_ROI001,23975,27060,Germinal center,B cell receptor signaling pathway,0.20936097,BCR  
+771,Germinal center_ROI004,25384,18364,Germinal center,B cell receptor signaling pathway,0.302193469,BCR  
+772,Paracortex zone_ROI018,26014,26134,Paracortex zone,B cell receptor signaling pathway,-2.006299981,BCR  
+773,Paracortex zone_ROI003,23615,27609,Paracortex zone,B cell receptor signaling pathway,-1.537271691,BCR  
+774,Paracortex zone_ROI009,10097,34409,Paracortex zone,B cell receptor signaling pathway,-1.995633413,BCR  
+775,Paracortex zone_ROI015,20756,36279,Paracortex zone,B cell receptor signaling pathway,-2.107825643,BCR  
+776,Paracortex zone_ROI006,25105,18785,Paracortex zone,B cell receptor signaling pathway,-0.753612565,BCR  
+777,Paracortex zone_ROI012,10169,32873,Paracortex zone,B cell receptor signaling pathway,-1.07957387,BCR  
+778,Mantle zone_ROI008,9380,34978,Mantle zone,B cell receptor signaling pathway,1.228615755,BCR  
+779,Mantle zone_ROI014,22224,36621,Mantle zone,B cell receptor signaling pathway,1.185421737,BCR  
+780,Mantle zone_ROI002,24303,27332,Mantle zone,B cell receptor signaling pathway,1.301695282,BCR  
+781,Mantle zone_ROI005,25645,18105,Mantle zone,B cell receptor signaling pathway,1.319448444,BCR  
+782,Mantle zone_ROI011,8967,33528,Mantle zone,B cell receptor signaling pathway,1.025131087,BCR  
+783,Mantle zone_ROI017,25314,27219,Mantle zone,B cell receptor signaling pathway,0.835040486,BCR  
+784,Germinal center_ROI027,21345,12134,Germinal center,Intestinal immune network for IgA production,-0.009495025,IGA  
+785,Germinal center_ROI026,27284,24303,Germinal center,Intestinal immune network for IgA production,0.051387462,IGA  
+786,Germinal center_ROI025,22106,13564,Germinal center,Intestinal immune network for IgA production,1.116279481,IGA  
+787,Germinal center_ROI022,7333,20899,Germinal center,Intestinal immune network for IgA production,1.309445636,IGA  
+788,Germinal center_ROI024,20423,22880,Germinal center,Intestinal immune network for IgA production,0.762169679,IGA  
+789,Germinal center_ROI013,21798,36418,Germinal center,Intestinal immune network for IgA production,0.466642555,IGA  
+790,Germinal center_ROI023,12921,26841,Germinal center,Intestinal immune network for IgA production,-0.051746253,IGA  
+791,Germinal center_ROI019,9260,15437,Germinal center,Intestinal immune network for IgA production,1.112711119,IGA  
+792,Germinal center_ROI007,9503,34845,Germinal center,Intestinal immune network for IgA production,0.069395836,IGA  
+793,Germinal center_ROI010,9318,33128,Germinal center,Intestinal immune network for IgA production,1.085189034,IGA  
+794,Germinal center_ROI016,25388,26749,Germinal center,Intestinal immune network for IgA production,-0.645953176,IGA  
+795,Germinal center_ROI020,6925,16105,Germinal center,Intestinal immune network for IgA production,0.357371632,IGA  
+796,Germinal center_ROI021,11177,16145,Germinal center,Intestinal immune network for IgA production,0.432584527,IGA  
+797,Germinal center_ROI001,23975,27060,Germinal center,Intestinal immune network for IgA production,0.008095814,IGA  
+798,Germinal center_ROI004,25384,18364,Germinal center,Intestinal immune network for IgA production,0.183053984,IGA  
+799,Paracortex zone_ROI018,26014,26134,Paracortex zone,Intestinal immune network for IgA production,-1.710227605,IGA  
+800,Paracortex zone_ROI003,23615,27609,Paracortex zone,Intestinal immune network for IgA production,-1.241216185,IGA  
+801,Paracortex zone_ROI009,10097,34409,Paracortex zone,Intestinal immune network for IgA production,-2.777851053,IGA  
+802,Paracortex zone_ROI015,20756,36279,Paracortex zone,Intestinal immune network for IgA production,-2.008971858,IGA  
+803,Paracortex zone_ROI006,25105,18785,Paracortex zone,Intestinal immune network for IgA production,-0.535158948,IGA  
+804,Paracortex zone_ROI012,10169,32873,Paracortex zone,Intestinal immune network for IgA production,-0.805685439,IGA  
+805,Mantle zone_ROI008,9380,34978,Mantle zone,Intestinal immune network for IgA production,0.014291295,IGA  
+806,Mantle zone_ROI014,22224,36621,Mantle zone,Intestinal immune network for IgA production,0.86874798,IGA  
+807,Mantle zone_ROI002,24303,27332,Mantle zone,Intestinal immune network for IgA production,0.505232516,IGA  
+808,Mantle zone_ROI005,25645,18105,Mantle zone,Intestinal immune network for IgA production,0.590537437,IGA  
+809,Mantle zone_ROI011,8967,33528,Mantle zone,Intestinal immune network for IgA production,0.132782358,IGA  
+810,Mantle zone_ROI017,25314,27219,Mantle zone,Intestinal immune network for IgA production,0.720387196,IGA  
+811,Germinal center_ROI027,21345,12134,Germinal center,CD4; CD4 antigen,0.496881016,CD4  
+812,Germinal center_ROI026,27284,24303,Germinal center,CD4; CD4 antigen,0.408474415,CD4  
+813,Germinal center_ROI025,22106,13564,Germinal center,CD4; CD4 antigen,0.508259787,CD4  
+814,Germinal center_ROI022,7333,20899,Germinal center,CD4; CD4 antigen,0.527102953,CD4  
+815,Germinal center_ROI024,20423,22880,Germinal center,CD4; CD4 antigen,0.448807037,CD4  
+816,Germinal center_ROI013,21798,36418,Germinal center,CD4; CD4 antigen,0.426699436,CD4  
+817,Germinal center_ROI023,12921,26841,Germinal center,CD4; CD4 antigen,0.373813324,CD4  
+818,Germinal center_ROI019,9260,15437,Germinal center,CD4; CD4 antigen,0.488555081,CD4  
+819,Germinal center_ROI007,9503,34845,Germinal center,CD4; CD4 antigen,0.46396692,CD4  
+820,Germinal center_ROI010,9318,33128,Germinal center,CD4; CD4 antigen,0.475621301,CD4  
+821,Germinal center_ROI016,25388,26749,Germinal center,CD4; CD4 antigen,0.47341465,CD4  
+822,Germinal center_ROI020,6925,16105,Germinal center,CD4; CD4 antigen,0.435498463,CD4  
+823,Germinal center_ROI021,11177,16145,Germinal center,CD4; CD4 antigen,0.439891459,CD4  
+824,Germinal center_ROI001,23975,27060,Germinal center,CD4; CD4 antigen,0.473184052,CD4  
+825,Germinal center_ROI004,25384,18364,Germinal center,CD4; CD4 antigen,0.473568119,CD4  
+826,Paracortex zone_ROI018,26014,26134,Paracortex zone,CD4; CD4 antigen,-1.867321458,CD4  
+827,Paracortex zone_ROI003,23615,27609,Paracortex zone,CD4; CD4 antigen,-1.175647167,CD4  
+828,Paracortex zone_ROI009,10097,34409,Paracortex zone,CD4; CD4 antigen,-3.074427802,CD4  
+829,Paracortex zone_ROI015,20756,36279,Paracortex zone,CD4; CD4 antigen,-2.228832175,CD4  
+830,Paracortex zone_ROI006,25105,18785,Paracortex zone,CD4; CD4 antigen,-0.459404876,CD4  
+831,Paracortex zone_ROI012,10169,32873,Paracortex zone,CD4; CD4 antigen,-1.271683184,CD4  
+832,Mantle zone_ROI008,9380,34978,Mantle zone,CD4; CD4 antigen,0.511866211,CD4  
+833,Mantle zone_ROI014,22224,36621,Mantle zone,CD4; CD4 antigen,0.465943899,CD4  
+834,Mantle zone_ROI002,24303,27332,Mantle zone,CD4; CD4 antigen,0.551964621,CD4  
+835,Mantle zone_ROI005,25645,18105,Mantle zone,CD4; CD4 antigen,0.563390387,CD4  
+836,Mantle zone_ROI011,8967,33528,Mantle zone,CD4; CD4 antigen,0.528451363,CD4  
+837,Mantle zone_ROI017,25314,27219,Mantle zone,CD4; CD4 antigen,0.541962168,CD4  
+838,Germinal center_ROI027,21345,12134,Germinal center,LAG3; lymphocyte-activation gene 3 protein,0.496881016,LAG3 
+839,Germinal center_ROI026,27284,24303,Germinal center,LAG3; lymphocyte-activation gene 3 protein,0.408474415,LAG3 
+840,Germinal center_ROI025,22106,13564,Germinal center,LAG3; lymphocyte-activation gene 3 protein,0.508259787,LAG3 
+841,Germinal center_ROI022,7333,20899,Germinal center,LAG3; lymphocyte-activation gene 3 protein,0.527102953,LAG3 
+842,Germinal center_ROI024,20423,22880,Germinal center,LAG3; lymphocyte-activation gene 3 protein,0.448807037,LAG3 
+843,Germinal center_ROI013,21798,36418,Germinal center,LAG3; lymphocyte-activation gene 3 protein,0.426699436,LAG3 
+844,Germinal center_ROI023,12921,26841,Germinal center,LAG3; lymphocyte-activation gene 3 protein,0.373813324,LAG3 
+845,Germinal center_ROI019,9260,15437,Germinal center,LAG3; lymphocyte-activation gene 3 protein,0.488555081,LAG3 
+846,Germinal center_ROI007,9503,34845,Germinal center,LAG3; lymphocyte-activation gene 3 protein,0.46396692,LAG3 
+847,Germinal center_ROI010,9318,33128,Germinal center,LAG3; lymphocyte-activation gene 3 protein,0.475621301,LAG3 
+848,Germinal center_ROI016,25388,26749,Germinal center,LAG3; lymphocyte-activation gene 3 protein,0.47341465,LAG3 
+849,Germinal center_ROI020,6925,16105,Germinal center,LAG3; lymphocyte-activation gene 3 protein,0.435498463,LAG3 
+850,Germinal center_ROI021,11177,16145,Germinal center,LAG3; lymphocyte-activation gene 3 protein,0.439891459,LAG3 
+851,Germinal center_ROI001,23975,27060,Germinal center,LAG3; lymphocyte-activation gene 3 protein,0.473184052,LAG3 
+852,Germinal center_ROI004,25384,18364,Germinal center,LAG3; lymphocyte-activation gene 3 protein,0.473568119,LAG3 
+853,Paracortex zone_ROI018,26014,26134,Paracortex zone,LAG3; lymphocyte-activation gene 3 protein,-1.867321458,LAG3 
+854,Paracortex zone_ROI003,23615,27609,Paracortex zone,LAG3; lymphocyte-activation gene 3 protein,-1.175647167,LAG3 
+855,Paracortex zone_ROI009,10097,34409,Paracortex zone,LAG3; lymphocyte-activation gene 3 protein,-3.074427802,LAG3 
+856,Paracortex zone_ROI015,20756,36279,Paracortex zone,LAG3; lymphocyte-activation gene 3 protein,-2.228832175,LAG3 
+857,Paracortex zone_ROI006,25105,18785,Paracortex zone,LAG3; lymphocyte-activation gene 3 protein,-0.459404876,LAG3 
+858,Paracortex zone_ROI012,10169,32873,Paracortex zone,LAG3; lymphocyte-activation gene 3 protein,-1.271683184,LAG3 
+859,Mantle zone_ROI008,9380,34978,Mantle zone,LAG3; lymphocyte-activation gene 3 protein,0.511866211,LAG3 
+860,Mantle zone_ROI014,22224,36621,Mantle zone,LAG3; lymphocyte-activation gene 3 protein,0.465943899,LAG3 
+861,Mantle zone_ROI002,24303,27332,Mantle zone,LAG3; lymphocyte-activation gene 3 protein,0.551964621,LAG3 
+862,Mantle zone_ROI005,25645,18105,Mantle zone,LAG3; lymphocyte-activation gene 3 protein,0.563390387,LAG3 
+863,Mantle zone_ROI011,8967,33528,Mantle zone,LAG3; lymphocyte-activation gene 3 protein,0.528451363,LAG3 
+864,Mantle zone_ROI017,25314,27219,Mantle zone,LAG3; lymphocyte-activation gene 3 protein,0.541962168,LAG3 

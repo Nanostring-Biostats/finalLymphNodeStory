@@ -1,1 +1,182 @@
-{"Images": [{"Name": "i0", "Description": "", "Path": "images/lymph-roi-1", "Width": 32768, "Height": 49152, "MaxLevel": 6}], "Header": "", "Rotation": 0, "Layout": {"Grid": [["i0"]]}, "Stories": [{"Name": "", "Description": "", "Waypoints": [{"Name": "Lymph Node Anatomy", "Description": "(single morphology cartoon)", "Arrows": [], "Overlays": [], "Group": "All markers", "Masks": ["Germinal center", "CD11c+", "CD20+", "CD3+", "Mantle zone", "Paracortex zone"], "ActiveMasks": ["Germinal center", "CD11c+", "CD20+", "CD3+", "Mantle zone", "Paracortex zone"], "Zoom": 0.8230367332517142, "Pan": [0.5, 0.5]}, {"Name": "Linking Molecular and Imaging Data", "Description": "(genes over LOQ)", "Arrows": [], "Overlays": [], "Group": "All markers", "Masks": ["Germinal center", "CD11c+", "CD20+", "CD3+", "Mantle zone", "Paracortex zone"], "ActiveMasks": ["Germinal center", "CD11c+", "CD20+", "CD3+", "Mantle zone", "Paracortex zone"], "Zoom": 0.6858639443764285, "Pan": [0.3333333333333332, 0.5191269561418047]}, {"Name": "Cell Type Deconvolution", "Description": "(horizontal stacked barplot)", "Arrows": [], "Overlays": [], "Group": "All markers", "Masks": ["Germinal center", "CD11c+", "CD20+", "CD3+", "Mantle zone", "Paracortex zone"], "ActiveMasks": ["Germinal center", "CD11c+", "CD20+", "CD3+", "Mantle zone", "Paracortex zone"], "Zoom": 0.6858639443764285, "Pan": [0.3333333333333333, 0.5159945017860752]}, {"Name": "Spatial Mapping of Gene Pathways", "Description": "(heatmap)", "Arrows": [], "Overlays": [], "Group": "All markers", "Masks": ["Germinal center", "CD11c+", "CD20+", "CD3+", "Mantle zone", "Paracortex zone"], "ActiveMasks": ["Germinal center", "CD11c+", "CD20+", "CD3+", "Mantle zone", "Paracortex zone"], "Zoom": 0.6858639443764285, "Pan": [0.3333333333333335, 0.5122925102747581]}, {"Name": "Differential Gene Expression", "Description": "(volcano plot)", "Arrows": [], "Overlays": [], "Group": "DNA", "Masks": ["CD11c+", "CD3+"], "ActiveMasks": ["CD11c+", "CD3+"], "Zoom": 2.047978764084905, "Pan": [0.32646398295399237, 0.7053196944477121]}, {"Name": "Validating Gene Expression with Protein Expression I", "Description": "CD8A here?\nDon't forget the IHC HPA image.", "Arrows": [], "Overlays": [], "Group": "All markers", "Masks": ["Germinal center", "CD11c+", "CD20+", "CD3+", "Mantle zone", "Paracortex zone"], "ActiveMasks": ["Germinal center", "CD11c+", "CD20+", "CD3+", "Mantle zone", "Paracortex zone"], "Zoom": 0.6615200080791171, "Pan": [0.33333333333333326, 0.533868851380298]}, {"Name": "Validating Gene Expression with Protein Expression II", "Description": "Probably ITGAX (CD11c)? Don't forget the HPA IHC image.", "Arrows": [], "Overlays": [], "Group": "All markers", "Masks": ["Germinal center", "CD11c+", "CD20+", "CD3+", "Mantle zone", "Paracortex zone"], "ActiveMasks": ["Germinal center", "CD11c+", "CD20+", "CD3+", "Mantle zone", "Paracortex zone"], "Zoom": 0.8230367332517142, "Pan": [0.5, 0.5]}]}], "Masks": [{"Path": "All-structures", "Name": "All structures", "Colors": ["ffffff"], "Channels": ["All structures"]}, {"Path": "Germinal-center", "Name": "Germinal center", "Colors": ["cc79a7"], "Channels": ["Germinal center"]}, {"Path": "CD11c", "Name": "CD11c+", "Colors": ["d55e00"], "Channels": ["CD11c+"]}, {"Path": "CD20", "Name": "CD20+", "Colors": ["e69f00"], "Channels": ["CD20+"]}, {"Path": "CD3", "Name": "CD3+", "Colors": ["decac2"], "Channels": ["CD3+"]}, {"Path": "Mantle-zone", "Name": "Mantle zone", "Colors": ["f0e442"], "Channels": ["Mantle zone"]}, {"Path": "Paracortex-zone", "Name": "Paracortex zone", "Colors": ["484e4e"], "Channels": ["Paracortex zone"]}], "Groups": [{"Name": "All markers", "Path": "All-markers_1__DNA--0__CD11c--2__CD20--3__CD3", "Colors": ["0000ff", "00ffff", "00ff00", "ff0054"], "Channels": ["DNA", "CD11c", "CD20", "CD3"]}, {"Name": "DNA", "Path": "DNA_1__DNA", "Colors": ["0000ff"], "Channels": ["DNA"]}, {"Name": "CD11c", "Path": "CD11c_0__CD11c", "Colors": ["00ffff"], "Channels": ["CD11c"]}, {"Name": "CD20", "Path": "CD20_2__CD20", "Colors": ["00ff00"], "Channels": ["CD20"]}, {"Name": "CD3", "Path": "CD3_3__CD3", "Colors": ["ff0054"], "Channels": ["CD3"]}]}
+{"PixelsPerMicron": 2.504, "Images": [{"Name": "i0", "Description": "", "Text": "Test", "Path": "images/lymph-roi-1", "Width": 32768, "Height": 49152, "MaxLevel": 6}], "Header": "![image](img/SOA_logo.png)", "Rotation": 0, "Layout": {"Grid": [["i0"]]}, "Stories": [{"Name": "", "Description": "Welcome to the [**Spatial Organ Atlas (SOA)**](https://www.nanostring.com/spatial-organ-atlas) Lymph Node Demonstration.\n\nThe SOA is a database for whole transcriptome spatial profiles of functional components of tissues from human and mouse generated with the GeoMx® Digital Spatial Profiler. All the data in the SOA is downloadable, including [**this lymph node sample (#001a)**](https://www.nanostring.com/products/geomx-digital-spatial-profiler/spatial-organ-atlas/human-lymph-node/).\n\nUsing [**Minerva**](https://github.com/labsyspharm/minerva-story/wiki), we will show you how the imaging and molecular data combine to give you a comprehensive profile of the tissue architecture and biology.\n\nClick around to explore on your own. \n\nHints:\n* Zoom and pan the image via the mouse/trackpad.\n* Open and close the left- and right-hand menus by clicking on < or >.\n* See results in the left-hand menu and click on the selectable regions to zoom to the featured area of the tissue.\n* Turn channels on and off with the right-hand menu.", "Waypoints": 
+[{"Name": "Lymph Node Anatomy", "Description": "(single morphology cartoon)", "Arrows": [], "Overlays": [], "Group": "All markers", "Masks": ["Germinal center", "CD11c+", "CD20+", "CD3+", "Mantle zone", "Paracortex zone"], "ActiveMasks": ["Germinal center", "CD11c+", "CD20+", "CD3+", "Mantle zone", "Paracortex zone"], "Zoom": 0.8230367332517142, "Pan": [0.5, 0.5]}, 
+
+{"Name": "Linking Molecular and Imaging Data", "Description": "(genes over LOQ)", "Footer": "Hint: \n* Select a single data point to be taken to that ROI.\n* If you hover your mouse over the boxplot, a summary of the distribution metrics for that ROI type will be displayed.", "Arrows": [], "Overlays": [], "Group": "All markers", "Masks": ["Germinal center", "CD11c+", "CD20+", "CD3+", "Mantle zone", "Paracortex zone"], "ActiveMasks": ["Germinal center", "CD11c+", "CD20+", "CD3+", "Mantle zone", "Paracortex zone"], "Zoom": 0.6858639443764285, "Pan": [0.3333333333333332, 0.5191269561418047],
+"MaskAndPan": {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}, "background": null, "numberFormat": ".0f"}, "width": "container", "$schema": "https://vega.github.io/schema/vega-lite/v5.json", "padding": 10, "data": {"url": "data/WPT3_GenesDetected.csv"}, "layer": [{"mark": {"type": "boxplot", "ticks": {"color": "white"}, "color": "white"}, "encoding": {"color": {"legend": null, "field": "type", "scale": {"domain": ["Germinal center", "Mantle zone", "Paracortex zone", "CD11c+", "CD3+", "CD20+"], "range": ["#CC79A7", "#F0E442", "#484E4E", "#D55E00", "#DECAC2", "#E69F00"]}}, 
+        "x": {"type": "nominal", "field": "type", "title": null, "sort": ["Germinal center", "CD11c+", "CD20+", "CD3+", "Mantle zone", "Paracortex zone"]}, "y": {"type": "quantitative", "field": "GenesDetected"}}}, 
+        {"mark": {"type": "point", "color": "white", "fill": "white", "stroke": "red", "strokeWidth": 1}, "encoding": {"x": {"field": "x_axis", "title":null, "type": "quantitative", "axis": {"labels":false, "ticks":false}}, "y": {"field": "GenesDetected", "type": "quantitative"}}}]}}, 
+
+{"Name": "Cell Type Deconvolution", "Description": "(horizontal stacked barplot)", "Arrows": [], "Overlays": [], "Group": "All markers", "Masks": ["Germinal center", "CD11c+", "CD20+", "CD3+", "Mantle zone", "Paracortex zone"], "ActiveMasks": ["Germinal center", "CD11c+", "CD20+", "CD3+", "Mantle zone", "Paracortex zone"], "Zoom": 0.6858639443764285, "Pan": [0.3333333333333333, 0.5159945017860752]}, 
+
+{"Name": "Spatial Mapping of Gene Pathways", "Description": "(heatmap)", "Footer": "Hint:\n* Click on a column to see the specific ROI the data applies to.", "Arrows": [], "Overlays": [], "Group": "All markers", "Masks": ["Germinal center", "CD11c+", "CD20+", "CD3+", "Mantle zone", "Paracortex zone"], "ActiveMasks": ["Germinal center", "CD11c+", "CD20+", "CD3+", "Mantle zone", "Paracortex zone"], "Zoom": 0.6858639443764285, "Pan": [0.3333333333333335, 0.5122925102747581],
+"MaskAndPan": {"config": {"axis": {"domain":false}, "view": {"continuousWidth": 400, "continuousHeight": 300}, "background": null}, "width": "container", 
+"$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+"layer": [{
+"data": {"url": "data/WPT5_PathwayHeatmap.csv"},
+"mark": "rect",
+"encoding": {
+    "x": {
+        "field": "ROI_Name",
+        "type":"nominal",
+        "title": null,
+        "sort": null,
+        "axis":{
+            "labels": false,
+            "ticks": false
+        }
+    },
+    "y": {
+        "field": "PathwayName",
+        "type": "nominal",
+        "title": null,
+        "sort": null
+    },
+    "color": {
+        "field": "Pathway_Value",
+        "bin": {"binned": true},
+        "scale": {"range": ["#7D26CD", "#6B20AF", "#591B92", "#471575", "#351057", "#230A3A", "#11051D", "#000000", "#212100", "#434300", "#656500", "#888800", "#AAAA00", "#CBCB00", "#EEEE00"]},
+        "legend": {"orient": "top"}, "title": null
+    },
+    "tooltip": {
+        "field": "PathwayNameFull", "type":"nominal"
+    }
+}},
+{
+    "data": {
+    "values" : [
+        {"bar": "one", "order": "A", "type": "Germinal center", "percentage": 0.5556},
+        {"bar": "one", "order": "B", "type": "Paracortex zone", "percentage": 0.2222},
+        {"bar": "one", "order": "C", "type": "Mantle zone", "percentage": 0.2222}
+    ]},
+    "mark": {
+        "type": "bar",
+        "yOffset": 640
+    },
+    "encoding": {
+        "x": {
+            "field": "percentage", 
+            "type": "quantitative",
+            "axis": {
+               "labels": false,
+               "ticks": false
+            },
+            "title": null
+      },
+      "y": {
+            "field": "bar", 
+            "type": "nominal",     
+            "title": null,
+            "axis": {
+               "labels": false,
+               "ticks": false
+            }
+           },
+       "color": {
+           "field": "type", 
+           "type": "nominal",
+           "sort": null,
+           "legend": {"title": "Histological Structure", "offset": 660, "orient": "bottom"},
+           "scale": {"domain": ["Germinal center", "Paracortex zone", "Mantle zone"], 
+               "range": ["#cc79a7", "#484e4e", "#f0e442"]}
+       },
+       "order": {"field": "order"}
+    }
+}], "resolve": {"scale": {"y": "independent"}}}}, 
+
+{"Name": "Differential Gene Expression", "Description": "(volcano plot)", "Footer": "Hint:\n* Select the regions on the graph with the genes that are differentially expressed (in orange and light pink) to see all the ROIs where they are more highly expressed. Turning on only the nuclei channel may help you see smaller ROIs.", "Arrows": [], "Overlays": [], "Group": "DNA", "Masks": ["CD11c+", "CD3+"], "ActiveMasks": ["CD11c+", "CD3+"], "Zoom": 2.047978764084905, "Pan": [0.32646398295399237, 0.7053196944477121],
+"VisBarChart": {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}, "background": null}, "width": "container", "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+            "data":{
+                "url": "data/WPT6_LymphDifferentialExpression.csv"
+            },
+            "layer": [{
+                "mark": {"type": "point", "filled": true},
+                "encoding": {
+                    "x": {
+                        "field": "FC",
+                        "type": "quantitative",
+                        "title": "Enriched in CD11c+ Cells←log2(FC)→Enriched in CD3+ Cells",
+                        "axis": {
+                            "titleFontSize": 11
+                        }
+                    },
+                    "y": {
+                        "field": "Significance",
+                        "type": "quantitative",
+                        "title": "Significance, -log10(P)"
+                    },
+                    "color": {
+                        "field": "Color",
+                        "type": "nominal",
+                        "scale": null
+                    }
+                }
+            },
+            {
+                "mark": {"type": "rect", "fillOpacity": 0, "stroke": "red"},
+                "data": {"values": [{"type": "CD11C+"}]},
+                "encoding": {
+                    "y": {"datum": 1.2},
+                    "y2": {"datum": 13},
+                    "x": {"datum": -5},
+                    "x2": {"datum": -0.45}
+                }
+            },
+            {
+                "mark": {"type": "rect", "fillOpacity": 0, "stroke": "red"},
+                "data": {"values": [{"type": "CD3+"}]},
+                "encoding": {
+                    "y": {"datum": 1.2},
+                    "y2": {"datum": 13},
+                    "x": {"datum": 3},
+                    "x2": {"datum": 0.45}
+                }
+            },
+        {
+            "mark": {
+                "type": "text",
+                "align": "left",
+                "fontSize": 11,
+                "angle": -35,
+                "color": "yellow",
+                "stroke": "white",
+                "strokeWidth": 0.2
+            },
+            "encoding": {
+                "x": {
+                    "field": "FC",
+                    "type": "quantitative"
+                },
+                "y": {
+                    "field": "Significance",
+                    "type": "quantitative"
+                },
+                "text": {
+                    "field": "GeneName"
+                }
+            }
+        }]
+        }}, 
+
+{"Name": "Validating Gene Expression with Protein Expression I", "Description": "CD3\n\n![image](img/CD3E_IHC.jpg)\n\n[*Image Credit: Human Protein Atlas*](https://images.proteinatlas.org/40957/159983_A_6_8.jpg)", "Footer": "Hint: \n* Select a single data point to be taken to that ROI.\n* If you hover your mouse over the boxplot, a summary of the distribution metrics for that ROI type will be displayed.", "Arrows": [], "Overlays": [], "Group": "All markers", "Masks": ["Germinal center", "CD11c+", "CD20+", "CD3+", "Mantle zone", "Paracortex zone"], "ActiveMasks": ["Germinal center", "CD11c+", "CD20+", "CD3+", "Mantle zone", "Paracortex zone"], "Zoom": 0.6615200080791171, "Pan": [0.33333333333333326, 0.533868851380298],
+"chanAndMaskandPan": {"config": {"view": {"continuousWidth": 400, "continuousHeight": 400}, "background": null, "numberFormat": ".0f"}, "width": "container", "$schema": "https://vega.github.io/schema/vega-lite/v5.json", "padding": 10, "data": {"url": "data/WPT7_CD3E.csv"}, "layer": [{"mark": {"type": "boxplot", "ticks": {"color": "white"}, "color": "white"}, "encoding": 
+{"color": {"legend": null, "field": "type", "scale": {"domain": ["Germinal center", "Mantle zone", "Paracortex zone", "CD11c+", "CD3+", "CD20+"], "range": ["#CC79A7", "#F0E442", "#484E4E", "#D55E00", "#DECAC2", "#E69F00"]}}, 
+    "x": {"type": "nominal", "field": "type", "title": null, "sort": ["Germinal center", "CD11c+", "CD20+", "CD3+", "Mantle zone", "Paracortex zone"]},
+     "y": {"type": "quantitative", "field": "CD3E"}}}, 
+    {"mark": {"type": "point", "color": "white", "fill": "white", "stroke": "red", "strokeWidth": 1, "size": 50}, "encoding": {"x": {"field": "x_axis", "title":null, "type": "quantitative", "axis": {"labels":false, "ticks":false}}, "y": {"field": "CD3E", "type": "quantitative"}}}]}}, 
+
+{"Name": "Validating Gene Expression with Protein Expression II", "Description": "PDCD1\n\n![image](img/PDCD1_IHC_cropped.jpg)\n\n[*Image Credit: Human Protein Atlas*](https://images.proteinatlas.org/76386/160142_A_8_8.jpg)", "Footer": "Hint: \n* Select a single data point to be taken to that ROI.\n* If you hover your mouse over the boxplot, a summary of the distribution metrics for that ROI type will be displayed.", "Arrows": [], "Overlays": [], "Group": "All markers", "Masks": ["Germinal center", "CD11c+", "CD20+", "CD3+", "Mantle zone", "Paracortex zone"], "ActiveMasks": ["Germinal center", "CD11c+", "CD20+", "CD3+", "Mantle zone", "Paracortex zone"], "Zoom": 0.6615200080791171, "Pan": [0.33333333333333326, 0.533868851380298],
+"chanAndMaskandPan": {"config": {"view": {"continuousWidth": 400, "continuousHeight": 400}, "background": null, "numberFormat": ".0f"}, "width": "container", "$schema": "https://vega.github.io/schema/vega-lite/v5.json", "padding": 10, "data": {"url": "data/WPT8_PDCD1.csv"}, "layer": [{"mark": {"type": "boxplot", "ticks": {"color": "white"}, "color": "white"}, "encoding": 
+{"color": {"legend": null, "field": "type", "scale": {"domain": ["Germinal center", "Mantle zone", "Paracortex zone", "CD11c+", "CD3+", "CD20+"], "range": ["#CC79A7", "#F0E442", "#484E4E", "#D55E00", "#DECAC2", "#E69F00"]}}, 
+    "x": {"type": "nominal", "field": "type", "title": null, "sort": ["Germinal center", "CD11c+", "CD20+", "CD3+", "Mantle zone", "Paracortex zone"]},
+     "y": {"type": "quantitative", "field": "PDCD1"}}}, 
+    {"mark": {"type": "point", "color": "white", "fill": "white", "stroke": "red", "strokeWidth": 1, "size": 50}, "encoding": {"x": {"field": "x_axis", "title":null, "type": "quantitative", "axis": {"labels":false, "ticks":false}}, "y": {"field": "PDCD1", "type": "quantitative"}}}]}},
+
+{"Name": "Validating Gene Expression with Protein Expression III", "Description": "ITGAX (CD11c)\n\n![image](img/ITGAX_IHC.jpg)\n\n[*Image Credit: Human Protein Atlas*](https://images.proteinatlas.org/4458/14042_A_7_8.jpg)", "Footer": "Hint: \n* Select a single data point to be taken to that ROI.\n* If you hover your mouse over the boxplot, a summary of the distribution metrics for that ROI type will be displayed.", "Arrows": [], "Overlays": [], "Group": "All markers", "Masks": ["Germinal center", "CD11c+", "CD20+", "CD3+", "Mantle zone", "Paracortex zone"], "ActiveMasks": ["Germinal center", "CD11c+", "CD20+", "CD3+", "Mantle zone", "Paracortex zone"], "Zoom": 0.8230367332517142, "Pan": [0.5, 0.5],
+"chanAndMaskandPan": {"config": {"view": {"continuousWidth": 400, "continuousHeight": 400}, "background": null, "numberFormat": ".0f"}, "width": "container", "$schema": "https://vega.github.io/schema/vega-lite/v5.json", "padding": 10, "data": {"url": "data/WPT9_ITGAX.csv"}, "layer": [{"mark": {"type": "boxplot", "ticks": {"color": "white"}, "color": "white"}, "encoding": 
+{"color": {"legend": null, "field": "type", "scale": {"domain": ["Germinal center", "Mantle zone", "Paracortex zone", "CD11c+", "CD3+", "CD20+"], "range": ["#CC79A7", "#F0E442", "#484E4E", "#D55E00", "#DECAC2", "#E69F00"]}}, 
+    "x": {"type": "nominal", "field": "type", "title": null, "sort": ["Germinal center", "CD11c+", "CD20+", "CD3+", "Mantle zone", "Paracortex zone"]},
+     "y": {"type": "quantitative", "field": "ITGAX"}}}, 
+    {"mark": {"type": "point", "color": "white", "fill": "white", "stroke": "red", "strokeWidth": 1, "size": 50}, "encoding": {"x": {"field": "x_axis", "title":null, "type": "quantitative", "axis": {"labels":false, "ticks":false}}, "y": {"field": "ITGAX", "type": "quantitative"}}}]}}
+]}], 
+
+"Masks": [{"Path": "All-structures", "Name": "All structures", "Colors": ["ffffff"], "Channels": ["All structures"]}, {"Path": "Germinal-center", "Name": "Germinal center", "Colors": ["cc79a7"], "Channels": ["Germinal center"]}, {"Path": "CD11c", "Name": "CD11c+", "Colors": ["d55e00"], "Channels": ["CD11c+"]}, {"Path": "CD20", "Name": "CD20+", "Colors": ["e69f00"], "Channels": ["CD20+"]}, {"Path": "CD3", "Name": "CD3+", "Colors": ["decac2"], "Channels": ["CD3+"]}, {"Path": "Mantle-zone", "Name": "Mantle zone", "Colors": ["f0e442"], "Channels": ["Mantle zone"]}, {"Path": "Paracortex-zone", "Name": "Paracortex zone", "Colors": ["484e4e"], "Channels": ["Paracortex zone"]}], "Groups": [{"Name": "All markers", "Path": "All-markers_1__DNA--0__CD11c--2__CD20--3__CD3", "Colors": ["0000ff", "00ffff", "00ff00", "ff0054"], "Channels": ["DNA", "CD11c", "CD20", "CD3"]}, {"Name": "DNA", "Path": "DNA_1__DNA", "Colors": ["0000ff"], "Channels": ["DNA"]}, {"Name": "CD11c", "Path": "CD11c_0__CD11c", "Colors": ["00ffff"], "Channels": ["CD11c"]}, {"Name": "CD20", "Path": "CD20_2__CD20", "Colors": ["00ff00"], "Channels": ["CD20"]}, {"Name": "CD3", "Path": "CD3_3__CD3", "Colors": ["ff0054"], "Channels": ["CD3"]}]}
