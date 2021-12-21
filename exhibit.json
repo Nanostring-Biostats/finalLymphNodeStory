@@ -2,11 +2,89 @@
 [{"Name": "Lymph Node Anatomy", "Description": "(single morphology cartoon)", "Arrows": [], "Overlays": [], "Group": "All markers", "Masks": ["Germinal center", "Germinal center - CD11c+", "Germinal center - CD20+", "Germinal center - CD3+", "Mantle zone", "Paracortex zone"], "ActiveMasks": ["Germinal center", "Germinal center - CD11c+", "Germinal center - CD20+", "Germinal center - CD3+", "Mantle zone", "Paracortex zone"], "Zoom": 0.8230367332517142, "Pan": [0.5, 0.5]}, 
 
 {"Name": "Linking Molecular and Imaging Data", "Description": "(genes over LOQ)", "Footer": "Hint: \n* Select a single data point to be taken to that ROI.\n* If you hover your mouse over the boxplot, a summary of the distribution metrics for that ROI type will be displayed.", "Arrows": [], "Overlays": [], "Group": "All markers", "Masks": ["Germinal center", "Germinal center - CD11c+", "Germinal center - CD20+", "Germinal center - CD3+", "Mantle zone", "Paracortex zone"], "ActiveMasks": ["Germinal center", "Germinal center - CD11c+", "Germinal center - CD20+", "Germinal center - CD3+", "Mantle zone", "Paracortex zone"], "Zoom": 0.6858639443764285, "Pan": [0.3333333333333332, 0.5191269561418047],
-"MaskAndPan": {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}, "background": null, "numberFormat": ".0f"}, "width": "container", "$schema": "https://vega.github.io/schema/vega-lite/v5.json", "padding": 10, "data": {"url": "data/WPT3_GenesDetected.csv"}, "layer": [{"mark": {"type": "boxplot", "ticks": {"color": "white"}, "color": "white"}, "encoding": {"color": {"legend": null, "field": "type", "scale": {"domain": ["Germinal center", "Mantle zone", "Paracortex zone", "Germinal center - CD11c+", "Germinal center - CD3+", "Germinal center - CD20+"], "range": ["#CC79A7", "#F0E442", "#484E4E", "#D55E00", "#DECAC2", "#E69F00"]}}, 
+"MaskAndPan": {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}, "background": null, "numberFormat": ".0f"}, "width": "container", "$schema": "https://vega.github.io/schema/vega-lite/v5.json", "padding": 10, "data": {"url": "data/WPT3_GenesDetected.json"}, "layer": [{"mark": {"type": "boxplot", "ticks": {"color": "white"}, "color": "white"}, "encoding": {"color": {"legend": null, "field": "type", "scale": {"domain": ["Germinal center", "Mantle zone", "Paracortex zone", "Germinal center - CD11c+", "Germinal center - CD3+", "Germinal center - CD20+"], "range": ["#CC79A7", "#F0E442", "#484E4E", "#D55E00", "#DECAC2", "#E69F00"]}}, 
         "x": {"type": "nominal", "field": "type", "title": null, "sort": ["Germinal center", "Germinal center - CD11c+", "Germinal center - CD20+", "Germinal center - CD3+", "Mantle zone", "Paracortex zone"]}, "y": {"type": "quantitative", "field": "GenesDetected"}}}, 
         {"mark": {"type": "point", "color": "white", "fill": "white", "stroke": "red", "strokeWidth": 1}, "encoding": {"x": {"field": "x_axis", "title":null, "type": "quantitative", "axis": {"labels":false, "ticks":false}}, "y": {"field": "GenesDetected", "type": "quantitative"}}}]}}, 
 
-{"Name": "Cell Type Deconvolution", "Description": "(horizontal stacked barplot)", "Arrows": [], "Overlays": [], "Group": "All markers", "Masks": ["Germinal center", "Germinal center - CD11c+", "Germinal center - CD20+", "Germinal center - CD3+", "Mantle zone", "Paracortex zone"], "ActiveMasks": ["Germinal center", "Germinal center - CD11c+", "Germinal center - CD20+", "Germinal center - CD3+", "Mantle zone", "Paracortex zone"], "Zoom": 0.6858639443764285, "Pan": [0.3333333333333333, 0.5159945017860752]}, 
+{"Name": "Cell Type Deconvolution", "Description": "(horizontal stacked barplot)", "Arrows": [], "Overlays": [], "Group": "All markers", "Masks": ["Germinal center", "Germinal center - CD11c+", "Germinal center - CD20+", "Germinal center - CD3+", "Mantle zone", "Paracortex zone"], "ActiveMasks": ["Germinal center", "Germinal center - CD11c+", "Germinal center - CD20+", "Germinal center - CD3+", "Mantle zone", "Paracortex zone"], "Zoom": 0.6858639443764285, "Pan": [0.3333333333333333, 0.5159945017860752],
+    "MaskAndPan": {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}, "background": null},
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "layer": 
+    [{
+       "mark": "bar",
+       "data": {"url": "data\\decon.csv"},
+       "width": "container",
+       "encoding": {
+             "x": {
+                   "field": "gene_value", 
+                   "type": "quantitative", 
+                   "stack": "normalize", 
+                   "title": "Proportion of Gene Type"
+             },
+             "y": {
+                   "field": "ROI", 
+                   "type": "nominal", 
+                   "title": null,
+                   "axis": {
+                       "labels": false,
+                       "ticks": false
+                   }
+             },
+             "color": {
+                   "field": "gene", 
+                   "type": "nominal",
+                   "legend": {"orient": "bottom", "direction": "vertical", "offset": 900}, 
+                   "title": "Gene Type"
+                   },
+           "tooltip": {
+               "field": "full_gene_name", "type":"nominal"
+               }    
+             }
+             
+ },
+ {
+          "data": {
+                "values": [{
+                "Sample_ID": "ROI 001", "order": "A", "type": "Mantle zone", "percentage": 0.1333},
+                {"Sample_ID": "ROI 001", "order": "B", "type": "GC - CD11c", "percentage": 0.1333},
+                {"Sample_ID": "ROI 001", "order": "C", "type": "GC - CD20", "percentage": 0.1333},
+                {"Sample_ID": "ROI 001", "order": "D", "type": "GC - CD3", "percentage": 0.1333},
+                {"Sample_ID": "ROI 001", "order": "E", "type": "Germinal Center", "percentage": 0.3333},
+                {"Sample_ID": "ROI 001", "order": "F", "type": "Paracortex zone", "percentage": 0.1333}]},
+             "mark": {"type": "bar", "xOffset": -7},
+             "width": 7,
+             "height": 900,
+             "encoding": {
+                   "y": {
+                         "field": "percentage", 
+                         "type": "quantitative",
+                         "axis": {
+                            "labels": false,
+                            "ticks": false
+                         },
+                         "title": null
+                   },
+                   "x": {
+                         "field": "Sample_ID", 
+                         "type": "nominal",     
+                         "title": null,
+                         "axis": {
+                            "labels": false,
+                            "ticks": false
+                         }
+                        },
+                    "color": {
+                        "field": "type", 
+                        "type": "nominal",
+                        "sort": null,
+                        "legend": {"orient": "top", "direction": "vertical", "title": "Histological Structure"},
+                        "scale": {"domain": ["Mantle zone", "GC - CD11c", "GC - CD20", "GC - CD3", "Germinal Center", "Paracortex zone"], 
+                            "range": ["#f0e442", "#d55e00", "#e69f00", "#decac2", "#cc79a7", "#484e4e"]}
+                    },
+                    "order": {"field": "order"}}
+    }],
+  "resolve": {"scale": {"color": "independent"}}
+}}, 
 
 {"Name": "Spatial Mapping of Gene Pathways", "Description": "(heatmap)", "Footer": "Hint:\n* Click on a column to see the specific ROI the data applies to.", "Arrows": [], "Overlays": [], "Group": "All markers", "Masks": ["Germinal center", "Germinal center - CD11c+", "Germinal center - CD20+", "Germinal center - CD3+", "Mantle zone", "Paracortex zone"], "ActiveMasks": ["Germinal center", "Germinal center - CD11c+", "Germinal center - CD20+", "Germinal center - CD3+", "Mantle zone", "Paracortex zone"], "Zoom": 0.6858639443764285, "Pan": [0.3333333333333335, 0.5122925102747581],
 "MaskAndPan": {"config": {"axis": {"domain":false}, "view": {"continuousWidth": 400, "continuousHeight": 300}, "background": null}, "width": "container", 
@@ -158,21 +236,21 @@
         }}, 
 
 {"Name": "Validating Gene Expression with Protein Expression I", "Description": "CD3\n\n![image](img/CD3E_IHC.jpg)\n\n[*Image Credit: Human Protein Atlas*](https://images.proteinatlas.org/40957/159983_A_6_8.jpg)", "Footer": "Hint: \n* Select a single data point to be taken to that ROI.\n* If you hover your mouse over the boxplot, a summary of the distribution metrics for that ROI type will be displayed.", "Arrows": [], "Overlays": [], "Group": "All markers", "Masks": ["Germinal center", "Germinal center - CD11c+", "Germinal center - CD20+", "Germinal center - CD3+", "Mantle zone", "Paracortex zone"], "ActiveMasks": ["Germinal center", "Germinal center - CD11c+", "Germinal center - CD20+", "Germinal center - CD3+", "Mantle zone", "Paracortex zone"], "Zoom": 0.6615200080791171, "Pan": [0.33333333333333326, 0.533868851380298],
-"chanAndMaskandPan": {"config": {"view": {"continuousWidth": 400, "continuousHeight": 400}, "background": null, "numberFormat": ".0f"}, "width": "container", "$schema": "https://vega.github.io/schema/vega-lite/v5.json", "padding": 10, "data": {"url": "data/WPT7_CD3E.csv"}, "layer": [{"mark": {"type": "boxplot", "ticks": {"color": "white"}, "color": "white"}, "encoding": 
+"chanAndMaskandPan": {"config": {"view": {"continuousWidth": 400, "continuousHeight": 400}, "background": null, "numberFormat": ".0f"}, "width": "container", "$schema": "https://vega.github.io/schema/vega-lite/v5.json", "padding": 10, "data": {"url": "data/WPT7_CD3E.json"}, "layer": [{"mark": {"type": "boxplot", "ticks": {"color": "white"}, "color": "white"}, "encoding": 
 {"color": {"legend": null, "field": "type", "scale": {"domain": ["Germinal center", "Mantle zone", "Paracortex zone", "Germinal center - CD11c+", "Germinal center - CD3+", "Germinal center - CD20+"], "range": ["#CC79A7", "#F0E442", "#484E4E", "#D55E00", "#DECAC2", "#E69F00"]}}, 
     "x": {"type": "nominal", "field": "type", "title": null, "sort": ["Germinal center", "Germinal center - CD11c+", "Germinal center - CD20+", "Germinal center - CD3+", "Mantle zone", "Paracortex zone"]},
      "y": {"type": "quantitative", "field": "CD3E"}}}, 
     {"mark": {"type": "point", "color": "white", "fill": "white", "stroke": "red", "strokeWidth": 1, "size": 50}, "encoding": {"x": {"field": "x_axis", "title":null, "type": "quantitative", "axis": {"labels":false, "ticks":false}}, "y": {"field": "CD3E", "type": "quantitative"}}}]}}, 
 
 {"Name": "Validating Gene Expression with Protein Expression II", "Description": "PDCD1\n\n![image](img/PDCD1_IHC_cropped.jpg)\n\n[*Image Credit: Human Protein Atlas*](https://images.proteinatlas.org/76386/160142_A_8_8.jpg)", "Footer": "Hint: \n* Select a single data point to be taken to that ROI.\n* If you hover your mouse over the boxplot, a summary of the distribution metrics for that ROI type will be displayed.", "Arrows": [], "Overlays": [], "Group": "All markers", "Masks": ["Germinal center", "Germinal center - CD11c+", "Germinal center - CD20+", "Germinal center - CD3+", "Mantle zone", "Paracortex zone"], "ActiveMasks": ["Germinal center", "Germinal center - CD11c+", "Germinal center - CD20+", "Germinal center - CD3+", "Mantle zone", "Paracortex zone"], "Zoom": 0.6615200080791171, "Pan": [0.33333333333333326, 0.533868851380298],
-"chanAndMaskandPan": {"config": {"view": {"continuousWidth": 400, "continuousHeight": 400}, "background": null, "numberFormat": ".0f"}, "width": "container", "$schema": "https://vega.github.io/schema/vega-lite/v5.json", "padding": 10, "data": {"url": "data/WPT8_PDCD1.csv"}, "layer": [{"mark": {"type": "boxplot", "ticks": {"color": "white"}, "color": "white"}, "encoding": 
+"chanAndMaskandPan": {"config": {"view": {"continuousWidth": 400, "continuousHeight": 400}, "background": null, "numberFormat": ".0f"}, "width": "container", "$schema": "https://vega.github.io/schema/vega-lite/v5.json", "padding": 10, "data": {"url": "data/WPT8_PDCD1.json"}, "layer": [{"mark": {"type": "boxplot", "ticks": {"color": "white"}, "color": "white"}, "encoding": 
 {"color": {"legend": null, "field": "type", "scale": {"domain": ["Germinal center", "Mantle zone", "Paracortex zone", "Germinal center - CD11c+", "Germinal center - CD3+", "Germinal center - CD20+"], "range": ["#CC79A7", "#F0E442", "#484E4E", "#D55E00", "#DECAC2", "#E69F00"]}}, 
     "x": {"type": "nominal", "field": "type", "title": null, "sort": ["Germinal center", "Germinal center - CD11c+", "Germinal center - CD20+", "Germinal center - CD3+", "Mantle zone", "Paracortex zone"]},
      "y": {"type": "quantitative", "field": "PDCD1"}}}, 
     {"mark": {"type": "point", "color": "white", "fill": "white", "stroke": "red", "strokeWidth": 1, "size": 50}, "encoding": {"x": {"field": "x_axis", "title":null, "type": "quantitative", "axis": {"labels":false, "ticks":false}}, "y": {"field": "PDCD1", "type": "quantitative"}}}]}},
 
 {"Name": "Validating Gene Expression with Protein Expression III", "Description": "ITGAX (CD11c)\n\n![image](img/ITGAX_IHC.jpg)\n\n[*Image Credit: Human Protein Atlas*](https://images.proteinatlas.org/4458/14042_A_7_8.jpg)", "Footer": "Hint: \n* Select a single data point to be taken to that ROI.\n* If you hover your mouse over the boxplot, a summary of the distribution metrics for that ROI type will be displayed.", "Arrows": [], "Overlays": [], "Group": "All markers", "Masks": ["Germinal center", "Germinal center - CD11c+", "Germinal center - CD20+", "Germinal center - CD3+", "Mantle zone", "Paracortex zone"], "ActiveMasks": ["Germinal center", "Germinal center - CD11c+", "Germinal center - CD20+", "Germinal center - CD3+", "Mantle zone", "Paracortex zone"], "Zoom": 0.8230367332517142, "Pan": [0.5, 0.5],
-"chanAndMaskandPan": {"config": {"view": {"continuousWidth": 400, "continuousHeight": 400}, "background": null, "numberFormat": ".0f"}, "width": "container", "$schema": "https://vega.github.io/schema/vega-lite/v5.json", "padding": 10, "data": {"url": "data/WPT9_ITGAX.csv"}, "layer": [{"mark": {"type": "boxplot", "ticks": {"color": "white"}, "color": "white"}, "encoding": 
+"chanAndMaskandPan": {"config": {"view": {"continuousWidth": 400, "continuousHeight": 400}, "background": null, "numberFormat": ".0f"}, "width": "container", "$schema": "https://vega.github.io/schema/vega-lite/v5.json", "padding": 10, "data": {"url": "data/WPT9_ITGAX.json"}, "layer": [{"mark": {"type": "boxplot", "ticks": {"color": "white"}, "color": "white"}, "encoding": 
 {"color": {"legend": null, "field": "type", "scale": {"domain": ["Germinal center", "Mantle zone", "Paracortex zone", "Germinal center - CD11c+", "Germinal center - CD3+", "Germinal center - CD20+"], "range": ["#CC79A7", "#F0E442", "#484E4E", "#D55E00", "#DECAC2", "#E69F00"]}}, 
     "x": {"type": "nominal", "field": "type", "title": null, "sort": ["Germinal center", "Germinal center - CD11c+", "Germinal center - CD20+", "Germinal center - CD3+", "Mantle zone", "Paracortex zone"]},
      "y": {"type": "quantitative", "field": "ITGAX"}}}, 
