@@ -188,60 +188,6 @@ num,ROI_Name,X_position,Y_position,type,PathwayNameFull,Pathway_Value,PathwayNam
 187,Mantle zone_ROI005,25645,18105,Mantle zone,CD209; CD209 antigen,1.243063952,CD209
 188,Mantle zone_ROI011,8967,33528,Mantle zone,CD209; CD209 antigen,-0.244982257,CD209
 189,Mantle zone_ROI017,25314,27219,Mantle zone,CD209; CD209 antigen,0.817926167,CD209
-190,Germinal center_ROI027,21345,12134,Germinal center,"CD8B; CD8B antigen, beta polypeptide 1",0.589109289,CD8B 
-191,Germinal center_ROI026,27284,24303,Germinal center,"CD8B; CD8B antigen, beta polypeptide 1",-1.027342767,CD8B 
-192,Germinal center_ROI025,22106,13564,Germinal center,"CD8B; CD8B antigen, beta polypeptide 1",-0.387651736,CD8B 
-193,Germinal center_ROI022,7333,20899,Germinal center,"CD8B; CD8B antigen, beta polypeptide 1",0.127478765,CD8B 
-194,Germinal center_ROI024,20423,22880,Germinal center,"CD8B; CD8B antigen, beta polypeptide 1",-1.021072655,CD8B 
-195,Germinal center_ROI013,21798,36418,Germinal center,"CD8B; CD8B antigen, beta polypeptide 1",-0.246996759,CD8B 
-196,Germinal center_ROI023,12921,26841,Germinal center,"CD8B; CD8B antigen, beta polypeptide 1",0.113478844,CD8B 
-197,Germinal center_ROI019,9260,15437,Germinal center,"CD8B; CD8B antigen, beta polypeptide 1",-1.128859369,CD8B 
-198,Germinal center_ROI007,9503,34845,Germinal center,"CD8B; CD8B antigen, beta polypeptide 1",-1.345048589,CD8B 
-199,Germinal center_ROI010,9318,33128,Germinal center,"CD8B; CD8B antigen, beta polypeptide 1",-0.581345021,CD8B 
-200,Germinal center_ROI016,25388,26749,Germinal center,"CD8B; CD8B antigen, beta polypeptide 1",-0.794135479,CD8B 
-201,Germinal center_ROI020,6925,16105,Germinal center,"CD8B; CD8B antigen, beta polypeptide 1",-0.932882106,CD8B 
-202,Germinal center_ROI021,11177,16145,Germinal center,"CD8B; CD8B antigen, beta polypeptide 1",-1.421794159,CD8B 
-203,Germinal center_ROI001,23975,27060,Germinal center,"CD8B; CD8B antigen, beta polypeptide 1",-1.29492877,CD8B 
-204,Germinal center_ROI004,25384,18364,Germinal center,"CD8B; CD8B antigen, beta polypeptide 1",-1.14269806,CD8B 
-205,Paracortex zone_ROI018,26014,26134,Paracortex zone,"CD8B; CD8B antigen, beta polypeptide 1",0.766972284,CD8B 
-206,Paracortex zone_ROI003,23615,27609,Paracortex zone,"CD8B; CD8B antigen, beta polypeptide 1",0.851721152,CD8B 
-207,Paracortex zone_ROI009,10097,34409,Paracortex zone,"CD8B; CD8B antigen, beta polypeptide 1",1.313489967,CD8B 
-208,Paracortex zone_ROI015,20756,36279,Paracortex zone,"CD8B; CD8B antigen, beta polypeptide 1",1.918325155,CD8B 
-209,Paracortex zone_ROI006,25105,18785,Paracortex zone,"CD8B; CD8B antigen, beta polypeptide 1",0.74578082,CD8B 
-210,Paracortex zone_ROI012,10169,32873,Paracortex zone,"CD8B; CD8B antigen, beta polypeptide 1",0.748673731,CD8B 
-211,Mantle zone_ROI008,9380,34978,Mantle zone,"CD8B; CD8B antigen, beta polypeptide 1",-0.066393104,CD8B 
-212,Mantle zone_ROI014,22224,36621,Mantle zone,"CD8B; CD8B antigen, beta polypeptide 1",0.127254502,CD8B 
-213,Mantle zone_ROI002,24303,27332,Mantle zone,"CD8B; CD8B antigen, beta polypeptide 1",1.005237899,CD8B 
-214,Mantle zone_ROI005,25645,18105,Mantle zone,"CD8B; CD8B antigen, beta polypeptide 1",0.081143399,CD8B 
-215,Mantle zone_ROI011,8967,33528,Mantle zone,"CD8B; CD8B antigen, beta polypeptide 1",1.44076799,CD8B 
-216,Mantle zone_ROI017,25314,27219,Mantle zone,"CD8B; CD8B antigen, beta polypeptide 1",1.561714775,CD8B 
-217,Germinal center_ROI027,21345,12134,Germinal center,Human T-lymphotropic virus 1,0.589109289,HTLV1
-218,Germinal center_ROI026,27284,24303,Germinal center,Human T-lymphotropic virus 1,-1.027342767,HTLV1
-219,Germinal center_ROI025,22106,13564,Germinal center,Human T-lymphotropic virus 1,-0.387651736,HTLV1
-220,Germinal center_ROI022,7333,20899,Germinal center,Human T-lymphotropic virus 1,0.127478765,HTLV1
-221,Germinal center_ROI024,20423,22880,Germinal center,Human T-lymphotropic virus 1,-1.021072655,HTLV1
-222,Germinal center_ROI013,21798,36418,Germinal center,Human T-lymphotropic virus 1,-0.246996759,HTLV1
-223,Germinal center_ROI023,12921,26841,Germinal center,Human T-lymphotropic virus 1,0.113478844,HTLV1
-224,Germinal center_ROI019,9260,15437,Germinal center,Human T-lymphotropic virus 1,-1.128859369,HTLV1
-225,Germinal center_ROI007,9503,34845,Germinal center,Human T-lymphotropic virus 1,-1.345048589,HTLV1
-226,Germinal center_ROI010,9318,33128,Germinal center,Human T-lymphotropic virus 1,-0.581345021,HTLV1
-227,Germinal center_ROI016,25388,26749,Germinal center,Human T-lymphotropic virus 1,-0.794135479,HTLV1
-228,Germinal center_ROI020,6925,16105,Germinal center,Human T-lymphotropic virus 1,-0.932882106,HTLV1
-229,Germinal center_ROI021,11177,16145,Germinal center,Human T-lymphotropic virus 1,-1.421794159,HTLV1
-230,Germinal center_ROI001,23975,27060,Germinal center,Human T-lymphotropic virus 1,-1.29492877,HTLV1
-231,Germinal center_ROI004,25384,18364,Germinal center,Human T-lymphotropic virus 1,-1.14269806,HTLV1
-232,Paracortex zone_ROI018,26014,26134,Paracortex zone,Human T-lymphotropic virus 1,0.766972284,HTLV1
-233,Paracortex zone_ROI003,23615,27609,Paracortex zone,Human T-lymphotropic virus 1,0.851721152,HTLV1
-234,Paracortex zone_ROI009,10097,34409,Paracortex zone,Human T-lymphotropic virus 1,1.313489967,HTLV1
-235,Paracortex zone_ROI015,20756,36279,Paracortex zone,Human T-lymphotropic virus 1,1.918325155,HTLV1
-236,Paracortex zone_ROI006,25105,18785,Paracortex zone,Human T-lymphotropic virus 1,0.74578082,HTLV1
-237,Paracortex zone_ROI012,10169,32873,Paracortex zone,Human T-lymphotropic virus 1,0.748673731,HTLV1
-238,Mantle zone_ROI008,9380,34978,Mantle zone,Human T-lymphotropic virus 1,-0.066393104,HTLV1
-239,Mantle zone_ROI014,22224,36621,Mantle zone,Human T-lymphotropic virus 1,0.127254502,HTLV1
-240,Mantle zone_ROI002,24303,27332,Mantle zone,Human T-lymphotropic virus 1,1.005237899,HTLV1
-241,Mantle zone_ROI005,25645,18105,Mantle zone,Human T-lymphotropic virus 1,0.081143399,HTLV1
-242,Mantle zone_ROI011,8967,33528,Mantle zone,Human T-lymphotropic virus 1,1.44076799,HTLV1
-243,Mantle zone_ROI017,25314,27219,Mantle zone,Human T-lymphotropic virus 1,1.561714775,HTLV1
 244,Germinal center_ROI027,21345,12134,Germinal center,"CD8A; CD8A antigen, alpha polypeptide",0.589109289,CD8A 
 245,Germinal center_ROI026,27284,24303,Germinal center,"CD8A; CD8A antigen, alpha polypeptide",-1.027342767,CD8A 
 246,Germinal center_ROI025,22106,13564,Germinal center,"CD8A; CD8A antigen, alpha polypeptide",-0.387651736,CD8A 
@@ -566,33 +512,6 @@ num,ROI_Name,X_position,Y_position,type,PathwayNameFull,Pathway_Value,PathwayNam
 565,Mantle zone_ROI005,25645,18105,Mantle zone,CD2; CD2 antigen,-1.469197857,CD2  
 566,Mantle zone_ROI011,8967,33528,Mantle zone,CD2; CD2 antigen,0.138374751,CD2  
 567,Mantle zone_ROI017,25314,27219,Mantle zone,CD2; CD2 antigen,-0.772076382,CD2  
-568,Germinal center_ROI027,21345,12134,Germinal center,CD28; CD28 antigen,-0.466624532,CD28 
-569,Germinal center_ROI026,27284,24303,Germinal center,CD28; CD28 antigen,-0.636380816,CD28 
-570,Germinal center_ROI025,22106,13564,Germinal center,CD28; CD28 antigen,1.500091198,CD28 
-571,Germinal center_ROI022,7333,20899,Germinal center,CD28; CD28 antigen,0.920512168,CD28 
-572,Germinal center_ROI024,20423,22880,Germinal center,CD28; CD28 antigen,0.485968633,CD28 
-573,Germinal center_ROI013,21798,36418,Germinal center,CD28; CD28 antigen,1.014122147,CD28 
-574,Germinal center_ROI023,12921,26841,Germinal center,CD28; CD28 antigen,0.004883174,CD28 
-575,Germinal center_ROI019,9260,15437,Germinal center,CD28; CD28 antigen,1.159518753,CD28 
-576,Germinal center_ROI007,9503,34845,Germinal center,CD28; CD28 antigen,0.893157647,CD28 
-577,Germinal center_ROI010,9318,33128,Germinal center,CD28; CD28 antigen,2.036230682,CD28 
-578,Germinal center_ROI016,25388,26749,Germinal center,CD28; CD28 antigen,1.041272749,CD28 
-579,Germinal center_ROI020,6925,16105,Germinal center,CD28; CD28 antigen,0.7395087,CD28 
-580,Germinal center_ROI021,11177,16145,Germinal center,CD28; CD28 antigen,1.249517379,CD28 
-581,Germinal center_ROI001,23975,27060,Germinal center,CD28; CD28 antigen,0.043093413,CD28 
-582,Germinal center_ROI004,25384,18364,Germinal center,CD28; CD28 antigen,0.373650157,CD28 
-583,Paracortex zone_ROI018,26014,26134,Paracortex zone,CD28; CD28 antigen,-1.503329545,CD28 
-584,Paracortex zone_ROI003,23615,27609,Paracortex zone,CD28; CD28 antigen,-1.022023423,CD28 
-585,Paracortex zone_ROI009,10097,34409,Paracortex zone,CD28; CD28 antigen,-1.456497404,CD28 
-586,Paracortex zone_ROI015,20756,36279,Paracortex zone,CD28; CD28 antigen,-1.176666328,CD28 
-587,Paracortex zone_ROI006,25105,18785,Paracortex zone,CD28; CD28 antigen,-0.809971874,CD28 
-588,Paracortex zone_ROI012,10169,32873,Paracortex zone,CD28; CD28 antigen,-1.465317524,CD28 
-589,Mantle zone_ROI008,9380,34978,Mantle zone,CD28; CD28 antigen,-0.135601471,CD28 
-590,Mantle zone_ROI014,22224,36621,Mantle zone,CD28; CD28 antigen,-0.568146541,CD28 
-591,Mantle zone_ROI002,24303,27332,Mantle zone,CD28; CD28 antigen,-0.471082435,CD28 
-592,Mantle zone_ROI005,25645,18105,Mantle zone,CD28; CD28 antigen,-0.307013821,CD28 
-593,Mantle zone_ROI011,8967,33528,Mantle zone,CD28; CD28 antigen,-0.520522583,CD28 
-594,Mantle zone_ROI017,25314,27219,Mantle zone,CD28; CD28 antigen,-0.922348504,CD28 
 595,Germinal center_ROI027,21345,12134,Germinal center,"CTLA4, CD152; cytotoxic T-lymphocyte-associated protein 4",-0.466624532,CTLA4
 596,Germinal center_ROI026,27284,24303,Germinal center,"CTLA4, CD152; cytotoxic T-lymphocyte-associated protein 4",-0.636380816,CTLA4
 597,Germinal center_ROI025,22106,13564,Germinal center,"CTLA4, CD152; cytotoxic T-lymphocyte-associated protein 4",1.500091198,CTLA4
@@ -836,30 +755,3 @@ num,ROI_Name,X_position,Y_position,type,PathwayNameFull,Pathway_Value,PathwayNam
 835,Mantle zone_ROI005,25645,18105,Mantle zone,CD4; CD4 antigen,0.563390387,CD4  
 836,Mantle zone_ROI011,8967,33528,Mantle zone,CD4; CD4 antigen,0.528451363,CD4  
 837,Mantle zone_ROI017,25314,27219,Mantle zone,CD4; CD4 antigen,0.541962168,CD4  
-838,Germinal center_ROI027,21345,12134,Germinal center,LAG3; lymphocyte-activation gene 3 protein,0.496881016,LAG3 
-839,Germinal center_ROI026,27284,24303,Germinal center,LAG3; lymphocyte-activation gene 3 protein,0.408474415,LAG3 
-840,Germinal center_ROI025,22106,13564,Germinal center,LAG3; lymphocyte-activation gene 3 protein,0.508259787,LAG3 
-841,Germinal center_ROI022,7333,20899,Germinal center,LAG3; lymphocyte-activation gene 3 protein,0.527102953,LAG3 
-842,Germinal center_ROI024,20423,22880,Germinal center,LAG3; lymphocyte-activation gene 3 protein,0.448807037,LAG3 
-843,Germinal center_ROI013,21798,36418,Germinal center,LAG3; lymphocyte-activation gene 3 protein,0.426699436,LAG3 
-844,Germinal center_ROI023,12921,26841,Germinal center,LAG3; lymphocyte-activation gene 3 protein,0.373813324,LAG3 
-845,Germinal center_ROI019,9260,15437,Germinal center,LAG3; lymphocyte-activation gene 3 protein,0.488555081,LAG3 
-846,Germinal center_ROI007,9503,34845,Germinal center,LAG3; lymphocyte-activation gene 3 protein,0.46396692,LAG3 
-847,Germinal center_ROI010,9318,33128,Germinal center,LAG3; lymphocyte-activation gene 3 protein,0.475621301,LAG3 
-848,Germinal center_ROI016,25388,26749,Germinal center,LAG3; lymphocyte-activation gene 3 protein,0.47341465,LAG3 
-849,Germinal center_ROI020,6925,16105,Germinal center,LAG3; lymphocyte-activation gene 3 protein,0.435498463,LAG3 
-850,Germinal center_ROI021,11177,16145,Germinal center,LAG3; lymphocyte-activation gene 3 protein,0.439891459,LAG3 
-851,Germinal center_ROI001,23975,27060,Germinal center,LAG3; lymphocyte-activation gene 3 protein,0.473184052,LAG3 
-852,Germinal center_ROI004,25384,18364,Germinal center,LAG3; lymphocyte-activation gene 3 protein,0.473568119,LAG3 
-853,Paracortex zone_ROI018,26014,26134,Paracortex zone,LAG3; lymphocyte-activation gene 3 protein,-1.867321458,LAG3 
-854,Paracortex zone_ROI003,23615,27609,Paracortex zone,LAG3; lymphocyte-activation gene 3 protein,-1.175647167,LAG3 
-855,Paracortex zone_ROI009,10097,34409,Paracortex zone,LAG3; lymphocyte-activation gene 3 protein,-3.074427802,LAG3 
-856,Paracortex zone_ROI015,20756,36279,Paracortex zone,LAG3; lymphocyte-activation gene 3 protein,-2.228832175,LAG3 
-857,Paracortex zone_ROI006,25105,18785,Paracortex zone,LAG3; lymphocyte-activation gene 3 protein,-0.459404876,LAG3 
-858,Paracortex zone_ROI012,10169,32873,Paracortex zone,LAG3; lymphocyte-activation gene 3 protein,-1.271683184,LAG3 
-859,Mantle zone_ROI008,9380,34978,Mantle zone,LAG3; lymphocyte-activation gene 3 protein,0.511866211,LAG3 
-860,Mantle zone_ROI014,22224,36621,Mantle zone,LAG3; lymphocyte-activation gene 3 protein,0.465943899,LAG3 
-861,Mantle zone_ROI002,24303,27332,Mantle zone,LAG3; lymphocyte-activation gene 3 protein,0.551964621,LAG3 
-862,Mantle zone_ROI005,25645,18105,Mantle zone,LAG3; lymphocyte-activation gene 3 protein,0.563390387,LAG3 
-863,Mantle zone_ROI011,8967,33528,Mantle zone,LAG3; lymphocyte-activation gene 3 protein,0.528451363,LAG3 
-864,Mantle zone_ROI017,25314,27219,Mantle zone,LAG3; lymphocyte-activation gene 3 protein,0.541962168,LAG3 

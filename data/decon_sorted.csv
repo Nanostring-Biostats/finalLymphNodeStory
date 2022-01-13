@@ -1,811 +1,811 @@
 ROI,X_position,Y_position,gene,gene_value,type,SegmentLabel,full_gene_name
-A | 6B | 002 | Full ROI,24303,27332,macro,0.0126706752837499,B cell zone,Geometric,macrophages
-A | 6B | 002 | Full ROI,24303,27332,mast,0.000436974813008451,B cell zone,Geometric,mast
-A | 6B | 002 | Full ROI,24303,27332,naive B,0.528106780465482,B cell zone,Geometric,B.naive
-A | 6B | 002 | Full ROI,24303,27332,mem B,0.28882201470893,B cell zone,Geometric,B.memory
-A | 6B | 002 | Full ROI,24303,27332,plasma,0.0104846623942289,B cell zone,Geometric,plasma
-A | 6B | 002 | Full ROI,24303,27332,CD4 naive,0.0581149814967534,B cell zone,Geometric,T.CD4.naive
-A | 6B | 002 | Full ROI,24303,27332,CD4 mem,0.0280303254608104,B cell zone,Geometric,T.CD4.memory
-A | 6B | 002 | Full ROI,24303,27332,CD8 naive,0.00519844461051922,B cell zone,Geometric,T.CD8.naive
-A | 6B | 002 | Full ROI,24303,27332,CD8 mem,0.013673731794522,B cell zone,Geometric,T.CD8.memory
-A | 6B | 002 | Full ROI,24303,27332,NK,0.00356097526158927,B cell zone,Geometric,NK
-A | 6B | 002 | Full ROI,24303,27332,pDCs,0.00388557135343245,B cell zone,Geometric,pDCs
-A | 6B | 002 | Full ROI,24303,27332,mDCs,0.000623938250492146,B cell zone,Geometric,mDCs
-A | 6B | 002 | Full ROI,24303,27332,conv mono,0,B cell zone,Geometric,monocytes.C
-A | 6B | 002 | Full ROI,24303,27332,NC mono,0,B cell zone,Geometric,monocytes.NC.I
-A | 6B | 002 | Full ROI,24303,27332,neutro,0.00443706660971963,B cell zone,Geometric,neutrophils
-A | 6B | 002 | Full ROI,24303,27332,Treg,0.0257058441874643,B cell zone,Geometric,Treg
-A | 6B | 002 | Full ROI,24303,27332,endo,0.00934488474956218,B cell zone,Geometric,endothelial.cells
-A | 6B | 002 | Full ROI,24303,27332,fibro,0.00690312855973522,B cell zone,Geometric,fibroblasts
-B | 6B | 005 | Full ROI,25645,18105,macro,0.0106233710745609,B cell zone,Geometric,macrophages
-B | 6B | 005 | Full ROI,25645,18105,mast,0.000280754646629957,B cell zone,Geometric,mast
-B | 6B | 005 | Full ROI,25645,18105,naive B,0.454844930566186,B cell zone,Geometric,B.naive
-B | 6B | 005 | Full ROI,25645,18105,mem B,0.403224528226449,B cell zone,Geometric,B.memory
-B | 6B | 005 | Full ROI,25645,18105,plasma,0.00918301354808002,B cell zone,Geometric,plasma
-B | 6B | 005 | Full ROI,25645,18105,CD4 naive,0.0477843225985611,B cell zone,Geometric,T.CD4.naive
-B | 6B | 005 | Full ROI,25645,18105,CD4 mem,0.0136052309498194,B cell zone,Geometric,T.CD4.memory
-B | 6B | 005 | Full ROI,25645,18105,CD8 naive,0,B cell zone,Geometric,T.CD8.naive
-B | 6B | 005 | Full ROI,25645,18105,CD8 mem,0.0156693024585551,B cell zone,Geometric,T.CD8.memory
-B | 6B | 005 | Full ROI,25645,18105,NK,0.000778032557969816,B cell zone,Geometric,NK
-B | 6B | 005 | Full ROI,25645,18105,pDCs,0.00213387395033255,B cell zone,Geometric,pDCs
-B | 6B | 005 | Full ROI,25645,18105,mDCs,0,B cell zone,Geometric,mDCs
-B | 6B | 005 | Full ROI,25645,18105,conv mono,0,B cell zone,Geometric,monocytes.C
-B | 6B | 005 | Full ROI,25645,18105,NC mono,0,B cell zone,Geometric,monocytes.NC.I
-B | 6B | 005 | Full ROI,25645,18105,neutro,0.00192396358904416,B cell zone,Geometric,neutrophils
-B | 6B | 005 | Full ROI,25645,18105,Treg,0.0187093817451377,B cell zone,Geometric,Treg
-B | 6B | 005 | Full ROI,25645,18105,endo,0.009831857793376,B cell zone,Geometric,endothelial.cells
-B | 6B | 005 | Full ROI,25645,18105,fibro,0.011407436295298,B cell zone,Geometric,fibroblasts
-C | 6B | 008 | Full ROI,9380,34978,macro,0.0257791957758412,B cell zone,Geometric,macrophages
-C | 6B | 008 | Full ROI,9380,34978,mast,7.53756859109831e-05,B cell zone,Geometric,mast
-C | 6B | 008 | Full ROI,9380,34978,naive B,0.378875221749865,B cell zone,Geometric,B.naive
-C | 6B | 008 | Full ROI,9380,34978,mem B,0.43307570522426,B cell zone,Geometric,B.memory
-C | 6B | 008 | Full ROI,9380,34978,plasma,0.0122373054996364,B cell zone,Geometric,plasma
-C | 6B | 008 | Full ROI,9380,34978,CD4 naive,0.0434114911447775,B cell zone,Geometric,T.CD4.naive
-C | 6B | 008 | Full ROI,9380,34978,CD4 mem,0.0291559639427842,B cell zone,Geometric,T.CD4.memory
-C | 6B | 008 | Full ROI,9380,34978,CD8 naive,0,B cell zone,Geometric,T.CD8.naive
-C | 6B | 008 | Full ROI,9380,34978,CD8 mem,0.0108856256413191,B cell zone,Geometric,T.CD8.memory
-C | 6B | 008 | Full ROI,9380,34978,NK,0.00690737106257933,B cell zone,Geometric,NK
-C | 6B | 008 | Full ROI,9380,34978,pDCs,0.00216055646509074,B cell zone,Geometric,pDCs
-C | 6B | 008 | Full ROI,9380,34978,mDCs,0,B cell zone,Geometric,mDCs
-C | 6B | 008 | Full ROI,9380,34978,conv mono,0,B cell zone,Geometric,monocytes.C
-C | 6B | 008 | Full ROI,9380,34978,NC mono,0,B cell zone,Geometric,monocytes.NC.I
-C | 6B | 008 | Full ROI,9380,34978,neutro,0.0027325400666994,B cell zone,Geometric,neutrophils
-C | 6B | 008 | Full ROI,9380,34978,Treg,0.0253456967748541,B cell zone,Geometric,Treg
-C | 6B | 008 | Full ROI,9380,34978,endo,0.0113699266169381,B cell zone,Geometric,endothelial.cells
-C | 6B | 008 | Full ROI,9380,34978,fibro,0.0179880243494447,B cell zone,Geometric,fibroblasts
-D | 6B | 011 | Full ROI,8967,33528,macro,0.0278358232098304,B cell zone,Geometric,macrophages
-D | 6B | 011 | Full ROI,8967,33528,mast,0.000730657953331955,B cell zone,Geometric,mast
-D | 6B | 011 | Full ROI,8967,33528,naive B,0.573986902246112,B cell zone,Geometric,B.naive
-D | 6B | 011 | Full ROI,8967,33528,mem B,0.216431146357338,B cell zone,Geometric,B.memory
-D | 6B | 011 | Full ROI,8967,33528,plasma,0.0128740648756007,B cell zone,Geometric,plasma
-D | 6B | 011 | Full ROI,8967,33528,CD4 naive,0.0347238613902158,B cell zone,Geometric,T.CD4.naive
-D | 6B | 011 | Full ROI,8967,33528,CD4 mem,0.0307138255919459,B cell zone,Geometric,T.CD4.memory
-D | 6B | 011 | Full ROI,8967,33528,CD8 naive,0,B cell zone,Geometric,T.CD8.naive
-D | 6B | 011 | Full ROI,8967,33528,CD8 mem,0.0277488289888684,B cell zone,Geometric,T.CD8.memory
-D | 6B | 011 | Full ROI,8967,33528,NK,0.00241408756798593,B cell zone,Geometric,NK
-D | 6B | 011 | Full ROI,8967,33528,pDCs,0.00386208868711319,B cell zone,Geometric,pDCs
-D | 6B | 011 | Full ROI,8967,33528,mDCs,0.000915528706832134,B cell zone,Geometric,mDCs
-D | 6B | 011 | Full ROI,8967,33528,conv mono,0,B cell zone,Geometric,monocytes.C
-D | 6B | 011 | Full ROI,8967,33528,NC mono,0.00143247742830186,B cell zone,Geometric,monocytes.NC.I
-D | 6B | 011 | Full ROI,8967,33528,neutro,0.00292804064161584,B cell zone,Geometric,neutrophils
-D | 6B | 011 | Full ROI,8967,33528,Treg,0.0365904104535272,B cell zone,Geometric,Treg
-D | 6B | 011 | Full ROI,8967,33528,endo,0.0135913140122429,B cell zone,Geometric,endothelial.cells
-D | 6B | 011 | Full ROI,8967,33528,fibro,0.0132209418891381,B cell zone,Geometric,fibroblasts
-E | 6B | 014 | Full ROI,22224,36621,macro,0.0114910577790077,B cell zone,Geometric,macrophages
-E | 6B | 014 | Full ROI,22224,36621,mast,0.00037182098932283,B cell zone,Geometric,mast
-E | 6B | 014 | Full ROI,22224,36621,naive B,0.449780728963014,B cell zone,Geometric,B.naive
-E | 6B | 014 | Full ROI,22224,36621,mem B,0.396286021474573,B cell zone,Geometric,B.memory
-E | 6B | 014 | Full ROI,22224,36621,plasma,0.00973020183214272,B cell zone,Geometric,plasma
-E | 6B | 014 | Full ROI,22224,36621,CD4 naive,0.000729626673911097,B cell zone,Geometric,T.CD4.naive
-E | 6B | 014 | Full ROI,22224,36621,CD4 mem,0.0989431823620326,B cell zone,Geometric,T.CD4.memory
-E | 6B | 014 | Full ROI,22224,36621,CD8 naive,0,B cell zone,Geometric,T.CD8.naive
-E | 6B | 014 | Full ROI,22224,36621,CD8 mem,0.00449557387283508,B cell zone,Geometric,T.CD8.memory
-E | 6B | 014 | Full ROI,22224,36621,NK,0.00255210976029903,B cell zone,Geometric,NK
-E | 6B | 014 | Full ROI,22224,36621,pDCs,0.0021130177261306,B cell zone,Geometric,pDCs
-E | 6B | 014 | Full ROI,22224,36621,mDCs,0,B cell zone,Geometric,mDCs
-E | 6B | 014 | Full ROI,22224,36621,conv mono,0,B cell zone,Geometric,monocytes.C
-E | 6B | 014 | Full ROI,22224,36621,NC mono,0,B cell zone,Geometric,monocytes.NC.I
-E | 6B | 014 | Full ROI,22224,36621,neutro,0,B cell zone,Geometric,neutrophils
-E | 6B | 014 | Full ROI,22224,36621,Treg,0.00443077734105937,B cell zone,Geometric,Treg
-E | 6B | 014 | Full ROI,22224,36621,endo,0.00829238843693834,B cell zone,Geometric,endothelial.cells
-E | 6B | 014 | Full ROI,22224,36621,fibro,0.010783492788733,B cell zone,Geometric,fibroblasts
-F | 6B | 017 | Full ROI,25314,27219,macro,0.0161843555778384,B cell zone,Geometric,macrophages
-F | 6B | 017 | Full ROI,25314,27219,mast,0.000120541556028506,B cell zone,Geometric,mast
-F | 6B | 017 | Full ROI,25314,27219,naive B,0.390100877285343,B cell zone,Geometric,B.naive
-F | 6B | 017 | Full ROI,25314,27219,mem B,0.394285966885231,B cell zone,Geometric,B.memory
-F | 6B | 017 | Full ROI,25314,27219,plasma,0.00571001968125477,B cell zone,Geometric,plasma
-F | 6B | 017 | Full ROI,25314,27219,CD4 naive,0.0257538749824369,B cell zone,Geometric,T.CD4.naive
-F | 6B | 017 | Full ROI,25314,27219,CD4 mem,0.0771727710549725,B cell zone,Geometric,T.CD4.memory
-F | 6B | 017 | Full ROI,25314,27219,CD8 naive,0,B cell zone,Geometric,T.CD8.naive
-F | 6B | 017 | Full ROI,25314,27219,CD8 mem,0.0171876398896778,B cell zone,Geometric,T.CD8.memory
-F | 6B | 017 | Full ROI,25314,27219,NK,0.00413112998256916,B cell zone,Geometric,NK
-F | 6B | 017 | Full ROI,25314,27219,pDCs,0.00579044144398771,B cell zone,Geometric,pDCs
-F | 6B | 017 | Full ROI,25314,27219,mDCs,0.000572445897757442,B cell zone,Geometric,mDCs
-F | 6B | 017 | Full ROI,25314,27219,conv mono,0,B cell zone,Geometric,monocytes.C
-F | 6B | 017 | Full ROI,25314,27219,NC mono,0,B cell zone,Geometric,monocytes.NC.I
-F | 6B | 017 | Full ROI,25314,27219,neutro,0.00197687048101932,B cell zone,Geometric,neutrophils
-F | 6B | 017 | Full ROI,25314,27219,Treg,0.0266001163365162,B cell zone,Geometric,Treg
-F | 6B | 017 | Full ROI,25314,27219,endo,0.019301422214864,B cell zone,Geometric,endothelial.cells
-F | 6B | 017 | Full ROI,25314,27219,fibro,0.0151115267305032,B cell zone,Geometric,fibroblasts
-G | 6B | 028 | CD11c,3849,25684,macro,0.169470568398498,Germinal center,CD11c,macrophages
-G | 6B | 028 | CD11c,3849,25684,mast,0,Germinal center,CD11c,mast
-G | 6B | 028 | CD11c,3849,25684,naive B,0.344945289605344,Germinal center,CD11c,B.naive
-G | 6B | 028 | CD11c,3849,25684,mem B,0.332186525979274,Germinal center,CD11c,B.memory
-G | 6B | 028 | CD11c,3849,25684,plasma,0.0262706949729302,Germinal center,CD11c,plasma
-G | 6B | 028 | CD11c,3849,25684,CD4 naive,0.0634886090850654,Germinal center,CD11c,T.CD4.naive
-G | 6B | 028 | CD11c,3849,25684,CD4 mem,0.043331530303085,Germinal center,CD11c,T.CD4.memory
-G | 6B | 028 | CD11c,3849,25684,CD8 naive,0,Germinal center,CD11c,T.CD8.naive
-G | 6B | 028 | CD11c,3849,25684,CD8 mem,0,Germinal center,CD11c,T.CD8.memory
-G | 6B | 028 | CD11c,3849,25684,NK,0,Germinal center,CD11c,NK
-G | 6B | 028 | CD11c,3849,25684,pDCs,0.00545349353282454,Germinal center,CD11c,pDCs
-G | 6B | 028 | CD11c,3849,25684,mDCs,0,Germinal center,CD11c,mDCs
-G | 6B | 028 | CD11c,3849,25684,conv mono,0,Germinal center,CD11c,monocytes.C
-G | 6B | 028 | CD11c,3849,25684,NC mono,0,Germinal center,CD11c,monocytes.NC.I
-G | 6B | 028 | CD11c,3849,25684,neutro,0,Germinal center,CD11c,neutrophils
-G | 6B | 028 | CD11c,3849,25684,Treg,0,Germinal center,CD11c,Treg
-G | 6B | 028 | CD11c,3849,25684,endo,0.00758361635682471,Germinal center,CD11c,endothelial.cells
-G | 6B | 028 | CD11c,3849,25684,fibro,0.00726967176615439,Germinal center,CD11c,fibroblasts
-H | 6B | 029 | CD11c,21741,29893,macro,0.163547701165918,Germinal center,CD11c,macrophages
-H | 6B | 029 | CD11c,21741,29893,mast,0.000378264276445706,Germinal center,CD11c,mast
-H | 6B | 029 | CD11c,21741,29893,naive B,0.248389100910273,Germinal center,CD11c,B.naive
-H | 6B | 029 | CD11c,21741,29893,mem B,0.389541217030057,Germinal center,CD11c,B.memory
-H | 6B | 029 | CD11c,21741,29893,plasma,0.0320363261195757,Germinal center,CD11c,plasma
-H | 6B | 029 | CD11c,21741,29893,CD4 naive,0,Germinal center,CD11c,T.CD4.naive
-H | 6B | 029 | CD11c,21741,29893,CD4 mem,0.0574834891014664,Germinal center,CD11c,T.CD4.memory
-H | 6B | 029 | CD11c,21741,29893,CD8 naive,0.0437937681599053,Germinal center,CD11c,T.CD8.naive
-H | 6B | 029 | CD11c,21741,29893,CD8 mem,0,Germinal center,CD11c,T.CD8.memory
-H | 6B | 029 | CD11c,21741,29893,NK,0,Germinal center,CD11c,NK
-H | 6B | 029 | CD11c,21741,29893,pDCs,0.0158762038618397,Germinal center,CD11c,pDCs
-H | 6B | 029 | CD11c,21741,29893,mDCs,0.00055687589358761,Germinal center,CD11c,mDCs
-H | 6B | 029 | CD11c,21741,29893,conv mono,0,Germinal center,CD11c,monocytes.C
-H | 6B | 029 | CD11c,21741,29893,NC mono,0.00282364938941447,Germinal center,CD11c,monocytes.NC.I
-H | 6B | 029 | CD11c,21741,29893,neutro,0.00425152544821101,Germinal center,CD11c,neutrophils
-H | 6B | 029 | CD11c,21741,29893,Treg,0.00870904780748024,Germinal center,CD11c,Treg
-H | 6B | 029 | CD11c,21741,29893,endo,0.0196906483477304,Germinal center,CD11c,endothelial.cells
-H | 6B | 029 | CD11c,21741,29893,fibro,0.0129221824880946,Germinal center,CD11c,fibroblasts
-I | 6B | 030 | CD11c,18493,9579,macro,0.157159341137666,Germinal center,CD11c,macrophages
-I | 6B | 030 | CD11c,18493,9579,mast,0.000224212365270185,Germinal center,CD11c,mast
-I | 6B | 030 | CD11c,18493,9579,naive B,0.283123961311819,Germinal center,CD11c,B.naive
-I | 6B | 030 | CD11c,18493,9579,mem B,0.323287093334926,Germinal center,CD11c,B.memory
-I | 6B | 030 | CD11c,18493,9579,plasma,0.030027984311982,Germinal center,CD11c,plasma
-I | 6B | 030 | CD11c,18493,9579,CD4 naive,0,Germinal center,CD11c,T.CD4.naive
-I | 6B | 030 | CD11c,18493,9579,CD4 mem,0.0987647478265282,Germinal center,CD11c,T.CD4.memory
-I | 6B | 030 | CD11c,18493,9579,CD8 naive,0.0165230646322601,Germinal center,CD11c,T.CD8.naive
-I | 6B | 030 | CD11c,18493,9579,CD8 mem,0.0164936343133981,Germinal center,CD11c,T.CD8.memory
-I | 6B | 030 | CD11c,18493,9579,NK,0,Germinal center,CD11c,NK
-I | 6B | 030 | CD11c,18493,9579,pDCs,0.000217881457085154,Germinal center,CD11c,pDCs
-I | 6B | 030 | CD11c,18493,9579,mDCs,0,Germinal center,CD11c,mDCs
-I | 6B | 030 | CD11c,18493,9579,conv mono,0,Germinal center,CD11c,monocytes.C
-I | 6B | 030 | CD11c,18493,9579,NC mono,0.00376400269711092,Germinal center,CD11c,monocytes.NC.I
-I | 6B | 030 | CD11c,18493,9579,neutro,0.00122224653118395,Germinal center,CD11c,neutrophils
-I | 6B | 030 | CD11c,18493,9579,Treg,0.0417025439547011,Germinal center,CD11c,Treg
-I | 6B | 030 | CD11c,18493,9579,endo,0.0105395322011494,Germinal center,CD11c,endothelial.cells
-I | 6B | 030 | CD11c,18493,9579,fibro,0.0169497539249202,Germinal center,CD11c,fibroblasts
-J | 6B | 031 | CD11c,14101,37273,macro,0.172163851916265,Germinal center,CD11c,macrophages
-J | 6B | 031 | CD11c,14101,37273,mast,8.82537778708589e-05,Germinal center,CD11c,mast
-J | 6B | 031 | CD11c,14101,37273,naive B,0.164718234029419,Germinal center,CD11c,B.naive
-J | 6B | 031 | CD11c,14101,37273,mem B,0.516602453527182,Germinal center,CD11c,B.memory
-J | 6B | 031 | CD11c,14101,37273,plasma,0.0181361712033992,Germinal center,CD11c,plasma
-J | 6B | 031 | CD11c,14101,37273,CD4 naive,0.00232303479024003,Germinal center,CD11c,T.CD4.naive
-J | 6B | 031 | CD11c,14101,37273,CD4 mem,0.0766080115823805,Germinal center,CD11c,T.CD4.memory
-J | 6B | 031 | CD11c,14101,37273,CD8 naive,0,Germinal center,CD11c,T.CD8.naive
-J | 6B | 031 | CD11c,14101,37273,CD8 mem,0,Germinal center,CD11c,T.CD8.memory
-J | 6B | 031 | CD11c,14101,37273,NK,0,Germinal center,CD11c,NK
-J | 6B | 031 | CD11c,14101,37273,pDCs,0,Germinal center,CD11c,pDCs
-J | 6B | 031 | CD11c,14101,37273,mDCs,0.00161789935054934,Germinal center,CD11c,mDCs
-J | 6B | 031 | CD11c,14101,37273,conv mono,0,Germinal center,CD11c,monocytes.C
-J | 6B | 031 | CD11c,14101,37273,NC mono,0.0128222391019593,Germinal center,CD11c,monocytes.NC.I
-J | 6B | 031 | CD11c,14101,37273,neutro,0,Germinal center,CD11c,neutrophils
-J | 6B | 031 | CD11c,14101,37273,Treg,0.0166262555002867,Germinal center,CD11c,Treg
-J | 6B | 031 | CD11c,14101,37273,endo,0.00720825200345899,Germinal center,CD11c,endothelial.cells
-J | 6B | 031 | CD11c,14101,37273,fibro,0.0110853432169885,Germinal center,CD11c,fibroblasts
-K | 6B | 032 | CD11c,21888,32371,macro,0.155716286450148,Germinal center,CD11c,macrophages
-K | 6B | 032 | CD11c,21888,32371,mast,0,Germinal center,CD11c,mast
-K | 6B | 032 | CD11c,21888,32371,naive B,0.217303494924532,Germinal center,CD11c,B.naive
-K | 6B | 032 | CD11c,21888,32371,mem B,0.401387085427888,Germinal center,CD11c,B.memory
-K | 6B | 032 | CD11c,21888,32371,plasma,0.0417943835957866,Germinal center,CD11c,plasma
-K | 6B | 032 | CD11c,21888,32371,CD4 naive,0.0603082115430498,Germinal center,CD11c,T.CD4.naive
-K | 6B | 032 | CD11c,21888,32371,CD4 mem,0.0075650160027616,Germinal center,CD11c,T.CD4.memory
-K | 6B | 032 | CD11c,21888,32371,CD8 naive,0,Germinal center,CD11c,T.CD8.naive
-K | 6B | 032 | CD11c,21888,32371,CD8 mem,0.0065513193888532,Germinal center,CD11c,T.CD8.memory
-K | 6B | 032 | CD11c,21888,32371,NK,0,Germinal center,CD11c,NK
-K | 6B | 032 | CD11c,21888,32371,pDCs,0.00863279375558325,Germinal center,CD11c,pDCs
-K | 6B | 032 | CD11c,21888,32371,mDCs,0,Germinal center,CD11c,mDCs
-K | 6B | 032 | CD11c,21888,32371,conv mono,0,Germinal center,CD11c,monocytes.C
-K | 6B | 032 | CD11c,21888,32371,NC mono,0.0164707515412847,Germinal center,CD11c,monocytes.NC.I
-K | 6B | 032 | CD11c,21888,32371,neutro,0,Germinal center,CD11c,neutrophils
-K | 6B | 032 | CD11c,21888,32371,Treg,0.062880475674258,Germinal center,CD11c,Treg
-K | 6B | 032 | CD11c,21888,32371,endo,0.0104043160115198,Germinal center,CD11c,endothelial.cells
-K | 6B | 032 | CD11c,21888,32371,fibro,0.0109858656843348,Germinal center,CD11c,fibroblasts
-L | 6B | 033 | CD11c,16887,39225,macro,0.161753134333865,Germinal center,CD11c,macrophages
-L | 6B | 033 | CD11c,16887,39225,mast,0.000468237489740806,Germinal center,CD11c,mast
-L | 6B | 033 | CD11c,16887,39225,naive B,0.164090787019722,Germinal center,CD11c,B.naive
-L | 6B | 033 | CD11c,16887,39225,mem B,0.536327296770837,Germinal center,CD11c,B.memory
-L | 6B | 033 | CD11c,16887,39225,plasma,0.0369907098209396,Germinal center,CD11c,plasma
-L | 6B | 033 | CD11c,16887,39225,CD4 naive,0,Germinal center,CD11c,T.CD4.naive
-L | 6B | 033 | CD11c,16887,39225,CD4 mem,0.0456467189584473,Germinal center,CD11c,T.CD4.memory
-L | 6B | 033 | CD11c,16887,39225,CD8 naive,0,Germinal center,CD11c,T.CD8.naive
-L | 6B | 033 | CD11c,16887,39225,CD8 mem,0,Germinal center,CD11c,T.CD8.memory
-L | 6B | 033 | CD11c,16887,39225,NK,0,Germinal center,CD11c,NK
-L | 6B | 033 | CD11c,16887,39225,pDCs,0.0145324491158949,Germinal center,CD11c,pDCs
-L | 6B | 033 | CD11c,16887,39225,mDCs,0,Germinal center,CD11c,mDCs
-L | 6B | 033 | CD11c,16887,39225,conv mono,0,Germinal center,CD11c,monocytes.C
-L | 6B | 033 | CD11c,16887,39225,NC mono,0.00554526602783959,Germinal center,CD11c,monocytes.NC.I
-L | 6B | 033 | CD11c,16887,39225,neutro,0,Germinal center,CD11c,neutrophils
-L | 6B | 033 | CD11c,16887,39225,Treg,0.0191126538577343,Germinal center,CD11c,Treg
-L | 6B | 033 | CD11c,16887,39225,endo,0.00822140617678523,Germinal center,CD11c,endothelial.cells
-L | 6B | 033 | CD11c,16887,39225,fibro,0.00731134042819443,Germinal center,CD11c,fibroblasts
-M | 6B | 028 | CD20,3849,25684,macro,0.0366515627139409,Germinal center,CD20,macrophages
-M | 6B | 028 | CD20,3849,25684,mast,0.000297571344162968,Germinal center,CD20,mast
-M | 6B | 028 | CD20,3849,25684,naive B,0.23657916235178,Germinal center,CD20,B.naive
-M | 6B | 028 | CD20,3849,25684,mem B,0.586873672227176,Germinal center,CD20,B.memory
-M | 6B | 028 | CD20,3849,25684,plasma,0.0377635602179911,Germinal center,CD20,plasma
-M | 6B | 028 | CD20,3849,25684,CD4 naive,0.0460434260087236,Germinal center,CD20,T.CD4.naive
-M | 6B | 028 | CD20,3849,25684,CD4 mem,0.010886403960387,Germinal center,CD20,T.CD4.memory
-M | 6B | 028 | CD20,3849,25684,CD8 naive,0,Germinal center,CD20,T.CD8.naive
-M | 6B | 028 | CD20,3849,25684,CD8 mem,0.00237814786717868,Germinal center,CD20,T.CD8.memory
-M | 6B | 028 | CD20,3849,25684,NK,0,Germinal center,CD20,NK
-M | 6B | 028 | CD20,3849,25684,pDCs,0.00229896860073073,Germinal center,CD20,pDCs
-M | 6B | 028 | CD20,3849,25684,mDCs,0,Germinal center,CD20,mDCs
-M | 6B | 028 | CD20,3849,25684,conv mono,0,Germinal center,CD20,monocytes.C
-M | 6B | 028 | CD20,3849,25684,NC mono,0,Germinal center,CD20,monocytes.NC.I
-M | 6B | 028 | CD20,3849,25684,neutro,0.000129960289860592,Germinal center,CD20,neutrophils
-M | 6B | 028 | CD20,3849,25684,Treg,0.0229497042743322,Germinal center,CD20,Treg
-M | 6B | 028 | CD20,3849,25684,endo,0.0098803797574482,Germinal center,CD20,endothelial.cells
-M | 6B | 028 | CD20,3849,25684,fibro,0.00726748038628758,Germinal center,CD20,fibroblasts
-N | 6B | 029 | CD20,21741,29893,macro,0.0274986225229862,Germinal center,CD20,macrophages
-N | 6B | 029 | CD20,21741,29893,mast,0.000307699258104714,Germinal center,CD20,mast
-N | 6B | 029 | CD20,21741,29893,naive B,0.248382357956651,Germinal center,CD20,B.naive
-N | 6B | 029 | CD20,21741,29893,mem B,0.568946370291642,Germinal center,CD20,B.memory
-N | 6B | 029 | CD20,21741,29893,plasma,0.0454228658996479,Germinal center,CD20,plasma
-N | 6B | 029 | CD20,21741,29893,CD4 naive,0.0468129312071497,Germinal center,CD20,T.CD4.naive
-N | 6B | 029 | CD20,21741,29893,CD4 mem,0.00610446777316587,Germinal center,CD20,T.CD4.memory
-N | 6B | 029 | CD20,21741,29893,CD8 naive,0,Germinal center,CD20,T.CD8.naive
-N | 6B | 029 | CD20,21741,29893,CD8 mem,0.00190170065719064,Germinal center,CD20,T.CD8.memory
-N | 6B | 029 | CD20,21741,29893,NK,0,Germinal center,CD20,NK
-N | 6B | 029 | CD20,21741,29893,pDCs,0.00169448986328111,Germinal center,CD20,pDCs
-N | 6B | 029 | CD20,21741,29893,mDCs,0,Germinal center,CD20,mDCs
-N | 6B | 029 | CD20,21741,29893,conv mono,0,Germinal center,CD20,monocytes.C
-N | 6B | 029 | CD20,21741,29893,NC mono,0,Germinal center,CD20,monocytes.NC.I
-N | 6B | 029 | CD20,21741,29893,neutro,0.00178156345119086,Germinal center,CD20,neutrophils
-N | 6B | 029 | CD20,21741,29893,Treg,0.0259796836576358,Germinal center,CD20,Treg
-N | 6B | 029 | CD20,21741,29893,endo,0.0141726262248512,Germinal center,CD20,endothelial.cells
-N | 6B | 029 | CD20,21741,29893,fibro,0.010994621236503,Germinal center,CD20,fibroblasts
-O | 6B | 030 | CD20,18493,9579,macro,0.0351451568721522,Germinal center,CD20,macrophages
-O | 6B | 030 | CD20,18493,9579,mast,0.000327052949357587,Germinal center,CD20,mast
-O | 6B | 030 | CD20,18493,9579,naive B,0.328899059698338,Germinal center,CD20,B.naive
-O | 6B | 030 | CD20,18493,9579,mem B,0.461922632009914,Germinal center,CD20,B.memory
-O | 6B | 030 | CD20,18493,9579,plasma,0.0503554830477954,Germinal center,CD20,plasma
-O | 6B | 030 | CD20,18493,9579,CD4 naive,0.0530723309710413,Germinal center,CD20,T.CD4.naive
-O | 6B | 030 | CD20,18493,9579,CD4 mem,0.0144496052907313,Germinal center,CD20,T.CD4.memory
-O | 6B | 030 | CD20,18493,9579,CD8 naive,0,Germinal center,CD20,T.CD8.naive
-O | 6B | 030 | CD20,18493,9579,CD8 mem,0.0100920869034701,Germinal center,CD20,T.CD8.memory
-O | 6B | 030 | CD20,18493,9579,NK,0.00640407496642394,Germinal center,CD20,NK
-O | 6B | 030 | CD20,18493,9579,pDCs,0,Germinal center,CD20,pDCs
-O | 6B | 030 | CD20,18493,9579,mDCs,0,Germinal center,CD20,mDCs
-O | 6B | 030 | CD20,18493,9579,conv mono,0,Germinal center,CD20,monocytes.C
-O | 6B | 030 | CD20,18493,9579,NC mono,0,Germinal center,CD20,monocytes.NC.I
-O | 6B | 030 | CD20,18493,9579,neutro,0.00107979891716739,Germinal center,CD20,neutrophils
-O | 6B | 030 | CD20,18493,9579,Treg,0.0178793904028554,Germinal center,CD20,Treg
-O | 6B | 030 | CD20,18493,9579,endo,0.0122835956209286,Germinal center,CD20,endothelial.cells
-O | 6B | 030 | CD20,18493,9579,fibro,0.00808973234982429,Germinal center,CD20,fibroblasts
-P | 6B | 031 | CD20,14101,37273,macro,0.0306024886310722,Germinal center,CD20,macrophages
-P | 6B | 031 | CD20,14101,37273,mast,0.000149072242299951,Germinal center,CD20,mast
-P | 6B | 031 | CD20,14101,37273,naive B,0.300595250579282,Germinal center,CD20,B.naive
-P | 6B | 031 | CD20,14101,37273,mem B,0.528447939062635,Germinal center,CD20,B.memory
-P | 6B | 031 | CD20,14101,37273,plasma,0.0338512883467851,Germinal center,CD20,plasma
-P | 6B | 031 | CD20,14101,37273,CD4 naive,0.0335841975459481,Germinal center,CD20,T.CD4.naive
-P | 6B | 031 | CD20,14101,37273,CD4 mem,0.0164407320498936,Germinal center,CD20,T.CD4.memory
-P | 6B | 031 | CD20,14101,37273,CD8 naive,0,Germinal center,CD20,T.CD8.naive
-P | 6B | 031 | CD20,14101,37273,CD8 mem,0.00625494695274212,Germinal center,CD20,T.CD8.memory
-P | 6B | 031 | CD20,14101,37273,NK,0,Germinal center,CD20,NK
-P | 6B | 031 | CD20,14101,37273,pDCs,0.00464237382602748,Germinal center,CD20,pDCs
-P | 6B | 031 | CD20,14101,37273,mDCs,0,Germinal center,CD20,mDCs
-P | 6B | 031 | CD20,14101,37273,conv mono,0,Germinal center,CD20,monocytes.C
-P | 6B | 031 | CD20,14101,37273,NC mono,0,Germinal center,CD20,monocytes.NC.I
-P | 6B | 031 | CD20,14101,37273,neutro,0.00402216823773717,Germinal center,CD20,neutrophils
-P | 6B | 031 | CD20,14101,37273,Treg,0.0175013650501397,Germinal center,CD20,Treg
-P | 6B | 031 | CD20,14101,37273,endo,0.0126988607639589,Germinal center,CD20,endothelial.cells
-P | 6B | 031 | CD20,14101,37273,fibro,0.0112093167114792,Germinal center,CD20,fibroblasts
-Q | 6B | 032 | CD20,21888,32371,macro,0.0248372171635799,Germinal center,CD20,macrophages
-Q | 6B | 032 | CD20,21888,32371,mast,0.000237867136770349,Germinal center,CD20,mast
-Q | 6B | 032 | CD20,21888,32371,naive B,0.282998099475336,Germinal center,CD20,B.naive
-Q | 6B | 032 | CD20,21888,32371,mem B,0.56341670469203,Germinal center,CD20,B.memory
-Q | 6B | 032 | CD20,21888,32371,plasma,0.0323397777179645,Germinal center,CD20,plasma
-Q | 6B | 032 | CD20,21888,32371,CD4 naive,0.0459451116973179,Germinal center,CD20,T.CD4.naive
-Q | 6B | 032 | CD20,21888,32371,CD4 mem,0.00495802696251268,Germinal center,CD20,T.CD4.memory
-Q | 6B | 032 | CD20,21888,32371,CD8 naive,0.00901372330871401,Germinal center,CD20,T.CD8.naive
-Q | 6B | 032 | CD20,21888,32371,CD8 mem,0.0028965796756498,Germinal center,CD20,T.CD8.memory
-Q | 6B | 032 | CD20,21888,32371,NK,0,Germinal center,CD20,NK
-Q | 6B | 032 | CD20,21888,32371,pDCs,0,Germinal center,CD20,pDCs
-Q | 6B | 032 | CD20,21888,32371,mDCs,0,Germinal center,CD20,mDCs
-Q | 6B | 032 | CD20,21888,32371,conv mono,0,Germinal center,CD20,monocytes.C
-Q | 6B | 032 | CD20,21888,32371,NC mono,0,Germinal center,CD20,monocytes.NC.I
-Q | 6B | 032 | CD20,21888,32371,neutro,0.00172000522315521,Germinal center,CD20,neutrophils
-Q | 6B | 032 | CD20,21888,32371,Treg,0.012236252930744,Germinal center,CD20,Treg
-Q | 6B | 032 | CD20,21888,32371,endo,0.010831384403986,Germinal center,CD20,endothelial.cells
-Q | 6B | 032 | CD20,21888,32371,fibro,0.00856924961223905,Germinal center,CD20,fibroblasts
-R | 6B | 033 | CD20,16887,39225,macro,0.0373361063813823,Germinal center,CD20,macrophages
-R | 6B | 033 | CD20,16887,39225,mast,0.000291074086601477,Germinal center,CD20,mast
-R | 6B | 033 | CD20,16887,39225,naive B,0.288602408451838,Germinal center,CD20,B.naive
-R | 6B | 033 | CD20,16887,39225,mem B,0.502754060705553,Germinal center,CD20,B.memory
-R | 6B | 033 | CD20,16887,39225,plasma,0.04221573201737,Germinal center,CD20,plasma
-R | 6B | 033 | CD20,16887,39225,CD4 naive,0.0702668654851905,Germinal center,CD20,T.CD4.naive
-R | 6B | 033 | CD20,16887,39225,CD4 mem,0,Germinal center,CD20,T.CD4.memory
-R | 6B | 033 | CD20,16887,39225,CD8 naive,0,Germinal center,CD20,T.CD8.naive
-R | 6B | 033 | CD20,16887,39225,CD8 mem,0.00451992256925158,Germinal center,CD20,T.CD8.memory
-R | 6B | 033 | CD20,16887,39225,NK,0.00556275322634442,Germinal center,CD20,NK
-R | 6B | 033 | CD20,16887,39225,pDCs,0.00346262158194291,Germinal center,CD20,pDCs
-R | 6B | 033 | CD20,16887,39225,mDCs,0,Germinal center,CD20,mDCs
-R | 6B | 033 | CD20,16887,39225,conv mono,0,Germinal center,CD20,monocytes.C
-R | 6B | 033 | CD20,16887,39225,NC mono,0,Germinal center,CD20,monocytes.NC.I
-R | 6B | 033 | CD20,16887,39225,neutro,0.000149707227738737,Germinal center,CD20,neutrophils
-R | 6B | 033 | CD20,16887,39225,Treg,0.0258819305125398,Germinal center,CD20,Treg
-R | 6B | 033 | CD20,16887,39225,endo,0.00975208735467066,Germinal center,CD20,endothelial.cells
-R | 6B | 033 | CD20,16887,39225,fibro,0.00920473039957679,Germinal center,CD20,fibroblasts
-S | 6B | 028 | CD3,3849,25684,macro,0.0163761224250765,Germinal center,CD3,macrophages
-S | 6B | 028 | CD3,3849,25684,mast,0.000347211882390824,Germinal center,CD3,mast
-S | 6B | 028 | CD3,3849,25684,naive B,0.24020470826254,Germinal center,CD3,B.naive
-S | 6B | 028 | CD3,3849,25684,mem B,0.389957209942116,Germinal center,CD3,B.memory
-S | 6B | 028 | CD3,3849,25684,plasma,0.0334221570410456,Germinal center,CD3,plasma
-S | 6B | 028 | CD3,3849,25684,CD4 naive,0.00668504793279383,Germinal center,CD3,T.CD4.naive
-S | 6B | 028 | CD3,3849,25684,CD4 mem,0.225355868495734,Germinal center,CD3,T.CD4.memory
-S | 6B | 028 | CD3,3849,25684,CD8 naive,0,Germinal center,CD3,T.CD8.naive
-S | 6B | 028 | CD3,3849,25684,CD8 mem,0.00361252574952336,Germinal center,CD3,T.CD8.memory
-S | 6B | 028 | CD3,3849,25684,NK,0.004267083239404,Germinal center,CD3,NK
-S | 6B | 028 | CD3,3849,25684,pDCs,0.00375571087434324,Germinal center,CD3,pDCs
-S | 6B | 028 | CD3,3849,25684,mDCs,0,Germinal center,CD3,mDCs
-S | 6B | 028 | CD3,3849,25684,conv mono,0,Germinal center,CD3,monocytes.C
-S | 6B | 028 | CD3,3849,25684,NC mono,0,Germinal center,CD3,monocytes.NC.I
-S | 6B | 028 | CD3,3849,25684,neutro,0,Germinal center,CD3,neutrophils
-S | 6B | 028 | CD3,3849,25684,Treg,0.0613671914341394,Germinal center,CD3,Treg
-S | 6B | 028 | CD3,3849,25684,endo,0.00458370465335343,Germinal center,CD3,endothelial.cells
-S | 6B | 028 | CD3,3849,25684,fibro,0.01006545806754,Germinal center,CD3,fibroblasts
-T | 6B | 029 | CD3,21741,29893,macro,0.0240320495713893,Germinal center,CD3,macrophages
-T | 6B | 029 | CD3,21741,29893,mast,0.000145669502070561,Germinal center,CD3,mast
-T | 6B | 029 | CD3,21741,29893,naive B,0.286150357986842,Germinal center,CD3,B.naive
-T | 6B | 029 | CD3,21741,29893,mem B,0.29018098825742,Germinal center,CD3,B.memory
-T | 6B | 029 | CD3,21741,29893,plasma,0.0338384738399009,Germinal center,CD3,plasma
-T | 6B | 029 | CD3,21741,29893,CD4 naive,0,Germinal center,CD3,T.CD4.naive
-T | 6B | 029 | CD3,21741,29893,CD4 mem,0.198631028620206,Germinal center,CD3,T.CD4.memory
-T | 6B | 029 | CD3,21741,29893,CD8 naive,0,Germinal center,CD3,T.CD8.naive
-T | 6B | 029 | CD3,21741,29893,CD8 mem,0.00802173453865824,Germinal center,CD3,T.CD8.memory
-T | 6B | 029 | CD3,21741,29893,NK,0.00405206718855908,Germinal center,CD3,NK
-T | 6B | 029 | CD3,21741,29893,pDCs,0.00305025162883567,Germinal center,CD3,pDCs
-T | 6B | 029 | CD3,21741,29893,mDCs,0,Germinal center,CD3,mDCs
-T | 6B | 029 | CD3,21741,29893,conv mono,0,Germinal center,CD3,monocytes.C
-T | 6B | 029 | CD3,21741,29893,NC mono,0,Germinal center,CD3,monocytes.NC.I
-T | 6B | 029 | CD3,21741,29893,neutro,0.000471312062434531,Germinal center,CD3,neutrophils
-T | 6B | 029 | CD3,21741,29893,Treg,0.133074200734595,Germinal center,CD3,Treg
-T | 6B | 029 | CD3,21741,29893,endo,0.0109759067146239,Germinal center,CD3,endothelial.cells
-T | 6B | 029 | CD3,21741,29893,fibro,0.00737595935446549,Germinal center,CD3,fibroblasts
-U | 6B | 030 | CD3,18493,9579,macro,0.0170431089526667,Germinal center,CD3,macrophages
-U | 6B | 030 | CD3,18493,9579,mast,0.000109477470853686,Germinal center,CD3,mast
-U | 6B | 030 | CD3,18493,9579,naive B,0.301673219481977,Germinal center,CD3,B.naive
-U | 6B | 030 | CD3,18493,9579,mem B,0.302169495219427,Germinal center,CD3,B.memory
-U | 6B | 030 | CD3,18493,9579,plasma,0.0366580459359424,Germinal center,CD3,plasma
-U | 6B | 030 | CD3,18493,9579,CD4 naive,0,Germinal center,CD3,T.CD4.naive
-U | 6B | 030 | CD3,18493,9579,CD4 mem,0.174328876409101,Germinal center,CD3,T.CD4.memory
-U | 6B | 030 | CD3,18493,9579,CD8 naive,0.00332163608427989,Germinal center,CD3,T.CD8.naive
-U | 6B | 030 | CD3,18493,9579,CD8 mem,0.0374820428798826,Germinal center,CD3,T.CD8.memory
-U | 6B | 030 | CD3,18493,9579,NK,0.000426047185218705,Germinal center,CD3,NK
-U | 6B | 030 | CD3,18493,9579,pDCs,0.00266834442640917,Germinal center,CD3,pDCs
-U | 6B | 030 | CD3,18493,9579,mDCs,0,Germinal center,CD3,mDCs
-U | 6B | 030 | CD3,18493,9579,conv mono,0,Germinal center,CD3,monocytes.C
-U | 6B | 030 | CD3,18493,9579,NC mono,0,Germinal center,CD3,monocytes.NC.I
-U | 6B | 030 | CD3,18493,9579,neutro,0.00246420752298649,Germinal center,CD3,neutrophils
-U | 6B | 030 | CD3,18493,9579,Treg,0.106509630569523,Germinal center,CD3,Treg
-U | 6B | 030 | CD3,18493,9579,endo,0.00711068357906148,Germinal center,CD3,endothelial.cells
-U | 6B | 030 | CD3,18493,9579,fibro,0.00803518428267117,Germinal center,CD3,fibroblasts
-V | 6B | 031 | CD3,14101,37273,macro,0.0186832348615416,Germinal center,CD3,macrophages
-V | 6B | 031 | CD3,14101,37273,mast,0.000511398886035954,Germinal center,CD3,mast
-V | 6B | 031 | CD3,14101,37273,naive B,0.113509664527073,Germinal center,CD3,B.naive
-V | 6B | 031 | CD3,14101,37273,mem B,0.508537269505621,Germinal center,CD3,B.memory
-V | 6B | 031 | CD3,14101,37273,plasma,0.0287849986446857,Germinal center,CD3,plasma
-V | 6B | 031 | CD3,14101,37273,CD4 naive,0,Germinal center,CD3,T.CD4.naive
-V | 6B | 031 | CD3,14101,37273,CD4 mem,0.163425519739467,Germinal center,CD3,T.CD4.memory
-V | 6B | 031 | CD3,14101,37273,CD8 naive,0.0167960813645358,Germinal center,CD3,T.CD8.naive
-V | 6B | 031 | CD3,14101,37273,CD8 mem,0.0121629482115674,Germinal center,CD3,T.CD8.memory
-V | 6B | 031 | CD3,14101,37273,NK,0,Germinal center,CD3,NK
-V | 6B | 031 | CD3,14101,37273,pDCs,0.000603584334420142,Germinal center,CD3,pDCs
-V | 6B | 031 | CD3,14101,37273,mDCs,0,Germinal center,CD3,mDCs
-V | 6B | 031 | CD3,14101,37273,conv mono,0,Germinal center,CD3,monocytes.C
-V | 6B | 031 | CD3,14101,37273,NC mono,0,Germinal center,CD3,monocytes.NC.I
-V | 6B | 031 | CD3,14101,37273,neutro,0,Germinal center,CD3,neutrophils
-V | 6B | 031 | CD3,14101,37273,Treg,0.125637947497837,Germinal center,CD3,Treg
-V | 6B | 031 | CD3,14101,37273,endo,0.0033961846773594,Germinal center,CD3,endothelial.cells
-V | 6B | 031 | CD3,14101,37273,fibro,0.0079511677498558,Germinal center,CD3,fibroblasts
-W | 6B | 032 | CD3,21888,32371,macro,0.0197789245101254,Germinal center,CD3,macrophages
-W | 6B | 032 | CD3,21888,32371,mast,0.000228510733204468,Germinal center,CD3,mast
-W | 6B | 032 | CD3,21888,32371,naive B,0.247158433006418,Germinal center,CD3,B.naive
-W | 6B | 032 | CD3,21888,32371,mem B,0.408937489211215,Germinal center,CD3,B.memory
-W | 6B | 032 | CD3,21888,32371,plasma,0.0336674878812534,Germinal center,CD3,plasma
-W | 6B | 032 | CD3,21888,32371,CD4 naive,0,Germinal center,CD3,T.CD4.naive
-W | 6B | 032 | CD3,21888,32371,CD4 mem,0.178926031539899,Germinal center,CD3,T.CD4.memory
-W | 6B | 032 | CD3,21888,32371,CD8 naive,0,Germinal center,CD3,T.CD8.naive
-W | 6B | 032 | CD3,21888,32371,CD8 mem,0.0070524668271194,Germinal center,CD3,T.CD8.memory
-W | 6B | 032 | CD3,21888,32371,NK,0.0029770909664802,Germinal center,CD3,NK
-W | 6B | 032 | CD3,21888,32371,pDCs,0,Germinal center,CD3,pDCs
-W | 6B | 032 | CD3,21888,32371,mDCs,0,Germinal center,CD3,mDCs
-W | 6B | 032 | CD3,21888,32371,conv mono,0,Germinal center,CD3,monocytes.C
-W | 6B | 032 | CD3,21888,32371,NC mono,0,Germinal center,CD3,monocytes.NC.I
-W | 6B | 032 | CD3,21888,32371,neutro,0.00226275156275983,Germinal center,CD3,neutrophils
-W | 6B | 032 | CD3,21888,32371,Treg,0.0853337451145626,Germinal center,CD3,Treg
-W | 6B | 032 | CD3,21888,32371,endo,0.0055836769858005,Germinal center,CD3,endothelial.cells
-W | 6B | 032 | CD3,21888,32371,fibro,0.00809339166116182,Germinal center,CD3,fibroblasts
-X | 6B | 033 | CD3,16887,39225,macro,0.0158395615899072,Germinal center,CD3,macrophages
-X | 6B | 033 | CD3,16887,39225,mast,0.000748005023942744,Germinal center,CD3,mast
-X | 6B | 033 | CD3,16887,39225,naive B,0.218980635391662,Germinal center,CD3,B.naive
-X | 6B | 033 | CD3,16887,39225,mem B,0.397665597018437,Germinal center,CD3,B.memory
-X | 6B | 033 | CD3,16887,39225,plasma,0.0290085285545845,Germinal center,CD3,plasma
-X | 6B | 033 | CD3,16887,39225,CD4 naive,0,Germinal center,CD3,T.CD4.naive
-X | 6B | 033 | CD3,16887,39225,CD4 mem,0.239712823741432,Germinal center,CD3,T.CD4.memory
-X | 6B | 033 | CD3,16887,39225,CD8 naive,0,Germinal center,CD3,T.CD8.naive
-X | 6B | 033 | CD3,16887,39225,CD8 mem,0.00977444477606605,Germinal center,CD3,T.CD8.memory
-X | 6B | 033 | CD3,16887,39225,NK,0,Germinal center,CD3,NK
-X | 6B | 033 | CD3,16887,39225,pDCs,0,Germinal center,CD3,pDCs
-X | 6B | 033 | CD3,16887,39225,mDCs,0,Germinal center,CD3,mDCs
-X | 6B | 033 | CD3,16887,39225,conv mono,0,Germinal center,CD3,monocytes.C
-X | 6B | 033 | CD3,16887,39225,NC mono,0,Germinal center,CD3,monocytes.NC.I
-X | 6B | 033 | CD3,16887,39225,neutro,0,Germinal center,CD3,neutrophils
-X | 6B | 033 | CD3,16887,39225,Treg,0.0790695519480339,Germinal center,CD3,Treg
-X | 6B | 033 | CD3,16887,39225,endo,0.00326985619623326,Germinal center,CD3,endothelial.cells
-X | 6B | 033 | CD3,16887,39225,fibro,0.00593099575970106,Germinal center,CD3,fibroblasts
-Y | 6B | 001 | Full ROI,23975,27060,macro,0.0297929988471144,Germinal center,Geometric,macrophages
-Y | 6B | 001 | Full ROI,23975,27060,mast,0.000174339361070256,Germinal center,Geometric,mast
-Y | 6B | 001 | Full ROI,23975,27060,naive B,0.407584154170506,Germinal center,Geometric,B.naive
-Y | 6B | 001 | Full ROI,23975,27060,mem B,0.36674029840281,Germinal center,Geometric,B.memory
-Y | 6B | 001 | Full ROI,23975,27060,plasma,0.0311331509966712,Germinal center,Geometric,plasma
-Y | 6B | 001 | Full ROI,23975,27060,CD4 naive,0,Germinal center,Geometric,T.CD4.naive
-Y | 6B | 001 | Full ROI,23975,27060,CD4 mem,0.0277351225369206,Germinal center,Geometric,T.CD4.memory
-Y | 6B | 001 | Full ROI,23975,27060,CD8 naive,0,Germinal center,Geometric,T.CD8.naive
-Y | 6B | 001 | Full ROI,23975,27060,CD8 mem,0.0119475772599202,Germinal center,Geometric,T.CD8.memory
-Y | 6B | 001 | Full ROI,23975,27060,NK,0.00964799617098082,Germinal center,Geometric,NK
-Y | 6B | 001 | Full ROI,23975,27060,pDCs,0,Germinal center,Geometric,pDCs
-Y | 6B | 001 | Full ROI,23975,27060,mDCs,0,Germinal center,Geometric,mDCs
-Y | 6B | 001 | Full ROI,23975,27060,conv mono,0,Germinal center,Geometric,monocytes.C
-Y | 6B | 001 | Full ROI,23975,27060,NC mono,0,Germinal center,Geometric,monocytes.NC.I
-Y | 6B | 001 | Full ROI,23975,27060,neutro,0.00306937422092997,Germinal center,Geometric,neutrophils
-Y | 6B | 001 | Full ROI,23975,27060,Treg,0.096267254740549,Germinal center,Geometric,Treg
-Y | 6B | 001 | Full ROI,23975,27060,endo,0.00833816482974071,Germinal center,Geometric,endothelial.cells
-Y | 6B | 001 | Full ROI,23975,27060,fibro,0.00756956846278746,Germinal center,Geometric,fibroblasts
-Z | 6B | 004 | Full ROI,25384,18364,macro,0.0459087475819521,Germinal center,Geometric,macrophages
-Z | 6B | 004 | Full ROI,25384,18364,mast,4.13146319802908e-05,Germinal center,Geometric,mast
-Z | 6B | 004 | Full ROI,25384,18364,naive B,0.333197887678139,Germinal center,Geometric,B.naive
-Z | 6B | 004 | Full ROI,25384,18364,mem B,0.394926971052016,Germinal center,Geometric,B.memory
-Z | 6B | 004 | Full ROI,25384,18364,plasma,0.0475104501013412,Germinal center,Geometric,plasma
-Z | 6B | 004 | Full ROI,25384,18364,CD4 naive,0,Germinal center,Geometric,T.CD4.naive
-Z | 6B | 004 | Full ROI,25384,18364,CD4 mem,0.112120272580924,Germinal center,Geometric,T.CD4.memory
-Z | 6B | 004 | Full ROI,25384,18364,CD8 naive,0.000135322710144994,Germinal center,Geometric,T.CD8.naive
-Z | 6B | 004 | Full ROI,25384,18364,CD8 mem,0.0053729096847619,Germinal center,Geometric,T.CD8.memory
-Z | 6B | 004 | Full ROI,25384,18364,NK,0.000385332161163811,Germinal center,Geometric,NK
-Z | 6B | 004 | Full ROI,25384,18364,pDCs,0.00305184720768743,Germinal center,Geometric,pDCs
-Z | 6B | 004 | Full ROI,25384,18364,mDCs,0,Germinal center,Geometric,mDCs
-Z | 6B | 004 | Full ROI,25384,18364,conv mono,0,Germinal center,Geometric,monocytes.C
-Z | 6B | 004 | Full ROI,25384,18364,NC mono,0,Germinal center,Geometric,monocytes.NC.I
-Z | 6B | 004 | Full ROI,25384,18364,neutro,0,Germinal center,Geometric,neutrophils
-Z | 6B | 004 | Full ROI,25384,18364,Treg,0.040045199344584,Germinal center,Geometric,Treg
-Z | 6B | 004 | Full ROI,25384,18364,endo,0.00847985503166755,Germinal center,Geometric,endothelial.cells
-Z | 6B | 004 | Full ROI,25384,18364,fibro,0.00882389023363788,Germinal center,Geometric,fibroblasts
-a | 6B | 007 | Full ROI,9503,34845,macro,0.0501271478037685,Germinal center,Geometric,macrophages
-a | 6B | 007 | Full ROI,9503,34845,mast,0.000323965889407586,Germinal center,Geometric,mast
-a | 6B | 007 | Full ROI,9503,34845,naive B,0.353131225336,Germinal center,Geometric,B.naive
-a | 6B | 007 | Full ROI,9503,34845,mem B,0.419112311877371,Germinal center,Geometric,B.memory
-a | 6B | 007 | Full ROI,9503,34845,plasma,0.0267813722230277,Germinal center,Geometric,plasma
-a | 6B | 007 | Full ROI,9503,34845,CD4 naive,0.0049015287811617,Germinal center,Geometric,T.CD4.naive
-a | 6B | 007 | Full ROI,9503,34845,CD4 mem,0.0413219794073542,Germinal center,Geometric,T.CD4.memory
-a | 6B | 007 | Full ROI,9503,34845,CD8 naive,0,Germinal center,Geometric,T.CD8.naive
-a | 6B | 007 | Full ROI,9503,34845,CD8 mem,0.0181303677558505,Germinal center,Geometric,T.CD8.memory
-a | 6B | 007 | Full ROI,9503,34845,NK,0,Germinal center,Geometric,NK
-a | 6B | 007 | Full ROI,9503,34845,pDCs,0.00403719189107956,Germinal center,Geometric,pDCs
-a | 6B | 007 | Full ROI,9503,34845,mDCs,0,Germinal center,Geometric,mDCs
-a | 6B | 007 | Full ROI,9503,34845,conv mono,0,Germinal center,Geometric,monocytes.C
-a | 6B | 007 | Full ROI,9503,34845,NC mono,0,Germinal center,Geometric,monocytes.NC.I
-a | 6B | 007 | Full ROI,9503,34845,neutro,0.000937075342263584,Germinal center,Geometric,neutrophils
-a | 6B | 007 | Full ROI,9503,34845,Treg,0.057721963818783,Germinal center,Geometric,Treg
-a | 6B | 007 | Full ROI,9503,34845,endo,0.0120841065040018,Germinal center,Geometric,endothelial.cells
-a | 6B | 007 | Full ROI,9503,34845,fibro,0.0113897633699311,Germinal center,Geometric,fibroblasts
-b | 6B | 010 | Full ROI,9318,33128,macro,0.0387306023589159,Germinal center,Geometric,macrophages
-b | 6B | 010 | Full ROI,9318,33128,mast,0.000285039446412867,Germinal center,Geometric,mast
-b | 6B | 010 | Full ROI,9318,33128,naive B,0.232320516102241,Germinal center,Geometric,B.naive
-b | 6B | 010 | Full ROI,9318,33128,mem B,0.53869794573925,Germinal center,Geometric,B.memory
-b | 6B | 010 | Full ROI,9318,33128,plasma,0.0307500301845747,Germinal center,Geometric,plasma
-b | 6B | 010 | Full ROI,9318,33128,CD4 naive,0,Germinal center,Geometric,T.CD4.naive
-b | 6B | 010 | Full ROI,9318,33128,CD4 mem,0.0733019922687467,Germinal center,Geometric,T.CD4.memory
-b | 6B | 010 | Full ROI,9318,33128,CD8 naive,0,Germinal center,Geometric,T.CD8.naive
-b | 6B | 010 | Full ROI,9318,33128,CD8 mem,0.00890682974539412,Germinal center,Geometric,T.CD8.memory
-b | 6B | 010 | Full ROI,9318,33128,NK,0,Germinal center,Geometric,NK
-b | 6B | 010 | Full ROI,9318,33128,pDCs,0.00354923531555486,Germinal center,Geometric,pDCs
-b | 6B | 010 | Full ROI,9318,33128,mDCs,0,Germinal center,Geometric,mDCs
-b | 6B | 010 | Full ROI,9318,33128,conv mono,0,Germinal center,Geometric,monocytes.C
-b | 6B | 010 | Full ROI,9318,33128,NC mono,0,Germinal center,Geometric,monocytes.NC.I
-b | 6B | 010 | Full ROI,9318,33128,neutro,0,Germinal center,Geometric,neutrophils
-b | 6B | 010 | Full ROI,9318,33128,Treg,0.0502838769617444,Germinal center,Geometric,Treg
-b | 6B | 010 | Full ROI,9318,33128,endo,0.0133403519845171,Germinal center,Geometric,endothelial.cells
-b | 6B | 010 | Full ROI,9318,33128,fibro,0.00983357989264773,Germinal center,Geometric,fibroblasts
-c | 6B | 013 | Full ROI,21798,36418,macro,0.0653231321982187,Germinal center,Geometric,macrophages
-c | 6B | 013 | Full ROI,21798,36418,mast,0,Germinal center,Geometric,mast
-c | 6B | 013 | Full ROI,21798,36418,naive B,0.294939526176521,Germinal center,Geometric,B.naive
-c | 6B | 013 | Full ROI,21798,36418,mem B,0.395211263500312,Germinal center,Geometric,B.memory
-c | 6B | 013 | Full ROI,21798,36418,plasma,0.0321899613030388,Germinal center,Geometric,plasma
-c | 6B | 013 | Full ROI,21798,36418,CD4 naive,0,Germinal center,Geometric,T.CD4.naive
-c | 6B | 013 | Full ROI,21798,36418,CD4 mem,0.0623092063246529,Germinal center,Geometric,T.CD4.memory
-c | 6B | 013 | Full ROI,21798,36418,CD8 naive,0.00262988766535515,Germinal center,Geometric,T.CD8.naive
-c | 6B | 013 | Full ROI,21798,36418,CD8 mem,0.0227916479424599,Germinal center,Geometric,T.CD8.memory
-c | 6B | 013 | Full ROI,21798,36418,NK,0.00454364581844304,Germinal center,Geometric,NK
-c | 6B | 013 | Full ROI,21798,36418,pDCs,0.00183434160360829,Germinal center,Geometric,pDCs
-c | 6B | 013 | Full ROI,21798,36418,mDCs,0,Germinal center,Geometric,mDCs
-c | 6B | 013 | Full ROI,21798,36418,conv mono,0,Germinal center,Geometric,monocytes.C
-c | 6B | 013 | Full ROI,21798,36418,NC mono,0,Germinal center,Geometric,monocytes.NC.I
-c | 6B | 013 | Full ROI,21798,36418,neutro,0,Germinal center,Geometric,neutrophils
-c | 6B | 013 | Full ROI,21798,36418,Treg,0.0946422650087581,Germinal center,Geometric,Treg
-c | 6B | 013 | Full ROI,21798,36418,endo,0.0112349469462252,Germinal center,Geometric,endothelial.cells
-c | 6B | 013 | Full ROI,21798,36418,fibro,0.012350175512407,Germinal center,Geometric,fibroblasts
-d | 6B | 016 | Full ROI,25388,26749,macro,0.04271999048533,Germinal center,Geometric,macrophages
-d | 6B | 016 | Full ROI,25388,26749,mast,0.000252255482846464,Germinal center,Geometric,mast
-d | 6B | 016 | Full ROI,25388,26749,naive B,0.252074229271029,Germinal center,Geometric,B.naive
-d | 6B | 016 | Full ROI,25388,26749,mem B,0.528690174643163,Germinal center,Geometric,B.memory
-d | 6B | 016 | Full ROI,25388,26749,plasma,0.0247115671206023,Germinal center,Geometric,plasma
-d | 6B | 016 | Full ROI,25388,26749,CD4 naive,0.00847567385936276,Germinal center,Geometric,T.CD4.naive
-d | 6B | 016 | Full ROI,25388,26749,CD4 mem,0.0478804807968365,Germinal center,Geometric,T.CD4.memory
-d | 6B | 016 | Full ROI,25388,26749,CD8 naive,0,Germinal center,Geometric,T.CD8.naive
-d | 6B | 016 | Full ROI,25388,26749,CD8 mem,0.00673604559753099,Germinal center,Geometric,T.CD8.memory
-d | 6B | 016 | Full ROI,25388,26749,NK,0.00373080760151782,Germinal center,Geometric,NK
-d | 6B | 016 | Full ROI,25388,26749,pDCs,0.000946403002498559,Germinal center,Geometric,pDCs
-d | 6B | 016 | Full ROI,25388,26749,mDCs,0,Germinal center,Geometric,mDCs
-d | 6B | 016 | Full ROI,25388,26749,conv mono,0,Germinal center,Geometric,monocytes.C
-d | 6B | 016 | Full ROI,25388,26749,NC mono,0,Germinal center,Geometric,monocytes.NC.I
-d | 6B | 016 | Full ROI,25388,26749,neutro,0,Germinal center,Geometric,neutrophils
-d | 6B | 016 | Full ROI,25388,26749,Treg,0.0580878478208351,Germinal center,Geometric,Treg
-d | 6B | 016 | Full ROI,25388,26749,endo,0.0139877443370789,Germinal center,Geometric,endothelial.cells
-d | 6B | 016 | Full ROI,25388,26749,fibro,0.0117067799813686,Germinal center,Geometric,fibroblasts
-e | 6B | 019 | Full ROI,9260,15437,macro,0.0259942837746171,Germinal center,Geometric,macrophages
-e | 6B | 019 | Full ROI,9260,15437,mast,0.000165805240264729,Germinal center,Geometric,mast
-e | 6B | 019 | Full ROI,9260,15437,naive B,0.367262468569154,Germinal center,Geometric,B.naive
-e | 6B | 019 | Full ROI,9260,15437,mem B,0.359904647626393,Germinal center,Geometric,B.memory
-e | 6B | 019 | Full ROI,9260,15437,plasma,0.0361085438680021,Germinal center,Geometric,plasma
-e | 6B | 019 | Full ROI,9260,15437,CD4 naive,0,Germinal center,Geometric,T.CD4.naive
-e | 6B | 019 | Full ROI,9260,15437,CD4 mem,0.162029321419544,Germinal center,Geometric,T.CD4.memory
-e | 6B | 019 | Full ROI,9260,15437,CD8 naive,0.0108341404290489,Germinal center,Geometric,T.CD8.naive
-e | 6B | 019 | Full ROI,9260,15437,CD8 mem,0.0172465135202466,Germinal center,Geometric,T.CD8.memory
-e | 6B | 019 | Full ROI,9260,15437,NK,0,Germinal center,Geometric,NK
-e | 6B | 019 | Full ROI,9260,15437,pDCs,0,Germinal center,Geometric,pDCs
-e | 6B | 019 | Full ROI,9260,15437,mDCs,0,Germinal center,Geometric,mDCs
-e | 6B | 019 | Full ROI,9260,15437,conv mono,0,Germinal center,Geometric,monocytes.C
-e | 6B | 019 | Full ROI,9260,15437,NC mono,0.000931975898417702,Germinal center,Geometric,monocytes.NC.I
-e | 6B | 019 | Full ROI,9260,15437,neutro,0,Germinal center,Geometric,neutrophils
-e | 6B | 019 | Full ROI,9260,15437,Treg,0.00038902193178274,Germinal center,Geometric,Treg
-e | 6B | 019 | Full ROI,9260,15437,endo,0.00856225467576659,Germinal center,Geometric,endothelial.cells
-e | 6B | 019 | Full ROI,9260,15437,fibro,0.010571023046763,Germinal center,Geometric,fibroblasts
-f | 6B | 020 | Full ROI,6925,16105,macro,0.0492928929692491,Germinal center,Geometric,macrophages
-f | 6B | 020 | Full ROI,6925,16105,mast,0.000175699317316577,Germinal center,Geometric,mast
-f | 6B | 020 | Full ROI,6925,16105,naive B,0.260157894878015,Germinal center,Geometric,B.naive
-f | 6B | 020 | Full ROI,6925,16105,mem B,0.444366434496281,Germinal center,Geometric,B.memory
-f | 6B | 020 | Full ROI,6925,16105,plasma,0.0457656084618433,Germinal center,Geometric,plasma
-f | 6B | 020 | Full ROI,6925,16105,CD4 naive,0.0108766492080145,Germinal center,Geometric,T.CD4.naive
-f | 6B | 020 | Full ROI,6925,16105,CD4 mem,0.0691412524404104,Germinal center,Geometric,T.CD4.memory
-f | 6B | 020 | Full ROI,6925,16105,CD8 naive,0,Germinal center,Geometric,T.CD8.naive
-f | 6B | 020 | Full ROI,6925,16105,CD8 mem,0.0185976423475209,Germinal center,Geometric,T.CD8.memory
-f | 6B | 020 | Full ROI,6925,16105,NK,0.00847962822178925,Germinal center,Geometric,NK
-f | 6B | 020 | Full ROI,6925,16105,pDCs,0.00680902097454048,Germinal center,Geometric,pDCs
-f | 6B | 020 | Full ROI,6925,16105,mDCs,0.000109199060640077,Germinal center,Geometric,mDCs
-f | 6B | 020 | Full ROI,6925,16105,conv mono,0,Germinal center,Geometric,monocytes.C
-f | 6B | 020 | Full ROI,6925,16105,NC mono,0,Germinal center,Geometric,monocytes.NC.I
-f | 6B | 020 | Full ROI,6925,16105,neutro,0.00214447217150097,Germinal center,Geometric,neutrophils
-f | 6B | 020 | Full ROI,6925,16105,Treg,0.0465918326257743,Germinal center,Geometric,Treg
-f | 6B | 020 | Full ROI,6925,16105,endo,0.0236844129041322,Germinal center,Geometric,endothelial.cells
-f | 6B | 020 | Full ROI,6925,16105,fibro,0.0138073599229724,Germinal center,Geometric,fibroblasts
-g | 6B | 021 | Full ROI,11177,16145,macro,0.0364757017611729,Germinal center,Geometric,macrophages
-g | 6B | 021 | Full ROI,11177,16145,mast,0.000125058219448944,Germinal center,Geometric,mast
-g | 6B | 021 | Full ROI,11177,16145,naive B,0.36948404679333,Germinal center,Geometric,B.naive
-g | 6B | 021 | Full ROI,11177,16145,mem B,0.388522242896911,Germinal center,Geometric,B.memory
-g | 6B | 021 | Full ROI,11177,16145,plasma,0.0287265777381111,Germinal center,Geometric,plasma
-g | 6B | 021 | Full ROI,11177,16145,CD4 naive,0.0554991771121913,Germinal center,Geometric,T.CD4.naive
-g | 6B | 021 | Full ROI,11177,16145,CD4 mem,0.0333868970105737,Germinal center,Geometric,T.CD4.memory
-g | 6B | 021 | Full ROI,11177,16145,CD8 naive,0,Germinal center,Geometric,T.CD8.naive
-g | 6B | 021 | Full ROI,11177,16145,CD8 mem,0.000269897454906303,Germinal center,Geometric,T.CD8.memory
-g | 6B | 021 | Full ROI,11177,16145,NK,0.00495692684245592,Germinal center,Geometric,NK
-g | 6B | 021 | Full ROI,11177,16145,pDCs,0.00168562899750387,Germinal center,Geometric,pDCs
-g | 6B | 021 | Full ROI,11177,16145,mDCs,0,Germinal center,Geometric,mDCs
-g | 6B | 021 | Full ROI,11177,16145,conv mono,0,Germinal center,Geometric,monocytes.C
-g | 6B | 021 | Full ROI,11177,16145,NC mono,0,Germinal center,Geometric,monocytes.NC.I
-g | 6B | 021 | Full ROI,11177,16145,neutro,0,Germinal center,Geometric,neutrophils
-g | 6B | 021 | Full ROI,11177,16145,Treg,0.0626436368865858,Germinal center,Geometric,Treg
-g | 6B | 021 | Full ROI,11177,16145,endo,0.00971070215202064,Germinal center,Geometric,endothelial.cells
-g | 6B | 021 | Full ROI,11177,16145,fibro,0.00851350613478887,Germinal center,Geometric,fibroblasts
-h | 6B | 022 | Full ROI,7333,20899,macro,0.039681675207783,Germinal center,Geometric,macrophages
-h | 6B | 022 | Full ROI,7333,20899,mast,0.000465452549375152,Germinal center,Geometric,mast
-h | 6B | 022 | Full ROI,7333,20899,naive B,0.468184744412714,Germinal center,Geometric,B.naive
-h | 6B | 022 | Full ROI,7333,20899,mem B,0.287334057041089,Germinal center,Geometric,B.memory
-h | 6B | 022 | Full ROI,7333,20899,plasma,0.0293000401653239,Germinal center,Geometric,plasma
-h | 6B | 022 | Full ROI,7333,20899,CD4 naive,0,Germinal center,Geometric,T.CD4.naive
-h | 6B | 022 | Full ROI,7333,20899,CD4 mem,0.064296298554929,Germinal center,Geometric,T.CD4.memory
-h | 6B | 022 | Full ROI,7333,20899,CD8 naive,0.00648691621776243,Germinal center,Geometric,T.CD8.naive
-h | 6B | 022 | Full ROI,7333,20899,CD8 mem,0.00541466301218502,Germinal center,Geometric,T.CD8.memory
-h | 6B | 022 | Full ROI,7333,20899,NK,0,Germinal center,Geometric,NK
-h | 6B | 022 | Full ROI,7333,20899,pDCs,0.00318146845201626,Germinal center,Geometric,pDCs
-h | 6B | 022 | Full ROI,7333,20899,mDCs,0,Germinal center,Geometric,mDCs
-h | 6B | 022 | Full ROI,7333,20899,conv mono,0,Germinal center,Geometric,monocytes.C
-h | 6B | 022 | Full ROI,7333,20899,NC mono,0,Germinal center,Geometric,monocytes.NC.I
-h | 6B | 022 | Full ROI,7333,20899,neutro,0.00145990418267083,Germinal center,Geometric,neutrophils
-h | 6B | 022 | Full ROI,7333,20899,Treg,0.079449110989705,Germinal center,Geometric,Treg
-h | 6B | 022 | Full ROI,7333,20899,endo,0.00687487129845542,Germinal center,Geometric,endothelial.cells
-h | 6B | 022 | Full ROI,7333,20899,fibro,0.00787079791599166,Germinal center,Geometric,fibroblasts
-i | 6B | 023 | Full ROI,12921,26841,macro,0.026099725948924,Germinal center,Geometric,macrophages
-i | 6B | 023 | Full ROI,12921,26841,mast,0.000872777194487324,Germinal center,Geometric,mast
-i | 6B | 023 | Full ROI,12921,26841,naive B,0.415573130541755,Germinal center,Geometric,B.naive
-i | 6B | 023 | Full ROI,12921,26841,mem B,0.295221988608714,Germinal center,Geometric,B.memory
-i | 6B | 023 | Full ROI,12921,26841,plasma,0.0191884794518736,Germinal center,Geometric,plasma
-i | 6B | 023 | Full ROI,12921,26841,CD4 naive,0,Germinal center,Geometric,T.CD4.naive
-i | 6B | 023 | Full ROI,12921,26841,CD4 mem,0.0578051935293459,Germinal center,Geometric,T.CD4.memory
-i | 6B | 023 | Full ROI,12921,26841,CD8 naive,0,Germinal center,Geometric,T.CD8.naive
-i | 6B | 023 | Full ROI,12921,26841,CD8 mem,0.0153990922205829,Germinal center,Geometric,T.CD8.memory
-i | 6B | 023 | Full ROI,12921,26841,NK,0.00689359065985814,Germinal center,Geometric,NK
-i | 6B | 023 | Full ROI,12921,26841,pDCs,0,Germinal center,Geometric,pDCs
-i | 6B | 023 | Full ROI,12921,26841,mDCs,0.00171882066086624,Germinal center,Geometric,mDCs
-i | 6B | 023 | Full ROI,12921,26841,conv mono,0,Germinal center,Geometric,monocytes.C
-i | 6B | 023 | Full ROI,12921,26841,NC mono,0,Germinal center,Geometric,monocytes.NC.I
-i | 6B | 023 | Full ROI,12921,26841,neutro,0,Germinal center,Geometric,neutrophils
-i | 6B | 023 | Full ROI,12921,26841,Treg,0.14415647923347,Germinal center,Geometric,Treg
-i | 6B | 023 | Full ROI,12921,26841,endo,0.00629212671194112,Germinal center,Geometric,endothelial.cells
-i | 6B | 023 | Full ROI,12921,26841,fibro,0.0107785952381821,Germinal center,Geometric,fibroblasts
-j | 6B | 024 | Full ROI,20423,22880,macro,0.0321218954739521,Germinal center,Geometric,macrophages
-j | 6B | 024 | Full ROI,20423,22880,mast,0.000807146363180096,Germinal center,Geometric,mast
-j | 6B | 024 | Full ROI,20423,22880,naive B,0.321837936125474,Germinal center,Geometric,B.naive
-j | 6B | 024 | Full ROI,20423,22880,mem B,0.396438351513172,Germinal center,Geometric,B.memory
-j | 6B | 024 | Full ROI,20423,22880,plasma,0.0294767165035503,Germinal center,Geometric,plasma
-j | 6B | 024 | Full ROI,20423,22880,CD4 naive,0.0379135218234219,Germinal center,Geometric,T.CD4.naive
-j | 6B | 024 | Full ROI,20423,22880,CD4 mem,0.0395439538478989,Germinal center,Geometric,T.CD4.memory
-j | 6B | 024 | Full ROI,20423,22880,CD8 naive,0,Germinal center,Geometric,T.CD8.naive
-j | 6B | 024 | Full ROI,20423,22880,CD8 mem,0.00824030132876274,Germinal center,Geometric,T.CD8.memory
-j | 6B | 024 | Full ROI,20423,22880,NK,0.0021761363324564,Germinal center,Geometric,NK
-j | 6B | 024 | Full ROI,20423,22880,pDCs,0.00592325938433115,Germinal center,Geometric,pDCs
-j | 6B | 024 | Full ROI,20423,22880,mDCs,0,Germinal center,Geometric,mDCs
-j | 6B | 024 | Full ROI,20423,22880,conv mono,0,Germinal center,Geometric,monocytes.C
-j | 6B | 024 | Full ROI,20423,22880,NC mono,0,Germinal center,Geometric,monocytes.NC.I
-j | 6B | 024 | Full ROI,20423,22880,neutro,0,Germinal center,Geometric,neutrophils
-j | 6B | 024 | Full ROI,20423,22880,Treg,0.119630320981396,Germinal center,Geometric,Treg
-j | 6B | 024 | Full ROI,20423,22880,endo,0.00126079325754326,Germinal center,Geometric,endothelial.cells
-j | 6B | 024 | Full ROI,20423,22880,fibro,0.00462966706486052,Germinal center,Geometric,fibroblasts
-k | 6B | 025 | Full ROI,22106,13564,macro,0.030533250403,Germinal center,Geometric,macrophages
-k | 6B | 025 | Full ROI,22106,13564,mast,0.000600031260812637,Germinal center,Geometric,mast
-k | 6B | 025 | Full ROI,22106,13564,naive B,0.418746932642639,Germinal center,Geometric,B.naive
-k | 6B | 025 | Full ROI,22106,13564,mem B,0.394538562417542,Germinal center,Geometric,B.memory
-k | 6B | 025 | Full ROI,22106,13564,plasma,0.0147934128683675,Germinal center,Geometric,plasma
-k | 6B | 025 | Full ROI,22106,13564,CD4 naive,0.00295570222803693,Germinal center,Geometric,T.CD4.naive
-k | 6B | 025 | Full ROI,22106,13564,CD4 mem,0.0287836260124274,Germinal center,Geometric,T.CD4.memory
-k | 6B | 025 | Full ROI,22106,13564,CD8 naive,0,Germinal center,Geometric,T.CD8.naive
-k | 6B | 025 | Full ROI,22106,13564,CD8 mem,0.0113146679259318,Germinal center,Geometric,T.CD8.memory
-k | 6B | 025 | Full ROI,22106,13564,NK,0,Germinal center,Geometric,NK
-k | 6B | 025 | Full ROI,22106,13564,pDCs,0.00386896258567495,Germinal center,Geometric,pDCs
-k | 6B | 025 | Full ROI,22106,13564,mDCs,0,Germinal center,Geometric,mDCs
-k | 6B | 025 | Full ROI,22106,13564,conv mono,0,Germinal center,Geometric,monocytes.C
-k | 6B | 025 | Full ROI,22106,13564,NC mono,0,Germinal center,Geometric,monocytes.NC.I
-k | 6B | 025 | Full ROI,22106,13564,neutro,0,Germinal center,Geometric,neutrophils
-k | 6B | 025 | Full ROI,22106,13564,Treg,0.0872342063381893,Germinal center,Geometric,Treg
-k | 6B | 025 | Full ROI,22106,13564,endo,0.000892642010179935,Germinal center,Geometric,endothelial.cells
-k | 6B | 025 | Full ROI,22106,13564,fibro,0.00573800330719842,Germinal center,Geometric,fibroblasts
-l | 6B | 026 | Full ROI,27284,24303,macro,0.0164982243958389,Germinal center,Geometric,macrophages
-l | 6B | 026 | Full ROI,27284,24303,mast,0.000136503647314474,Germinal center,Geometric,mast
-l | 6B | 026 | Full ROI,27284,24303,naive B,0.401651095738627,Germinal center,Geometric,B.naive
-l | 6B | 026 | Full ROI,27284,24303,mem B,0.355754063831207,Germinal center,Geometric,B.memory
-l | 6B | 026 | Full ROI,27284,24303,plasma,0.0295563697336408,Germinal center,Geometric,plasma
-l | 6B | 026 | Full ROI,27284,24303,CD4 naive,0.0175726002633827,Germinal center,Geometric,T.CD4.naive
-l | 6B | 026 | Full ROI,27284,24303,CD4 mem,0.0533899744198723,Germinal center,Geometric,T.CD4.memory
-l | 6B | 026 | Full ROI,27284,24303,CD8 naive,0,Germinal center,Geometric,T.CD8.naive
-l | 6B | 026 | Full ROI,27284,24303,CD8 mem,0.000358470821667336,Germinal center,Geometric,T.CD8.memory
-l | 6B | 026 | Full ROI,27284,24303,NK,0,Germinal center,Geometric,NK
-l | 6B | 026 | Full ROI,27284,24303,pDCs,0.000755529079298451,Germinal center,Geometric,pDCs
-l | 6B | 026 | Full ROI,27284,24303,mDCs,0,Germinal center,Geometric,mDCs
-l | 6B | 026 | Full ROI,27284,24303,conv mono,0,Germinal center,Geometric,monocytes.C
-l | 6B | 026 | Full ROI,27284,24303,NC mono,0,Germinal center,Geometric,monocytes.NC.I
-l | 6B | 026 | Full ROI,27284,24303,neutro,0,Germinal center,Geometric,neutrophils
-l | 6B | 026 | Full ROI,27284,24303,Treg,0.115327262043324,Germinal center,Geometric,Treg
-l | 6B | 026 | Full ROI,27284,24303,endo,0.00463255887640897,Germinal center,Geometric,endothelial.cells
-l | 6B | 026 | Full ROI,27284,24303,fibro,0.00436734714941895,Germinal center,Geometric,fibroblasts
-m | 6B | 027 | Full ROI,21345,12134,macro,0.0226619385036959,Germinal center,Geometric,macrophages
-m | 6B | 027 | Full ROI,21345,12134,mast,0.000571357176137102,Germinal center,Geometric,mast
-m | 6B | 027 | Full ROI,21345,12134,naive B,0.262608031613894,Germinal center,Geometric,B.naive
-m | 6B | 027 | Full ROI,21345,12134,mem B,0.567999448154411,Germinal center,Geometric,B.memory
-m | 6B | 027 | Full ROI,21345,12134,plasma,0.0323167261893003,Germinal center,Geometric,plasma
-m | 6B | 027 | Full ROI,21345,12134,CD4 naive,0,Germinal center,Geometric,T.CD4.naive
-m | 6B | 027 | Full ROI,21345,12134,CD4 mem,0.0398042568571656,Germinal center,Geometric,T.CD4.memory
-m | 6B | 027 | Full ROI,21345,12134,CD8 naive,0,Germinal center,Geometric,T.CD8.naive
-m | 6B | 027 | Full ROI,21345,12134,CD8 mem,0,Germinal center,Geometric,T.CD8.memory
-m | 6B | 027 | Full ROI,21345,12134,NK,0,Germinal center,Geometric,NK
-m | 6B | 027 | Full ROI,21345,12134,pDCs,0,Germinal center,Geometric,pDCs
-m | 6B | 027 | Full ROI,21345,12134,mDCs,0,Germinal center,Geometric,mDCs
-m | 6B | 027 | Full ROI,21345,12134,conv mono,0,Germinal center,Geometric,monocytes.C
-m | 6B | 027 | Full ROI,21345,12134,NC mono,0,Germinal center,Geometric,monocytes.NC.I
-m | 6B | 027 | Full ROI,21345,12134,neutro,0.0026775605662052,Germinal center,Geometric,neutrophils
-m | 6B | 027 | Full ROI,21345,12134,Treg,0.0609472593115181,Germinal center,Geometric,Treg
-m | 6B | 027 | Full ROI,21345,12134,endo,0.00397515447851037,Germinal center,Geometric,endothelial.cells
-m | 6B | 027 | Full ROI,21345,12134,fibro,0.00643826714916245,Germinal center,Geometric,fibroblasts
-n | 6B | 003 | Full ROI,23615,27609,macro,0.0382773922299143,T cell zone,Geometric,macrophages
-n | 6B | 003 | Full ROI,23615,27609,mast,0.000160216224115069,T cell zone,Geometric,mast
-n | 6B | 003 | Full ROI,23615,27609,naive B,0.0589776601848575,T cell zone,Geometric,B.naive
-n | 6B | 003 | Full ROI,23615,27609,mem B,0.052997369372824,T cell zone,Geometric,B.memory
-n | 6B | 003 | Full ROI,23615,27609,plasma,0.00723297809272283,T cell zone,Geometric,plasma
-n | 6B | 003 | Full ROI,23615,27609,CD4 naive,0.523608272539237,T cell zone,Geometric,T.CD4.naive
-n | 6B | 003 | Full ROI,23615,27609,CD4 mem,0.0810962211519979,T cell zone,Geometric,T.CD4.memory
-n | 6B | 003 | Full ROI,23615,27609,CD8 naive,0.0112659421137759,T cell zone,Geometric,T.CD8.naive
-n | 6B | 003 | Full ROI,23615,27609,CD8 mem,0.0359885263779762,T cell zone,Geometric,T.CD8.memory
-n | 6B | 003 | Full ROI,23615,27609,NK,0.00971271755082388,T cell zone,Geometric,NK
-n | 6B | 003 | Full ROI,23615,27609,pDCs,0.00818429892421039,T cell zone,Geometric,pDCs
-n | 6B | 003 | Full ROI,23615,27609,mDCs,0.00441049547824999,T cell zone,Geometric,mDCs
-n | 6B | 003 | Full ROI,23615,27609,conv mono,0,T cell zone,Geometric,monocytes.C
-n | 6B | 003 | Full ROI,23615,27609,NC mono,0.00432995260566617,T cell zone,Geometric,monocytes.NC.I
-n | 6B | 003 | Full ROI,23615,27609,neutro,0.00691024099851196,T cell zone,Geometric,neutrophils
-n | 6B | 003 | Full ROI,23615,27609,Treg,0.126582896306211,T cell zone,Geometric,Treg
-n | 6B | 003 | Full ROI,23615,27609,endo,0.0171235692923258,T cell zone,Geometric,endothelial.cells
-n | 6B | 003 | Full ROI,23615,27609,fibro,0.0131412505565804,T cell zone,Geometric,fibroblasts
-o | 6B | 006 | Full ROI,25105,18785,macro,0.0482429836367648,T cell zone,Geometric,macrophages
-o | 6B | 006 | Full ROI,25105,18785,mast,0.000413826505613146,T cell zone,Geometric,mast
-o | 6B | 006 | Full ROI,25105,18785,naive B,0.0450662938190331,T cell zone,Geometric,B.naive
-o | 6B | 006 | Full ROI,25105,18785,mem B,0.0981052290389551,T cell zone,Geometric,B.memory
-o | 6B | 006 | Full ROI,25105,18785,plasma,0.0114801527779549,T cell zone,Geometric,plasma
-o | 6B | 006 | Full ROI,25105,18785,CD4 naive,0.476554762198018,T cell zone,Geometric,T.CD4.naive
-o | 6B | 006 | Full ROI,25105,18785,CD4 mem,0.0738106867337981,T cell zone,Geometric,T.CD4.memory
-o | 6B | 006 | Full ROI,25105,18785,CD8 naive,0,T cell zone,Geometric,T.CD8.naive
-o | 6B | 006 | Full ROI,25105,18785,CD8 mem,0.0568589440788024,T cell zone,Geometric,T.CD8.memory
-o | 6B | 006 | Full ROI,25105,18785,NK,0.0108815853158041,T cell zone,Geometric,NK
-o | 6B | 006 | Full ROI,25105,18785,pDCs,0.00768236141627349,T cell zone,Geometric,pDCs
-o | 6B | 006 | Full ROI,25105,18785,mDCs,0.003770424417291,T cell zone,Geometric,mDCs
-o | 6B | 006 | Full ROI,25105,18785,conv mono,0,T cell zone,Geometric,monocytes.C
-o | 6B | 006 | Full ROI,25105,18785,NC mono,0.00396655915273766,T cell zone,Geometric,monocytes.NC.I
-o | 6B | 006 | Full ROI,25105,18785,neutro,0.00485692845647914,T cell zone,Geometric,neutrophils
-o | 6B | 006 | Full ROI,25105,18785,Treg,0.121435816931646,T cell zone,Geometric,Treg
-o | 6B | 006 | Full ROI,25105,18785,endo,0.0220930197949717,T cell zone,Geometric,endothelial.cells
-o | 6B | 006 | Full ROI,25105,18785,fibro,0.0147804257258569,T cell zone,Geometric,fibroblasts
-p | 6B | 009 | Full ROI,10097,34409,macro,0.0257660437610787,T cell zone,Geometric,macrophages
-p | 6B | 009 | Full ROI,10097,34409,mast,0.000271246148878606,T cell zone,Geometric,mast
-p | 6B | 009 | Full ROI,10097,34409,naive B,0.00712826319520133,T cell zone,Geometric,B.naive
-p | 6B | 009 | Full ROI,10097,34409,mem B,0.0248236104668417,T cell zone,Geometric,B.memory
-p | 6B | 009 | Full ROI,10097,34409,plasma,0.0116573221958455,T cell zone,Geometric,plasma
-p | 6B | 009 | Full ROI,10097,34409,CD4 naive,0.590993760365507,T cell zone,Geometric,T.CD4.naive
-p | 6B | 009 | Full ROI,10097,34409,CD4 mem,0.0805313168648999,T cell zone,Geometric,T.CD4.memory
-p | 6B | 009 | Full ROI,10097,34409,CD8 naive,0.0775743085874496,T cell zone,Geometric,T.CD8.naive
-p | 6B | 009 | Full ROI,10097,34409,CD8 mem,0.00167457657762919,T cell zone,Geometric,T.CD8.memory
-p | 6B | 009 | Full ROI,10097,34409,NK,0.0110817948044408,T cell zone,Geometric,NK
-p | 6B | 009 | Full ROI,10097,34409,pDCs,0.00465378304800698,T cell zone,Geometric,pDCs
-p | 6B | 009 | Full ROI,10097,34409,mDCs,0.00279806697686019,T cell zone,Geometric,mDCs
-p | 6B | 009 | Full ROI,10097,34409,conv mono,0,T cell zone,Geometric,monocytes.C
-p | 6B | 009 | Full ROI,10097,34409,NC mono,0.00307618644808254,T cell zone,Geometric,monocytes.NC.I
-p | 6B | 009 | Full ROI,10097,34409,neutro,0.00465551667511909,T cell zone,Geometric,neutrophils
-p | 6B | 009 | Full ROI,10097,34409,Treg,0.136053890344012,T cell zone,Geometric,Treg
-p | 6B | 009 | Full ROI,10097,34409,endo,0.00997835375359401,T cell zone,Geometric,endothelial.cells
-p | 6B | 009 | Full ROI,10097,34409,fibro,0.00728195978655236,T cell zone,Geometric,fibroblasts
-q | 6B | 012 | Full ROI,10169,32873,macro,0.0239557793404293,T cell zone,Geometric,macrophages
-q | 6B | 012 | Full ROI,10169,32873,mast,0.000572785550850496,T cell zone,Geometric,mast
-q | 6B | 012 | Full ROI,10169,32873,naive B,0.0624784397682208,T cell zone,Geometric,B.naive
-q | 6B | 012 | Full ROI,10169,32873,mem B,0.0615685248767201,T cell zone,Geometric,B.memory
-q | 6B | 012 | Full ROI,10169,32873,plasma,0.0125659394714827,T cell zone,Geometric,plasma
-q | 6B | 012 | Full ROI,10169,32873,CD4 naive,0.518805736229715,T cell zone,Geometric,T.CD4.naive
-q | 6B | 012 | Full ROI,10169,32873,CD4 mem,0.0823807909528914,T cell zone,Geometric,T.CD4.memory
-q | 6B | 012 | Full ROI,10169,32873,CD8 naive,0,T cell zone,Geometric,T.CD8.naive
-q | 6B | 012 | Full ROI,10169,32873,CD8 mem,0.0449676284457405,T cell zone,Geometric,T.CD8.memory
-q | 6B | 012 | Full ROI,10169,32873,NK,0.0060229728107714,T cell zone,Geometric,NK
-q | 6B | 012 | Full ROI,10169,32873,pDCs,0.00617261606875046,T cell zone,Geometric,pDCs
-q | 6B | 012 | Full ROI,10169,32873,mDCs,0.00323657162900997,T cell zone,Geometric,mDCs
-q | 6B | 012 | Full ROI,10169,32873,conv mono,0,T cell zone,Geometric,monocytes.C
-q | 6B | 012 | Full ROI,10169,32873,NC mono,0.000972387215696707,T cell zone,Geometric,monocytes.NC.I
-q | 6B | 012 | Full ROI,10169,32873,neutro,0.00446587647679111,T cell zone,Geometric,neutrophils
-q | 6B | 012 | Full ROI,10169,32873,Treg,0.14520027556214,T cell zone,Geometric,Treg
-q | 6B | 012 | Full ROI,10169,32873,endo,0.0142881916923223,T cell zone,Geometric,endothelial.cells
-q | 6B | 012 | Full ROI,10169,32873,fibro,0.012345483908468,T cell zone,Geometric,fibroblasts
-r | 6B | 015 | Full ROI,20756,36279,macro,0.0254426031578652,T cell zone,Geometric,macrophages
-r | 6B | 015 | Full ROI,20756,36279,mast,0.000399551624267896,T cell zone,Geometric,mast
-r | 6B | 015 | Full ROI,20756,36279,naive B,0,T cell zone,Geometric,B.naive
-r | 6B | 015 | Full ROI,20756,36279,mem B,0.0604040026550333,T cell zone,Geometric,B.memory
-r | 6B | 015 | Full ROI,20756,36279,plasma,0.014889972030722,T cell zone,Geometric,plasma
-r | 6B | 015 | Full ROI,20756,36279,CD4 naive,0.497516680325004,T cell zone,Geometric,T.CD4.naive
-r | 6B | 015 | Full ROI,20756,36279,CD4 mem,0.0618437457324795,T cell zone,Geometric,T.CD4.memory
-r | 6B | 015 | Full ROI,20756,36279,CD8 naive,0.0832404303147136,T cell zone,Geometric,T.CD8.naive
-r | 6B | 015 | Full ROI,20756,36279,CD8 mem,0.0139535689261315,T cell zone,Geometric,T.CD8.memory
-r | 6B | 015 | Full ROI,20756,36279,NK,0.0118249154004007,T cell zone,Geometric,NK
-r | 6B | 015 | Full ROI,20756,36279,pDCs,0.00480178980898822,T cell zone,Geometric,pDCs
-r | 6B | 015 | Full ROI,20756,36279,mDCs,0.00283169201430041,T cell zone,Geometric,mDCs
-r | 6B | 015 | Full ROI,20756,36279,conv mono,0,T cell zone,Geometric,monocytes.C
-r | 6B | 015 | Full ROI,20756,36279,NC mono,0.002526159484845,T cell zone,Geometric,monocytes.NC.I
-r | 6B | 015 | Full ROI,20756,36279,neutro,0.00524982614898174,T cell zone,Geometric,neutrophils
-r | 6B | 015 | Full ROI,20756,36279,Treg,0.193097028272274,T cell zone,Geometric,Treg
-r | 6B | 015 | Full ROI,20756,36279,endo,0.0098379954314968,T cell zone,Geometric,endothelial.cells
-r | 6B | 015 | Full ROI,20756,36279,fibro,0.0121400386724956,T cell zone,Geometric,fibroblasts
-s | 6B | 018 | Full ROI,26014,26134,macro,0.0364250729729395,T cell zone,Geometric,macrophages
-s | 6B | 018 | Full ROI,26014,26134,mast,0.000312699402525103,T cell zone,Geometric,mast
-s | 6B | 018 | Full ROI,26014,26134,naive B,0.00813777424083206,T cell zone,Geometric,B.naive
-s | 6B | 018 | Full ROI,26014,26134,mem B,0.0310523088783168,T cell zone,Geometric,B.memory
-s | 6B | 018 | Full ROI,26014,26134,plasma,0.0108132139817055,T cell zone,Geometric,plasma
-s | 6B | 018 | Full ROI,26014,26134,CD4 naive,0.495904070710628,T cell zone,Geometric,T.CD4.naive
-s | 6B | 018 | Full ROI,26014,26134,CD4 mem,0.134915490357293,T cell zone,Geometric,T.CD4.memory
-s | 6B | 018 | Full ROI,26014,26134,CD8 naive,0.0577835552065277,T cell zone,Geometric,T.CD8.naive
-s | 6B | 018 | Full ROI,26014,26134,CD8 mem,0.0121656010740277,T cell zone,Geometric,T.CD8.memory
-s | 6B | 018 | Full ROI,26014,26134,NK,0.0131781645503071,T cell zone,Geometric,NK
-s | 6B | 018 | Full ROI,26014,26134,pDCs,0.00752269940258989,T cell zone,Geometric,pDCs
-s | 6B | 018 | Full ROI,26014,26134,mDCs,0.00354158963456345,T cell zone,Geometric,mDCs
-s | 6B | 018 | Full ROI,26014,26134,conv mono,0,T cell zone,Geometric,monocytes.C
-s | 6B | 018 | Full ROI,26014,26134,NC mono,0.00106197789748689,T cell zone,Geometric,monocytes.NC.I
-s | 6B | 018 | Full ROI,26014,26134,neutro,0.00422226025909478,T cell zone,Geometric,neutrophils
-s | 6B | 018 | Full ROI,26014,26134,Treg,0.159928396052297,T cell zone,Geometric,Treg
-s | 6B | 018 | Full ROI,26014,26134,endo,0.0132205140721214,T cell zone,Geometric,endothelial.cells
-s | 6B | 018 | Full ROI,26014,26134,fibro,0.00981461130674445,T cell zone,Geometric,fibroblasts
+A | 6B | 002 | Full ROI,24303,27332,Macrophages,0.0126706752837499,Mantle zone,Geometric,Macrophages
+A | 6B | 002 | Full ROI,24303,27332,Mast cells,0.000436974813008451,Mantle zone,Geometric,Mast cells
+A | 6B | 002 | Full ROI,24303,27332,Naïve B cells,0.528106780465482,Mantle zone,Geometric,Naïve B cells
+A | 6B | 002 | Full ROI,24303,27332,Memory B cells,0.28882201470893,Mantle zone,Geometric,Memory B cells
+A | 6B | 002 | Full ROI,24303,27332,Plasma cells,0.0104846623942289,Mantle zone,Geometric,Plasma cells
+A | 6B | 002 | Full ROI,24303,27332,Naïve CD4 T cells,0.0581149814967534,Mantle zone,Geometric,Naïve CD4 T cells
+A | 6B | 002 | Full ROI,24303,27332,Memory CD4 T cells,0.0280303254608104,Mantle zone,Geometric,Memory CD4 T cells
+A | 6B | 002 | Full ROI,24303,27332,Naïve CD8 T cells,0.00519844461051922,Mantle zone,Geometric,Naïve CD8 T cells
+A | 6B | 002 | Full ROI,24303,27332,Memory CD8 T cells,0.013673731794522,Mantle zone,Geometric,Memory CD8 T cells
+A | 6B | 002 | Full ROI,24303,27332,Natural killer cells,0.00356097526158927,Mantle zone,Geometric,Natural killer cells
+A | 6B | 002 | Full ROI,24303,27332,Plasmacytoid dendritic cells,0.00388557135343245,Mantle zone,Geometric,Plasmacytoid dendritic cells
+A | 6B | 002 | Full ROI,24303,27332,Myeloid dendritic cells,0.000623938250492146,Mantle zone,Geometric,Myeloid dendritic cells
+A | 6B | 002 | Full ROI,24303,27332,Classical monocytes,0,Mantle zone,Geometric,Classical monocytes
+A | 6B | 002 | Full ROI,24303,27332,"Non-classical, intermediate monocytes",0,Mantle zone,Geometric,"Non-classical, intermediate monocytes"
+A | 6B | 002 | Full ROI,24303,27332,Neutrophils,0.00443706660971963,Mantle zone,Geometric,Neutrophils
+A | 6B | 002 | Full ROI,24303,27332,Regulatory T cells,0.0257058441874643,Mantle zone,Geometric,Regulatory T cells
+A | 6B | 002 | Full ROI,24303,27332,Endothelial cells,0.00934488474956218,Mantle zone,Geometric,Endothelial cells
+A | 6B | 002 | Full ROI,24303,27332,Fibroblasts,0.00690312855973522,Mantle zone,Geometric,Fibroblasts
+B | 6B | 005 | Full ROI,25645,18105,Macrophages,0.0106233710745609,Mantle zone,Geometric,Macrophages
+B | 6B | 005 | Full ROI,25645,18105,Mast cells,0.000280754646629957,Mantle zone,Geometric,Mast cells
+B | 6B | 005 | Full ROI,25645,18105,Naïve B cells,0.454844930566186,Mantle zone,Geometric,Naïve B cells
+B | 6B | 005 | Full ROI,25645,18105,Memory B cells,0.403224528226449,Mantle zone,Geometric,Memory B cells
+B | 6B | 005 | Full ROI,25645,18105,Plasma cells,0.00918301354808002,Mantle zone,Geometric,Plasma cells
+B | 6B | 005 | Full ROI,25645,18105,Naïve CD4 T cells,0.0477843225985611,Mantle zone,Geometric,Naïve CD4 T cells
+B | 6B | 005 | Full ROI,25645,18105,Memory CD4 T cells,0.0136052309498194,Mantle zone,Geometric,Memory CD4 T cells
+B | 6B | 005 | Full ROI,25645,18105,Naïve CD8 T cells,0,Mantle zone,Geometric,Naïve CD8 T cells
+B | 6B | 005 | Full ROI,25645,18105,Memory CD8 T cells,0.0156693024585551,Mantle zone,Geometric,Memory CD8 T cells
+B | 6B | 005 | Full ROI,25645,18105,Natural killer cells,0.000778032557969816,Mantle zone,Geometric,Natural killer cells
+B | 6B | 005 | Full ROI,25645,18105,Plasmacytoid dendritic cells,0.00213387395033255,Mantle zone,Geometric,Plasmacytoid dendritic cells
+B | 6B | 005 | Full ROI,25645,18105,Myeloid dendritic cells,0,Mantle zone,Geometric,Myeloid dendritic cells
+B | 6B | 005 | Full ROI,25645,18105,Classical monocytes,0,Mantle zone,Geometric,Classical monocytes
+B | 6B | 005 | Full ROI,25645,18105,"Non-classical, intermediate monocytes",0,Mantle zone,Geometric,"Non-classical, intermediate monocytes"
+B | 6B | 005 | Full ROI,25645,18105,Neutrophils,0.00192396358904416,Mantle zone,Geometric,Neutrophils
+B | 6B | 005 | Full ROI,25645,18105,Regulatory T cells,0.0187093817451377,Mantle zone,Geometric,Regulatory T cells
+B | 6B | 005 | Full ROI,25645,18105,Endothelial cells,0.009831857793376,Mantle zone,Geometric,Endothelial cells
+B | 6B | 005 | Full ROI,25645,18105,Fibroblasts,0.011407436295298,Mantle zone,Geometric,Fibroblasts
+C | 6B | 008 | Full ROI,9380,34978,Macrophages,0.0257791957758412,Mantle zone,Geometric,Macrophages
+C | 6B | 008 | Full ROI,9380,34978,Mast cells,7.53756859109831e-05,Mantle zone,Geometric,Mast cells
+C | 6B | 008 | Full ROI,9380,34978,Naïve B cells,0.378875221749865,Mantle zone,Geometric,Naïve B cells
+C | 6B | 008 | Full ROI,9380,34978,Memory B cells,0.43307570522426,Mantle zone,Geometric,Memory B cells
+C | 6B | 008 | Full ROI,9380,34978,Plasma cells,0.0122373054996364,Mantle zone,Geometric,Plasma cells
+C | 6B | 008 | Full ROI,9380,34978,Naïve CD4 T cells,0.0434114911447775,Mantle zone,Geometric,Naïve CD4 T cells
+C | 6B | 008 | Full ROI,9380,34978,Memory CD4 T cells,0.0291559639427842,Mantle zone,Geometric,Memory CD4 T cells
+C | 6B | 008 | Full ROI,9380,34978,Naïve CD8 T cells,0,Mantle zone,Geometric,Naïve CD8 T cells
+C | 6B | 008 | Full ROI,9380,34978,Memory CD8 T cells,0.0108856256413191,Mantle zone,Geometric,Memory CD8 T cells
+C | 6B | 008 | Full ROI,9380,34978,Natural killer cells,0.00690737106257933,Mantle zone,Geometric,Natural killer cells
+C | 6B | 008 | Full ROI,9380,34978,Plasmacytoid dendritic cells,0.00216055646509074,Mantle zone,Geometric,Plasmacytoid dendritic cells
+C | 6B | 008 | Full ROI,9380,34978,Myeloid dendritic cells,0,Mantle zone,Geometric,Myeloid dendritic cells
+C | 6B | 008 | Full ROI,9380,34978,Classical monocytes,0,Mantle zone,Geometric,Classical monocytes
+C | 6B | 008 | Full ROI,9380,34978,"Non-classical, intermediate monocytes",0,Mantle zone,Geometric,"Non-classical, intermediate monocytes"
+C | 6B | 008 | Full ROI,9380,34978,Neutrophils,0.0027325400666994,Mantle zone,Geometric,Neutrophils
+C | 6B | 008 | Full ROI,9380,34978,Regulatory T cells,0.0253456967748541,Mantle zone,Geometric,Regulatory T cells
+C | 6B | 008 | Full ROI,9380,34978,Endothelial cells,0.0113699266169381,Mantle zone,Geometric,Endothelial cells
+C | 6B | 008 | Full ROI,9380,34978,Fibroblasts,0.0179880243494447,Mantle zone,Geometric,Fibroblasts
+D | 6B | 011 | Full ROI,8967,33528,Macrophages,0.0278358232098304,Mantle zone,Geometric,Macrophages
+D | 6B | 011 | Full ROI,8967,33528,Mast cells,0.000730657953331955,Mantle zone,Geometric,Mast cells
+D | 6B | 011 | Full ROI,8967,33528,Naïve B cells,0.573986902246112,Mantle zone,Geometric,Naïve B cells
+D | 6B | 011 | Full ROI,8967,33528,Memory B cells,0.216431146357338,Mantle zone,Geometric,Memory B cells
+D | 6B | 011 | Full ROI,8967,33528,Plasma cells,0.0128740648756007,Mantle zone,Geometric,Plasma cells
+D | 6B | 011 | Full ROI,8967,33528,Naïve CD4 T cells,0.0347238613902158,Mantle zone,Geometric,Naïve CD4 T cells
+D | 6B | 011 | Full ROI,8967,33528,Memory CD4 T cells,0.0307138255919459,Mantle zone,Geometric,Memory CD4 T cells
+D | 6B | 011 | Full ROI,8967,33528,Naïve CD8 T cells,0,Mantle zone,Geometric,Naïve CD8 T cells
+D | 6B | 011 | Full ROI,8967,33528,Memory CD8 T cells,0.0277488289888684,Mantle zone,Geometric,Memory CD8 T cells
+D | 6B | 011 | Full ROI,8967,33528,Natural killer cells,0.00241408756798593,Mantle zone,Geometric,Natural killer cells
+D | 6B | 011 | Full ROI,8967,33528,Plasmacytoid dendritic cells,0.00386208868711319,Mantle zone,Geometric,Plasmacytoid dendritic cells
+D | 6B | 011 | Full ROI,8967,33528,Myeloid dendritic cells,0.000915528706832134,Mantle zone,Geometric,Myeloid dendritic cells
+D | 6B | 011 | Full ROI,8967,33528,Classical monocytes,0,Mantle zone,Geometric,Classical monocytes
+D | 6B | 011 | Full ROI,8967,33528,"Non-classical, intermediate monocytes",0.00143247742830186,Mantle zone,Geometric,"Non-classical, intermediate monocytes"
+D | 6B | 011 | Full ROI,8967,33528,Neutrophils,0.00292804064161584,Mantle zone,Geometric,Neutrophils
+D | 6B | 011 | Full ROI,8967,33528,Regulatory T cells,0.0365904104535272,Mantle zone,Geometric,Regulatory T cells
+D | 6B | 011 | Full ROI,8967,33528,Endothelial cells,0.0135913140122429,Mantle zone,Geometric,Endothelial cells
+D | 6B | 011 | Full ROI,8967,33528,Fibroblasts,0.0132209418891381,Mantle zone,Geometric,Fibroblasts
+E | 6B | 014 | Full ROI,22224,36621,Macrophages,0.0114910577790077,Mantle zone,Geometric,Macrophages
+E | 6B | 014 | Full ROI,22224,36621,Mast cells,0.00037182098932283,Mantle zone,Geometric,Mast cells
+E | 6B | 014 | Full ROI,22224,36621,Naïve B cells,0.449780728963014,Mantle zone,Geometric,Naïve B cells
+E | 6B | 014 | Full ROI,22224,36621,Memory B cells,0.396286021474573,Mantle zone,Geometric,Memory B cells
+E | 6B | 014 | Full ROI,22224,36621,Plasma cells,0.00973020183214272,Mantle zone,Geometric,Plasma cells
+E | 6B | 014 | Full ROI,22224,36621,Naïve CD4 T cells,0.000729626673911097,Mantle zone,Geometric,Naïve CD4 T cells
+E | 6B | 014 | Full ROI,22224,36621,Memory CD4 T cells,0.0989431823620326,Mantle zone,Geometric,Memory CD4 T cells
+E | 6B | 014 | Full ROI,22224,36621,Naïve CD8 T cells,0,Mantle zone,Geometric,Naïve CD8 T cells
+E | 6B | 014 | Full ROI,22224,36621,Memory CD8 T cells,0.00449557387283508,Mantle zone,Geometric,Memory CD8 T cells
+E | 6B | 014 | Full ROI,22224,36621,Natural killer cells,0.00255210976029903,Mantle zone,Geometric,Natural killer cells
+E | 6B | 014 | Full ROI,22224,36621,Plasmacytoid dendritic cells,0.0021130177261306,Mantle zone,Geometric,Plasmacytoid dendritic cells
+E | 6B | 014 | Full ROI,22224,36621,Myeloid dendritic cells,0,Mantle zone,Geometric,Myeloid dendritic cells
+E | 6B | 014 | Full ROI,22224,36621,Classical monocytes,0,Mantle zone,Geometric,Classical monocytes
+E | 6B | 014 | Full ROI,22224,36621,"Non-classical, intermediate monocytes",0,Mantle zone,Geometric,"Non-classical, intermediate monocytes"
+E | 6B | 014 | Full ROI,22224,36621,Neutrophils,0,Mantle zone,Geometric,Neutrophils
+E | 6B | 014 | Full ROI,22224,36621,Regulatory T cells,0.00443077734105937,Mantle zone,Geometric,Regulatory T cells
+E | 6B | 014 | Full ROI,22224,36621,Endothelial cells,0.00829238843693834,Mantle zone,Geometric,Endothelial cells
+E | 6B | 014 | Full ROI,22224,36621,Fibroblasts,0.010783492788733,Mantle zone,Geometric,Fibroblasts
+F | 6B | 017 | Full ROI,25314,27219,Macrophages,0.0161843555778384,Mantle zone,Geometric,Macrophages
+F | 6B | 017 | Full ROI,25314,27219,Mast cells,0.000120541556028506,Mantle zone,Geometric,Mast cells
+F | 6B | 017 | Full ROI,25314,27219,Naïve B cells,0.390100877285343,Mantle zone,Geometric,Naïve B cells
+F | 6B | 017 | Full ROI,25314,27219,Memory B cells,0.394285966885231,Mantle zone,Geometric,Memory B cells
+F | 6B | 017 | Full ROI,25314,27219,Plasma cells,0.00571001968125477,Mantle zone,Geometric,Plasma cells
+F | 6B | 017 | Full ROI,25314,27219,Naïve CD4 T cells,0.0257538749824369,Mantle zone,Geometric,Naïve CD4 T cells
+F | 6B | 017 | Full ROI,25314,27219,Memory CD4 T cells,0.0771727710549725,Mantle zone,Geometric,Memory CD4 T cells
+F | 6B | 017 | Full ROI,25314,27219,Naïve CD8 T cells,0,Mantle zone,Geometric,Naïve CD8 T cells
+F | 6B | 017 | Full ROI,25314,27219,Memory CD8 T cells,0.0171876398896778,Mantle zone,Geometric,Memory CD8 T cells
+F | 6B | 017 | Full ROI,25314,27219,Natural killer cells,0.00413112998256916,Mantle zone,Geometric,Natural killer cells
+F | 6B | 017 | Full ROI,25314,27219,Plasmacytoid dendritic cells,0.00579044144398771,Mantle zone,Geometric,Plasmacytoid dendritic cells
+F | 6B | 017 | Full ROI,25314,27219,Myeloid dendritic cells,0.000572445897757442,Mantle zone,Geometric,Myeloid dendritic cells
+F | 6B | 017 | Full ROI,25314,27219,Classical monocytes,0,Mantle zone,Geometric,Classical monocytes
+F | 6B | 017 | Full ROI,25314,27219,"Non-classical, intermediate monocytes",0,Mantle zone,Geometric,"Non-classical, intermediate monocytes"
+F | 6B | 017 | Full ROI,25314,27219,Neutrophils,0.00197687048101932,Mantle zone,Geometric,Neutrophils
+F | 6B | 017 | Full ROI,25314,27219,Regulatory T cells,0.0266001163365162,Mantle zone,Geometric,Regulatory T cells
+F | 6B | 017 | Full ROI,25314,27219,Endothelial cells,0.019301422214864,Mantle zone,Geometric,Endothelial cells
+F | 6B | 017 | Full ROI,25314,27219,Fibroblasts,0.0151115267305032,Mantle zone,Geometric,Fibroblasts
+G | 6B | 028 | CD11c,3849,25684,Macrophages,0.169470568398498,Germinal center - CD11c+,CD11c,Macrophages
+G | 6B | 028 | CD11c,3849,25684,Mast cells,0,Germinal center - CD11c+,CD11c,Mast cells
+G | 6B | 028 | CD11c,3849,25684,Naïve B cells,0.344945289605344,Germinal center - CD11c+,CD11c,Naïve B cells
+G | 6B | 028 | CD11c,3849,25684,Memory B cells,0.332186525979274,Germinal center - CD11c+,CD11c,Memory B cells
+G | 6B | 028 | CD11c,3849,25684,Plasma cells,0.0262706949729302,Germinal center - CD11c+,CD11c,Plasma cells
+G | 6B | 028 | CD11c,3849,25684,Naïve CD4 T cells,0.0634886090850654,Germinal center - CD11c+,CD11c,Naïve CD4 T cells
+G | 6B | 028 | CD11c,3849,25684,Memory CD4 T cells,0.043331530303085,Germinal center - CD11c+,CD11c,Memory CD4 T cells
+G | 6B | 028 | CD11c,3849,25684,Naïve CD8 T cells,0,Germinal center - CD11c+,CD11c,Naïve CD8 T cells
+G | 6B | 028 | CD11c,3849,25684,Memory CD8 T cells,0,Germinal center - CD11c+,CD11c,Memory CD8 T cells
+G | 6B | 028 | CD11c,3849,25684,Natural killer cells,0,Germinal center - CD11c+,CD11c,Natural killer cells
+G | 6B | 028 | CD11c,3849,25684,Plasmacytoid dendritic cells,0.00545349353282454,Germinal center - CD11c+,CD11c,Plasmacytoid dendritic cells
+G | 6B | 028 | CD11c,3849,25684,Myeloid dendritic cells,0,Germinal center - CD11c+,CD11c,Myeloid dendritic cells
+G | 6B | 028 | CD11c,3849,25684,Classical monocytes,0,Germinal center - CD11c+,CD11c,Classical monocytes
+G | 6B | 028 | CD11c,3849,25684,"Non-classical, intermediate monocytes",0,Germinal center - CD11c+,CD11c,"Non-classical, intermediate monocytes"
+G | 6B | 028 | CD11c,3849,25684,Neutrophils,0,Germinal center - CD11c+,CD11c,Neutrophils
+G | 6B | 028 | CD11c,3849,25684,Regulatory T cells,0,Germinal center - CD11c+,CD11c,Regulatory T cells
+G | 6B | 028 | CD11c,3849,25684,Endothelial cells,0.00758361635682471,Germinal center - CD11c+,CD11c,Endothelial cells
+G | 6B | 028 | CD11c,3849,25684,Fibroblasts,0.00726967176615439,Germinal center - CD11c+,CD11c,Fibroblasts
+H | 6B | 029 | CD11c,21741,29893,Macrophages,0.163547701165918,Germinal center - CD11c+,CD11c,Macrophages
+H | 6B | 029 | CD11c,21741,29893,Mast cells,0.000378264276445706,Germinal center - CD11c+,CD11c,Mast cells
+H | 6B | 029 | CD11c,21741,29893,Naïve B cells,0.248389100910273,Germinal center - CD11c+,CD11c,Naïve B cells
+H | 6B | 029 | CD11c,21741,29893,Memory B cells,0.389541217030057,Germinal center - CD11c+,CD11c,Memory B cells
+H | 6B | 029 | CD11c,21741,29893,Plasma cells,0.0320363261195757,Germinal center - CD11c+,CD11c,Plasma cells
+H | 6B | 029 | CD11c,21741,29893,Naïve CD4 T cells,0,Germinal center - CD11c+,CD11c,Naïve CD4 T cells
+H | 6B | 029 | CD11c,21741,29893,Memory CD4 T cells,0.0574834891014664,Germinal center - CD11c+,CD11c,Memory CD4 T cells
+H | 6B | 029 | CD11c,21741,29893,Naïve CD8 T cells,0.0437937681599053,Germinal center - CD11c+,CD11c,Naïve CD8 T cells
+H | 6B | 029 | CD11c,21741,29893,Memory CD8 T cells,0,Germinal center - CD11c+,CD11c,Memory CD8 T cells
+H | 6B | 029 | CD11c,21741,29893,Natural killer cells,0,Germinal center - CD11c+,CD11c,Natural killer cells
+H | 6B | 029 | CD11c,21741,29893,Plasmacytoid dendritic cells,0.0158762038618397,Germinal center - CD11c+,CD11c,Plasmacytoid dendritic cells
+H | 6B | 029 | CD11c,21741,29893,Myeloid dendritic cells,0.00055687589358761,Germinal center - CD11c+,CD11c,Myeloid dendritic cells
+H | 6B | 029 | CD11c,21741,29893,Classical monocytes,0,Germinal center - CD11c+,CD11c,Classical monocytes
+H | 6B | 029 | CD11c,21741,29893,"Non-classical, intermediate monocytes",0.00282364938941447,Germinal center - CD11c+,CD11c,"Non-classical, intermediate monocytes"
+H | 6B | 029 | CD11c,21741,29893,Neutrophils,0.00425152544821101,Germinal center - CD11c+,CD11c,Neutrophils
+H | 6B | 029 | CD11c,21741,29893,Regulatory T cells,0.00870904780748024,Germinal center - CD11c+,CD11c,Regulatory T cells
+H | 6B | 029 | CD11c,21741,29893,Endothelial cells,0.0196906483477304,Germinal center - CD11c+,CD11c,Endothelial cells
+H | 6B | 029 | CD11c,21741,29893,Fibroblasts,0.0129221824880946,Germinal center - CD11c+,CD11c,Fibroblasts
+I | 6B | 030 | CD11c,18493,9579,Macrophages,0.157159341137666,Germinal center - CD11c+,CD11c,Macrophages
+I | 6B | 030 | CD11c,18493,9579,Mast cells,0.000224212365270185,Germinal center - CD11c+,CD11c,Mast cells
+I | 6B | 030 | CD11c,18493,9579,Naïve B cells,0.283123961311819,Germinal center - CD11c+,CD11c,Naïve B cells
+I | 6B | 030 | CD11c,18493,9579,Memory B cells,0.323287093334926,Germinal center - CD11c+,CD11c,Memory B cells
+I | 6B | 030 | CD11c,18493,9579,Plasma cells,0.030027984311982,Germinal center - CD11c+,CD11c,Plasma cells
+I | 6B | 030 | CD11c,18493,9579,Naïve CD4 T cells,0,Germinal center - CD11c+,CD11c,Naïve CD4 T cells
+I | 6B | 030 | CD11c,18493,9579,Memory CD4 T cells,0.0987647478265282,Germinal center - CD11c+,CD11c,Memory CD4 T cells
+I | 6B | 030 | CD11c,18493,9579,Naïve CD8 T cells,0.0165230646322601,Germinal center - CD11c+,CD11c,Naïve CD8 T cells
+I | 6B | 030 | CD11c,18493,9579,Memory CD8 T cells,0.0164936343133981,Germinal center - CD11c+,CD11c,Memory CD8 T cells
+I | 6B | 030 | CD11c,18493,9579,Natural killer cells,0,Germinal center - CD11c+,CD11c,Natural killer cells
+I | 6B | 030 | CD11c,18493,9579,Plasmacytoid dendritic cells,0.000217881457085154,Germinal center - CD11c+,CD11c,Plasmacytoid dendritic cells
+I | 6B | 030 | CD11c,18493,9579,Myeloid dendritic cells,0,Germinal center - CD11c+,CD11c,Myeloid dendritic cells
+I | 6B | 030 | CD11c,18493,9579,Classical monocytes,0,Germinal center - CD11c+,CD11c,Classical monocytes
+I | 6B | 030 | CD11c,18493,9579,"Non-classical, intermediate monocytes",0.00376400269711092,Germinal center - CD11c+,CD11c,"Non-classical, intermediate monocytes"
+I | 6B | 030 | CD11c,18493,9579,Neutrophils,0.00122224653118395,Germinal center - CD11c+,CD11c,Neutrophils
+I | 6B | 030 | CD11c,18493,9579,Regulatory T cells,0.0417025439547011,Germinal center - CD11c+,CD11c,Regulatory T cells
+I | 6B | 030 | CD11c,18493,9579,Endothelial cells,0.0105395322011494,Germinal center - CD11c+,CD11c,Endothelial cells
+I | 6B | 030 | CD11c,18493,9579,Fibroblasts,0.0169497539249202,Germinal center - CD11c+,CD11c,Fibroblasts
+J | 6B | 031 | CD11c,14101,37273,Macrophages,0.172163851916265,Germinal center - CD11c+,CD11c,Macrophages
+J | 6B | 031 | CD11c,14101,37273,Mast cells,8.82537778708589e-05,Germinal center - CD11c+,CD11c,Mast cells
+J | 6B | 031 | CD11c,14101,37273,Naïve B cells,0.164718234029419,Germinal center - CD11c+,CD11c,Naïve B cells
+J | 6B | 031 | CD11c,14101,37273,Memory B cells,0.516602453527182,Germinal center - CD11c+,CD11c,Memory B cells
+J | 6B | 031 | CD11c,14101,37273,Plasma cells,0.0181361712033992,Germinal center - CD11c+,CD11c,Plasma cells
+J | 6B | 031 | CD11c,14101,37273,Naïve CD4 T cells,0.00232303479024003,Germinal center - CD11c+,CD11c,Naïve CD4 T cells
+J | 6B | 031 | CD11c,14101,37273,Memory CD4 T cells,0.0766080115823805,Germinal center - CD11c+,CD11c,Memory CD4 T cells
+J | 6B | 031 | CD11c,14101,37273,Naïve CD8 T cells,0,Germinal center - CD11c+,CD11c,Naïve CD8 T cells
+J | 6B | 031 | CD11c,14101,37273,Memory CD8 T cells,0,Germinal center - CD11c+,CD11c,Memory CD8 T cells
+J | 6B | 031 | CD11c,14101,37273,Natural killer cells,0,Germinal center - CD11c+,CD11c,Natural killer cells
+J | 6B | 031 | CD11c,14101,37273,Plasmacytoid dendritic cells,0,Germinal center - CD11c+,CD11c,Plasmacytoid dendritic cells
+J | 6B | 031 | CD11c,14101,37273,Myeloid dendritic cells,0.00161789935054934,Germinal center - CD11c+,CD11c,Myeloid dendritic cells
+J | 6B | 031 | CD11c,14101,37273,Classical monocytes,0,Germinal center - CD11c+,CD11c,Classical monocytes
+J | 6B | 031 | CD11c,14101,37273,"Non-classical, intermediate monocytes",0.0128222391019593,Germinal center - CD11c+,CD11c,"Non-classical, intermediate monocytes"
+J | 6B | 031 | CD11c,14101,37273,Neutrophils,0,Germinal center - CD11c+,CD11c,Neutrophils
+J | 6B | 031 | CD11c,14101,37273,Regulatory T cells,0.0166262555002867,Germinal center - CD11c+,CD11c,Regulatory T cells
+J | 6B | 031 | CD11c,14101,37273,Endothelial cells,0.00720825200345899,Germinal center - CD11c+,CD11c,Endothelial cells
+J | 6B | 031 | CD11c,14101,37273,Fibroblasts,0.0110853432169885,Germinal center - CD11c+,CD11c,Fibroblasts
+K | 6B | 032 | CD11c,21888,32371,Macrophages,0.155716286450148,Germinal center - CD11c+,CD11c,Macrophages
+K | 6B | 032 | CD11c,21888,32371,Mast cells,0,Germinal center - CD11c+,CD11c,Mast cells
+K | 6B | 032 | CD11c,21888,32371,Naïve B cells,0.217303494924532,Germinal center - CD11c+,CD11c,Naïve B cells
+K | 6B | 032 | CD11c,21888,32371,Memory B cells,0.401387085427888,Germinal center - CD11c+,CD11c,Memory B cells
+K | 6B | 032 | CD11c,21888,32371,Plasma cells,0.0417943835957866,Germinal center - CD11c+,CD11c,Plasma cells
+K | 6B | 032 | CD11c,21888,32371,Naïve CD4 T cells,0.0603082115430498,Germinal center - CD11c+,CD11c,Naïve CD4 T cells
+K | 6B | 032 | CD11c,21888,32371,Memory CD4 T cells,0.0075650160027616,Germinal center - CD11c+,CD11c,Memory CD4 T cells
+K | 6B | 032 | CD11c,21888,32371,Naïve CD8 T cells,0,Germinal center - CD11c+,CD11c,Naïve CD8 T cells
+K | 6B | 032 | CD11c,21888,32371,Memory CD8 T cells,0.0065513193888532,Germinal center - CD11c+,CD11c,Memory CD8 T cells
+K | 6B | 032 | CD11c,21888,32371,Natural killer cells,0,Germinal center - CD11c+,CD11c,Natural killer cells
+K | 6B | 032 | CD11c,21888,32371,Plasmacytoid dendritic cells,0.00863279375558325,Germinal center - CD11c+,CD11c,Plasmacytoid dendritic cells
+K | 6B | 032 | CD11c,21888,32371,Myeloid dendritic cells,0,Germinal center - CD11c+,CD11c,Myeloid dendritic cells
+K | 6B | 032 | CD11c,21888,32371,Classical monocytes,0,Germinal center - CD11c+,CD11c,Classical monocytes
+K | 6B | 032 | CD11c,21888,32371,"Non-classical, intermediate monocytes",0.0164707515412847,Germinal center - CD11c+,CD11c,"Non-classical, intermediate monocytes"
+K | 6B | 032 | CD11c,21888,32371,Neutrophils,0,Germinal center - CD11c+,CD11c,Neutrophils
+K | 6B | 032 | CD11c,21888,32371,Regulatory T cells,0.062880475674258,Germinal center - CD11c+,CD11c,Regulatory T cells
+K | 6B | 032 | CD11c,21888,32371,Endothelial cells,0.0104043160115198,Germinal center - CD11c+,CD11c,Endothelial cells
+K | 6B | 032 | CD11c,21888,32371,Fibroblasts,0.0109858656843348,Germinal center - CD11c+,CD11c,Fibroblasts
+L | 6B | 033 | CD11c,16887,39225,Macrophages,0.161753134333865,Germinal center - CD11c+,CD11c,Macrophages
+L | 6B | 033 | CD11c,16887,39225,Mast cells,0.000468237489740806,Germinal center - CD11c+,CD11c,Mast cells
+L | 6B | 033 | CD11c,16887,39225,Naïve B cells,0.164090787019722,Germinal center - CD11c+,CD11c,Naïve B cells
+L | 6B | 033 | CD11c,16887,39225,Memory B cells,0.536327296770837,Germinal center - CD11c+,CD11c,Memory B cells
+L | 6B | 033 | CD11c,16887,39225,Plasma cells,0.0369907098209396,Germinal center - CD11c+,CD11c,Plasma cells
+L | 6B | 033 | CD11c,16887,39225,Naïve CD4 T cells,0,Germinal center - CD11c+,CD11c,Naïve CD4 T cells
+L | 6B | 033 | CD11c,16887,39225,Memory CD4 T cells,0.0456467189584473,Germinal center - CD11c+,CD11c,Memory CD4 T cells
+L | 6B | 033 | CD11c,16887,39225,Naïve CD8 T cells,0,Germinal center - CD11c+,CD11c,Naïve CD8 T cells
+L | 6B | 033 | CD11c,16887,39225,Memory CD8 T cells,0,Germinal center - CD11c+,CD11c,Memory CD8 T cells
+L | 6B | 033 | CD11c,16887,39225,Natural killer cells,0,Germinal center - CD11c+,CD11c,Natural killer cells
+L | 6B | 033 | CD11c,16887,39225,Plasmacytoid dendritic cells,0.0145324491158949,Germinal center - CD11c+,CD11c,Plasmacytoid dendritic cells
+L | 6B | 033 | CD11c,16887,39225,Myeloid dendritic cells,0,Germinal center - CD11c+,CD11c,Myeloid dendritic cells
+L | 6B | 033 | CD11c,16887,39225,Classical monocytes,0,Germinal center - CD11c+,CD11c,Classical monocytes
+L | 6B | 033 | CD11c,16887,39225,"Non-classical, intermediate monocytes",0.00554526602783959,Germinal center - CD11c+,CD11c,"Non-classical, intermediate monocytes"
+L | 6B | 033 | CD11c,16887,39225,Neutrophils,0,Germinal center - CD11c+,CD11c,Neutrophils
+L | 6B | 033 | CD11c,16887,39225,Regulatory T cells,0.0191126538577343,Germinal center - CD11c+,CD11c,Regulatory T cells
+L | 6B | 033 | CD11c,16887,39225,Endothelial cells,0.00822140617678523,Germinal center - CD11c+,CD11c,Endothelial cells
+L | 6B | 033 | CD11c,16887,39225,Fibroblasts,0.00731134042819443,Germinal center - CD11c+,CD11c,Fibroblasts
+M | 6B | 028 | CD20,3849,25684,Macrophages,0.0366515627139409,Germinal center - CD20+,CD20,Macrophages
+M | 6B | 028 | CD20,3849,25684,Mast cells,0.000297571344162968,Germinal center - CD20+,CD20,Mast cells
+M | 6B | 028 | CD20,3849,25684,Naïve B cells,0.23657916235178,Germinal center - CD20+,CD20,Naïve B cells
+M | 6B | 028 | CD20,3849,25684,Memory B cells,0.586873672227176,Germinal center - CD20+,CD20,Memory B cells
+M | 6B | 028 | CD20,3849,25684,Plasma cells,0.0377635602179911,Germinal center - CD20+,CD20,Plasma cells
+M | 6B | 028 | CD20,3849,25684,Naïve CD4 T cells,0.0460434260087236,Germinal center - CD20+,CD20,Naïve CD4 T cells
+M | 6B | 028 | CD20,3849,25684,Memory CD4 T cells,0.010886403960387,Germinal center - CD20+,CD20,Memory CD4 T cells
+M | 6B | 028 | CD20,3849,25684,Naïve CD8 T cells,0,Germinal center - CD20+,CD20,Naïve CD8 T cells
+M | 6B | 028 | CD20,3849,25684,Memory CD8 T cells,0.00237814786717868,Germinal center - CD20+,CD20,Memory CD8 T cells
+M | 6B | 028 | CD20,3849,25684,Natural killer cells,0,Germinal center - CD20+,CD20,Natural killer cells
+M | 6B | 028 | CD20,3849,25684,Plasmacytoid dendritic cells,0.00229896860073073,Germinal center - CD20+,CD20,Plasmacytoid dendritic cells
+M | 6B | 028 | CD20,3849,25684,Myeloid dendritic cells,0,Germinal center - CD20+,CD20,Myeloid dendritic cells
+M | 6B | 028 | CD20,3849,25684,Classical monocytes,0,Germinal center - CD20+,CD20,Classical monocytes
+M | 6B | 028 | CD20,3849,25684,"Non-classical, intermediate monocytes",0,Germinal center - CD20+,CD20,"Non-classical, intermediate monocytes"
+M | 6B | 028 | CD20,3849,25684,Neutrophils,0.000129960289860592,Germinal center - CD20+,CD20,Neutrophils
+M | 6B | 028 | CD20,3849,25684,Regulatory T cells,0.0229497042743322,Germinal center - CD20+,CD20,Regulatory T cells
+M | 6B | 028 | CD20,3849,25684,Endothelial cells,0.0098803797574482,Germinal center - CD20+,CD20,Endothelial cells
+M | 6B | 028 | CD20,3849,25684,Fibroblasts,0.00726748038628758,Germinal center - CD20+,CD20,Fibroblasts
+N | 6B | 029 | CD20,21741,29893,Macrophages,0.0274986225229862,Germinal center - CD20+,CD20,Macrophages
+N | 6B | 029 | CD20,21741,29893,Mast cells,0.000307699258104714,Germinal center - CD20+,CD20,Mast cells
+N | 6B | 029 | CD20,21741,29893,Naïve B cells,0.248382357956651,Germinal center - CD20+,CD20,Naïve B cells
+N | 6B | 029 | CD20,21741,29893,Memory B cells,0.568946370291642,Germinal center - CD20+,CD20,Memory B cells
+N | 6B | 029 | CD20,21741,29893,Plasma cells,0.0454228658996479,Germinal center - CD20+,CD20,Plasma cells
+N | 6B | 029 | CD20,21741,29893,Naïve CD4 T cells,0.0468129312071497,Germinal center - CD20+,CD20,Naïve CD4 T cells
+N | 6B | 029 | CD20,21741,29893,Memory CD4 T cells,0.00610446777316587,Germinal center - CD20+,CD20,Memory CD4 T cells
+N | 6B | 029 | CD20,21741,29893,Naïve CD8 T cells,0,Germinal center - CD20+,CD20,Naïve CD8 T cells
+N | 6B | 029 | CD20,21741,29893,Memory CD8 T cells,0.00190170065719064,Germinal center - CD20+,CD20,Memory CD8 T cells
+N | 6B | 029 | CD20,21741,29893,Natural killer cells,0,Germinal center - CD20+,CD20,Natural killer cells
+N | 6B | 029 | CD20,21741,29893,Plasmacytoid dendritic cells,0.00169448986328111,Germinal center - CD20+,CD20,Plasmacytoid dendritic cells
+N | 6B | 029 | CD20,21741,29893,Myeloid dendritic cells,0,Germinal center - CD20+,CD20,Myeloid dendritic cells
+N | 6B | 029 | CD20,21741,29893,Classical monocytes,0,Germinal center - CD20+,CD20,Classical monocytes
+N | 6B | 029 | CD20,21741,29893,"Non-classical, intermediate monocytes",0,Germinal center - CD20+,CD20,"Non-classical, intermediate monocytes"
+N | 6B | 029 | CD20,21741,29893,Neutrophils,0.00178156345119086,Germinal center - CD20+,CD20,Neutrophils
+N | 6B | 029 | CD20,21741,29893,Regulatory T cells,0.0259796836576358,Germinal center - CD20+,CD20,Regulatory T cells
+N | 6B | 029 | CD20,21741,29893,Endothelial cells,0.0141726262248512,Germinal center - CD20+,CD20,Endothelial cells
+N | 6B | 029 | CD20,21741,29893,Fibroblasts,0.010994621236503,Germinal center - CD20+,CD20,Fibroblasts
+O | 6B | 030 | CD20,18493,9579,Macrophages,0.0351451568721522,Germinal center - CD20+,CD20,Macrophages
+O | 6B | 030 | CD20,18493,9579,Mast cells,0.000327052949357587,Germinal center - CD20+,CD20,Mast cells
+O | 6B | 030 | CD20,18493,9579,Naïve B cells,0.328899059698338,Germinal center - CD20+,CD20,Naïve B cells
+O | 6B | 030 | CD20,18493,9579,Memory B cells,0.461922632009914,Germinal center - CD20+,CD20,Memory B cells
+O | 6B | 030 | CD20,18493,9579,Plasma cells,0.0503554830477954,Germinal center - CD20+,CD20,Plasma cells
+O | 6B | 030 | CD20,18493,9579,Naïve CD4 T cells,0.0530723309710413,Germinal center - CD20+,CD20,Naïve CD4 T cells
+O | 6B | 030 | CD20,18493,9579,Memory CD4 T cells,0.0144496052907313,Germinal center - CD20+,CD20,Memory CD4 T cells
+O | 6B | 030 | CD20,18493,9579,Naïve CD8 T cells,0,Germinal center - CD20+,CD20,Naïve CD8 T cells
+O | 6B | 030 | CD20,18493,9579,Memory CD8 T cells,0.0100920869034701,Germinal center - CD20+,CD20,Memory CD8 T cells
+O | 6B | 030 | CD20,18493,9579,Natural killer cells,0.00640407496642394,Germinal center - CD20+,CD20,Natural killer cells
+O | 6B | 030 | CD20,18493,9579,Plasmacytoid dendritic cells,0,Germinal center - CD20+,CD20,Plasmacytoid dendritic cells
+O | 6B | 030 | CD20,18493,9579,Myeloid dendritic cells,0,Germinal center - CD20+,CD20,Myeloid dendritic cells
+O | 6B | 030 | CD20,18493,9579,Classical monocytes,0,Germinal center - CD20+,CD20,Classical monocytes
+O | 6B | 030 | CD20,18493,9579,"Non-classical, intermediate monocytes",0,Germinal center - CD20+,CD20,"Non-classical, intermediate monocytes"
+O | 6B | 030 | CD20,18493,9579,Neutrophils,0.00107979891716739,Germinal center - CD20+,CD20,Neutrophils
+O | 6B | 030 | CD20,18493,9579,Regulatory T cells,0.0178793904028554,Germinal center - CD20+,CD20,Regulatory T cells
+O | 6B | 030 | CD20,18493,9579,Endothelial cells,0.0122835956209286,Germinal center - CD20+,CD20,Endothelial cells
+O | 6B | 030 | CD20,18493,9579,Fibroblasts,0.00808973234982429,Germinal center - CD20+,CD20,Fibroblasts
+P | 6B | 031 | CD20,14101,37273,Macrophages,0.0306024886310722,Germinal center - CD20+,CD20,Macrophages
+P | 6B | 031 | CD20,14101,37273,Mast cells,0.000149072242299951,Germinal center - CD20+,CD20,Mast cells
+P | 6B | 031 | CD20,14101,37273,Naïve B cells,0.300595250579282,Germinal center - CD20+,CD20,Naïve B cells
+P | 6B | 031 | CD20,14101,37273,Memory B cells,0.528447939062635,Germinal center - CD20+,CD20,Memory B cells
+P | 6B | 031 | CD20,14101,37273,Plasma cells,0.0338512883467851,Germinal center - CD20+,CD20,Plasma cells
+P | 6B | 031 | CD20,14101,37273,Naïve CD4 T cells,0.0335841975459481,Germinal center - CD20+,CD20,Naïve CD4 T cells
+P | 6B | 031 | CD20,14101,37273,Memory CD4 T cells,0.0164407320498936,Germinal center - CD20+,CD20,Memory CD4 T cells
+P | 6B | 031 | CD20,14101,37273,Naïve CD8 T cells,0,Germinal center - CD20+,CD20,Naïve CD8 T cells
+P | 6B | 031 | CD20,14101,37273,Memory CD8 T cells,0.00625494695274212,Germinal center - CD20+,CD20,Memory CD8 T cells
+P | 6B | 031 | CD20,14101,37273,Natural killer cells,0,Germinal center - CD20+,CD20,Natural killer cells
+P | 6B | 031 | CD20,14101,37273,Plasmacytoid dendritic cells,0.00464237382602748,Germinal center - CD20+,CD20,Plasmacytoid dendritic cells
+P | 6B | 031 | CD20,14101,37273,Myeloid dendritic cells,0,Germinal center - CD20+,CD20,Myeloid dendritic cells
+P | 6B | 031 | CD20,14101,37273,Classical monocytes,0,Germinal center - CD20+,CD20,Classical monocytes
+P | 6B | 031 | CD20,14101,37273,"Non-classical, intermediate monocytes",0,Germinal center - CD20+,CD20,"Non-classical, intermediate monocytes"
+P | 6B | 031 | CD20,14101,37273,Neutrophils,0.00402216823773717,Germinal center - CD20+,CD20,Neutrophils
+P | 6B | 031 | CD20,14101,37273,Regulatory T cells,0.0175013650501397,Germinal center - CD20+,CD20,Regulatory T cells
+P | 6B | 031 | CD20,14101,37273,Endothelial cells,0.0126988607639589,Germinal center - CD20+,CD20,Endothelial cells
+P | 6B | 031 | CD20,14101,37273,Fibroblasts,0.0112093167114792,Germinal center - CD20+,CD20,Fibroblasts
+Q | 6B | 032 | CD20,21888,32371,Macrophages,0.0248372171635799,Germinal center - CD20+,CD20,Macrophages
+Q | 6B | 032 | CD20,21888,32371,Mast cells,0.000237867136770349,Germinal center - CD20+,CD20,Mast cells
+Q | 6B | 032 | CD20,21888,32371,Naïve B cells,0.282998099475336,Germinal center - CD20+,CD20,Naïve B cells
+Q | 6B | 032 | CD20,21888,32371,Memory B cells,0.56341670469203,Germinal center - CD20+,CD20,Memory B cells
+Q | 6B | 032 | CD20,21888,32371,Plasma cells,0.0323397777179645,Germinal center - CD20+,CD20,Plasma cells
+Q | 6B | 032 | CD20,21888,32371,Naïve CD4 T cells,0.0459451116973179,Germinal center - CD20+,CD20,Naïve CD4 T cells
+Q | 6B | 032 | CD20,21888,32371,Memory CD4 T cells,0.00495802696251268,Germinal center - CD20+,CD20,Memory CD4 T cells
+Q | 6B | 032 | CD20,21888,32371,Naïve CD8 T cells,0.00901372330871401,Germinal center - CD20+,CD20,Naïve CD8 T cells
+Q | 6B | 032 | CD20,21888,32371,Memory CD8 T cells,0.0028965796756498,Germinal center - CD20+,CD20,Memory CD8 T cells
+Q | 6B | 032 | CD20,21888,32371,Natural killer cells,0,Germinal center - CD20+,CD20,Natural killer cells
+Q | 6B | 032 | CD20,21888,32371,Plasmacytoid dendritic cells,0,Germinal center - CD20+,CD20,Plasmacytoid dendritic cells
+Q | 6B | 032 | CD20,21888,32371,Myeloid dendritic cells,0,Germinal center - CD20+,CD20,Myeloid dendritic cells
+Q | 6B | 032 | CD20,21888,32371,Classical monocytes,0,Germinal center - CD20+,CD20,Classical monocytes
+Q | 6B | 032 | CD20,21888,32371,"Non-classical, intermediate monocytes",0,Germinal center - CD20+,CD20,"Non-classical, intermediate monocytes"
+Q | 6B | 032 | CD20,21888,32371,Neutrophils,0.00172000522315521,Germinal center - CD20+,CD20,Neutrophils
+Q | 6B | 032 | CD20,21888,32371,Regulatory T cells,0.012236252930744,Germinal center - CD20+,CD20,Regulatory T cells
+Q | 6B | 032 | CD20,21888,32371,Endothelial cells,0.010831384403986,Germinal center - CD20+,CD20,Endothelial cells
+Q | 6B | 032 | CD20,21888,32371,Fibroblasts,0.00856924961223905,Germinal center - CD20+,CD20,Fibroblasts
+R | 6B | 033 | CD20,16887,39225,Macrophages,0.0373361063813823,Germinal center - CD20+,CD20,Macrophages
+R | 6B | 033 | CD20,16887,39225,Mast cells,0.000291074086601477,Germinal center - CD20+,CD20,Mast cells
+R | 6B | 033 | CD20,16887,39225,Naïve B cells,0.288602408451838,Germinal center - CD20+,CD20,Naïve B cells
+R | 6B | 033 | CD20,16887,39225,Memory B cells,0.502754060705553,Germinal center - CD20+,CD20,Memory B cells
+R | 6B | 033 | CD20,16887,39225,Plasma cells,0.04221573201737,Germinal center - CD20+,CD20,Plasma cells
+R | 6B | 033 | CD20,16887,39225,Naïve CD4 T cells,0.0702668654851905,Germinal center - CD20+,CD20,Naïve CD4 T cells
+R | 6B | 033 | CD20,16887,39225,Memory CD4 T cells,0,Germinal center - CD20+,CD20,Memory CD4 T cells
+R | 6B | 033 | CD20,16887,39225,Naïve CD8 T cells,0,Germinal center - CD20+,CD20,Naïve CD8 T cells
+R | 6B | 033 | CD20,16887,39225,Memory CD8 T cells,0.00451992256925158,Germinal center - CD20+,CD20,Memory CD8 T cells
+R | 6B | 033 | CD20,16887,39225,Natural killer cells,0.00556275322634442,Germinal center - CD20+,CD20,Natural killer cells
+R | 6B | 033 | CD20,16887,39225,Plasmacytoid dendritic cells,0.00346262158194291,Germinal center - CD20+,CD20,Plasmacytoid dendritic cells
+R | 6B | 033 | CD20,16887,39225,Myeloid dendritic cells,0,Germinal center - CD20+,CD20,Myeloid dendritic cells
+R | 6B | 033 | CD20,16887,39225,Classical monocytes,0,Germinal center - CD20+,CD20,Classical monocytes
+R | 6B | 033 | CD20,16887,39225,"Non-classical, intermediate monocytes",0,Germinal center - CD20+,CD20,"Non-classical, intermediate monocytes"
+R | 6B | 033 | CD20,16887,39225,Neutrophils,0.000149707227738737,Germinal center - CD20+,CD20,Neutrophils
+R | 6B | 033 | CD20,16887,39225,Regulatory T cells,0.0258819305125398,Germinal center - CD20+,CD20,Regulatory T cells
+R | 6B | 033 | CD20,16887,39225,Endothelial cells,0.00975208735467066,Germinal center - CD20+,CD20,Endothelial cells
+R | 6B | 033 | CD20,16887,39225,Fibroblasts,0.00920473039957679,Germinal center - CD20+,CD20,Fibroblasts
+S | 6B | 028 | CD3,3849,25684,Macrophages,0.0163761224250765,Germinal center - CD3+,CD3,Macrophages
+S | 6B | 028 | CD3,3849,25684,Mast cells,0.000347211882390824,Germinal center - CD3+,CD3,Mast cells
+S | 6B | 028 | CD3,3849,25684,Naïve B cells,0.24020470826254,Germinal center - CD3+,CD3,Naïve B cells
+S | 6B | 028 | CD3,3849,25684,Memory B cells,0.389957209942116,Germinal center - CD3+,CD3,Memory B cells
+S | 6B | 028 | CD3,3849,25684,Plasma cells,0.0334221570410456,Germinal center - CD3+,CD3,Plasma cells
+S | 6B | 028 | CD3,3849,25684,Naïve CD4 T cells,0.00668504793279383,Germinal center - CD3+,CD3,Naïve CD4 T cells
+S | 6B | 028 | CD3,3849,25684,Memory CD4 T cells,0.225355868495734,Germinal center - CD3+,CD3,Memory CD4 T cells
+S | 6B | 028 | CD3,3849,25684,Naïve CD8 T cells,0,Germinal center - CD3+,CD3,Naïve CD8 T cells
+S | 6B | 028 | CD3,3849,25684,Memory CD8 T cells,0.00361252574952336,Germinal center - CD3+,CD3,Memory CD8 T cells
+S | 6B | 028 | CD3,3849,25684,Natural killer cells,0.004267083239404,Germinal center - CD3+,CD3,Natural killer cells
+S | 6B | 028 | CD3,3849,25684,Plasmacytoid dendritic cells,0.00375571087434324,Germinal center - CD3+,CD3,Plasmacytoid dendritic cells
+S | 6B | 028 | CD3,3849,25684,Myeloid dendritic cells,0,Germinal center - CD3+,CD3,Myeloid dendritic cells
+S | 6B | 028 | CD3,3849,25684,Classical monocytes,0,Germinal center - CD3+,CD3,Classical monocytes
+S | 6B | 028 | CD3,3849,25684,"Non-classical, intermediate monocytes",0,Germinal center - CD3+,CD3,"Non-classical, intermediate monocytes"
+S | 6B | 028 | CD3,3849,25684,Neutrophils,0,Germinal center - CD3+,CD3,Neutrophils
+S | 6B | 028 | CD3,3849,25684,Regulatory T cells,0.0613671914341394,Germinal center - CD3+,CD3,Regulatory T cells
+S | 6B | 028 | CD3,3849,25684,Endothelial cells,0.00458370465335343,Germinal center - CD3+,CD3,Endothelial cells
+S | 6B | 028 | CD3,3849,25684,Fibroblasts,0.01006545806754,Germinal center - CD3+,CD3,Fibroblasts
+T | 6B | 029 | CD3,21741,29893,Macrophages,0.0240320495713893,Germinal center - CD3+,CD3,Macrophages
+T | 6B | 029 | CD3,21741,29893,Mast cells,0.000145669502070561,Germinal center - CD3+,CD3,Mast cells
+T | 6B | 029 | CD3,21741,29893,Naïve B cells,0.286150357986842,Germinal center - CD3+,CD3,Naïve B cells
+T | 6B | 029 | CD3,21741,29893,Memory B cells,0.29018098825742,Germinal center - CD3+,CD3,Memory B cells
+T | 6B | 029 | CD3,21741,29893,Plasma cells,0.0338384738399009,Germinal center - CD3+,CD3,Plasma cells
+T | 6B | 029 | CD3,21741,29893,Naïve CD4 T cells,0,Germinal center - CD3+,CD3,Naïve CD4 T cells
+T | 6B | 029 | CD3,21741,29893,Memory CD4 T cells,0.198631028620206,Germinal center - CD3+,CD3,Memory CD4 T cells
+T | 6B | 029 | CD3,21741,29893,Naïve CD8 T cells,0,Germinal center - CD3+,CD3,Naïve CD8 T cells
+T | 6B | 029 | CD3,21741,29893,Memory CD8 T cells,0.00802173453865824,Germinal center - CD3+,CD3,Memory CD8 T cells
+T | 6B | 029 | CD3,21741,29893,Natural killer cells,0.00405206718855908,Germinal center - CD3+,CD3,Natural killer cells
+T | 6B | 029 | CD3,21741,29893,Plasmacytoid dendritic cells,0.00305025162883567,Germinal center - CD3+,CD3,Plasmacytoid dendritic cells
+T | 6B | 029 | CD3,21741,29893,Myeloid dendritic cells,0,Germinal center - CD3+,CD3,Myeloid dendritic cells
+T | 6B | 029 | CD3,21741,29893,Classical monocytes,0,Germinal center - CD3+,CD3,Classical monocytes
+T | 6B | 029 | CD3,21741,29893,"Non-classical, intermediate monocytes",0,Germinal center - CD3+,CD3,"Non-classical, intermediate monocytes"
+T | 6B | 029 | CD3,21741,29893,Neutrophils,0.000471312062434531,Germinal center - CD3+,CD3,Neutrophils
+T | 6B | 029 | CD3,21741,29893,Regulatory T cells,0.133074200734595,Germinal center - CD3+,CD3,Regulatory T cells
+T | 6B | 029 | CD3,21741,29893,Endothelial cells,0.0109759067146239,Germinal center - CD3+,CD3,Endothelial cells
+T | 6B | 029 | CD3,21741,29893,Fibroblasts,0.00737595935446549,Germinal center - CD3+,CD3,Fibroblasts
+U | 6B | 030 | CD3,18493,9579,Macrophages,0.0170431089526667,Germinal center - CD3+,CD3,Macrophages
+U | 6B | 030 | CD3,18493,9579,Mast cells,0.000109477470853686,Germinal center - CD3+,CD3,Mast cells
+U | 6B | 030 | CD3,18493,9579,Naïve B cells,0.301673219481977,Germinal center - CD3+,CD3,Naïve B cells
+U | 6B | 030 | CD3,18493,9579,Memory B cells,0.302169495219427,Germinal center - CD3+,CD3,Memory B cells
+U | 6B | 030 | CD3,18493,9579,Plasma cells,0.0366580459359424,Germinal center - CD3+,CD3,Plasma cells
+U | 6B | 030 | CD3,18493,9579,Naïve CD4 T cells,0,Germinal center - CD3+,CD3,Naïve CD4 T cells
+U | 6B | 030 | CD3,18493,9579,Memory CD4 T cells,0.174328876409101,Germinal center - CD3+,CD3,Memory CD4 T cells
+U | 6B | 030 | CD3,18493,9579,Naïve CD8 T cells,0.00332163608427989,Germinal center - CD3+,CD3,Naïve CD8 T cells
+U | 6B | 030 | CD3,18493,9579,Memory CD8 T cells,0.0374820428798826,Germinal center - CD3+,CD3,Memory CD8 T cells
+U | 6B | 030 | CD3,18493,9579,Natural killer cells,0.000426047185218705,Germinal center - CD3+,CD3,Natural killer cells
+U | 6B | 030 | CD3,18493,9579,Plasmacytoid dendritic cells,0.00266834442640917,Germinal center - CD3+,CD3,Plasmacytoid dendritic cells
+U | 6B | 030 | CD3,18493,9579,Myeloid dendritic cells,0,Germinal center - CD3+,CD3,Myeloid dendritic cells
+U | 6B | 030 | CD3,18493,9579,Classical monocytes,0,Germinal center - CD3+,CD3,Classical monocytes
+U | 6B | 030 | CD3,18493,9579,"Non-classical, intermediate monocytes",0,Germinal center - CD3+,CD3,"Non-classical, intermediate monocytes"
+U | 6B | 030 | CD3,18493,9579,Neutrophils,0.00246420752298649,Germinal center - CD3+,CD3,Neutrophils
+U | 6B | 030 | CD3,18493,9579,Regulatory T cells,0.106509630569523,Germinal center - CD3+,CD3,Regulatory T cells
+U | 6B | 030 | CD3,18493,9579,Endothelial cells,0.00711068357906148,Germinal center - CD3+,CD3,Endothelial cells
+U | 6B | 030 | CD3,18493,9579,Fibroblasts,0.00803518428267117,Germinal center - CD3+,CD3,Fibroblasts
+V | 6B | 031 | CD3,14101,37273,Macrophages,0.0186832348615416,Germinal center - CD3+,CD3,Macrophages
+V | 6B | 031 | CD3,14101,37273,Mast cells,0.000511398886035954,Germinal center - CD3+,CD3,Mast cells
+V | 6B | 031 | CD3,14101,37273,Naïve B cells,0.113509664527073,Germinal center - CD3+,CD3,Naïve B cells
+V | 6B | 031 | CD3,14101,37273,Memory B cells,0.508537269505621,Germinal center - CD3+,CD3,Memory B cells
+V | 6B | 031 | CD3,14101,37273,Plasma cells,0.0287849986446857,Germinal center - CD3+,CD3,Plasma cells
+V | 6B | 031 | CD3,14101,37273,Naïve CD4 T cells,0,Germinal center - CD3+,CD3,Naïve CD4 T cells
+V | 6B | 031 | CD3,14101,37273,Memory CD4 T cells,0.163425519739467,Germinal center - CD3+,CD3,Memory CD4 T cells
+V | 6B | 031 | CD3,14101,37273,Naïve CD8 T cells,0.0167960813645358,Germinal center - CD3+,CD3,Naïve CD8 T cells
+V | 6B | 031 | CD3,14101,37273,Memory CD8 T cells,0.0121629482115674,Germinal center - CD3+,CD3,Memory CD8 T cells
+V | 6B | 031 | CD3,14101,37273,Natural killer cells,0,Germinal center - CD3+,CD3,Natural killer cells
+V | 6B | 031 | CD3,14101,37273,Plasmacytoid dendritic cells,0.000603584334420142,Germinal center - CD3+,CD3,Plasmacytoid dendritic cells
+V | 6B | 031 | CD3,14101,37273,Myeloid dendritic cells,0,Germinal center - CD3+,CD3,Myeloid dendritic cells
+V | 6B | 031 | CD3,14101,37273,Classical monocytes,0,Germinal center - CD3+,CD3,Classical monocytes
+V | 6B | 031 | CD3,14101,37273,"Non-classical, intermediate monocytes",0,Germinal center - CD3+,CD3,"Non-classical, intermediate monocytes"
+V | 6B | 031 | CD3,14101,37273,Neutrophils,0,Germinal center - CD3+,CD3,Neutrophils
+V | 6B | 031 | CD3,14101,37273,Regulatory T cells,0.125637947497837,Germinal center - CD3+,CD3,Regulatory T cells
+V | 6B | 031 | CD3,14101,37273,Endothelial cells,0.0033961846773594,Germinal center - CD3+,CD3,Endothelial cells
+V | 6B | 031 | CD3,14101,37273,Fibroblasts,0.0079511677498558,Germinal center - CD3+,CD3,Fibroblasts
+W | 6B | 032 | CD3,21888,32371,Macrophages,0.0197789245101254,Germinal center - CD3+,CD3,Macrophages
+W | 6B | 032 | CD3,21888,32371,Mast cells,0.000228510733204468,Germinal center - CD3+,CD3,Mast cells
+W | 6B | 032 | CD3,21888,32371,Naïve B cells,0.247158433006418,Germinal center - CD3+,CD3,Naïve B cells
+W | 6B | 032 | CD3,21888,32371,Memory B cells,0.408937489211215,Germinal center - CD3+,CD3,Memory B cells
+W | 6B | 032 | CD3,21888,32371,Plasma cells,0.0336674878812534,Germinal center - CD3+,CD3,Plasma cells
+W | 6B | 032 | CD3,21888,32371,Naïve CD4 T cells,0,Germinal center - CD3+,CD3,Naïve CD4 T cells
+W | 6B | 032 | CD3,21888,32371,Memory CD4 T cells,0.178926031539899,Germinal center - CD3+,CD3,Memory CD4 T cells
+W | 6B | 032 | CD3,21888,32371,Naïve CD8 T cells,0,Germinal center - CD3+,CD3,Naïve CD8 T cells
+W | 6B | 032 | CD3,21888,32371,Memory CD8 T cells,0.0070524668271194,Germinal center - CD3+,CD3,Memory CD8 T cells
+W | 6B | 032 | CD3,21888,32371,Natural killer cells,0.0029770909664802,Germinal center - CD3+,CD3,Natural killer cells
+W | 6B | 032 | CD3,21888,32371,Plasmacytoid dendritic cells,0,Germinal center - CD3+,CD3,Plasmacytoid dendritic cells
+W | 6B | 032 | CD3,21888,32371,Myeloid dendritic cells,0,Germinal center - CD3+,CD3,Myeloid dendritic cells
+W | 6B | 032 | CD3,21888,32371,Classical monocytes,0,Germinal center - CD3+,CD3,Classical monocytes
+W | 6B | 032 | CD3,21888,32371,"Non-classical, intermediate monocytes",0,Germinal center - CD3+,CD3,"Non-classical, intermediate monocytes"
+W | 6B | 032 | CD3,21888,32371,Neutrophils,0.00226275156275983,Germinal center - CD3+,CD3,Neutrophils
+W | 6B | 032 | CD3,21888,32371,Regulatory T cells,0.0853337451145626,Germinal center - CD3+,CD3,Regulatory T cells
+W | 6B | 032 | CD3,21888,32371,Endothelial cells,0.0055836769858005,Germinal center - CD3+,CD3,Endothelial cells
+W | 6B | 032 | CD3,21888,32371,Fibroblasts,0.00809339166116182,Germinal center - CD3+,CD3,Fibroblasts
+X | 6B | 033 | CD3,16887,39225,Macrophages,0.0158395615899072,Germinal center - CD3+,CD3,Macrophages
+X | 6B | 033 | CD3,16887,39225,Mast cells,0.000748005023942744,Germinal center - CD3+,CD3,Mast cells
+X | 6B | 033 | CD3,16887,39225,Naïve B cells,0.218980635391662,Germinal center - CD3+,CD3,Naïve B cells
+X | 6B | 033 | CD3,16887,39225,Memory B cells,0.397665597018437,Germinal center - CD3+,CD3,Memory B cells
+X | 6B | 033 | CD3,16887,39225,Plasma cells,0.0290085285545845,Germinal center - CD3+,CD3,Plasma cells
+X | 6B | 033 | CD3,16887,39225,Naïve CD4 T cells,0,Germinal center - CD3+,CD3,Naïve CD4 T cells
+X | 6B | 033 | CD3,16887,39225,Memory CD4 T cells,0.239712823741432,Germinal center - CD3+,CD3,Memory CD4 T cells
+X | 6B | 033 | CD3,16887,39225,Naïve CD8 T cells,0,Germinal center - CD3+,CD3,Naïve CD8 T cells
+X | 6B | 033 | CD3,16887,39225,Memory CD8 T cells,0.00977444477606605,Germinal center - CD3+,CD3,Memory CD8 T cells
+X | 6B | 033 | CD3,16887,39225,Natural killer cells,0,Germinal center - CD3+,CD3,Natural killer cells
+X | 6B | 033 | CD3,16887,39225,Plasmacytoid dendritic cells,0,Germinal center - CD3+,CD3,Plasmacytoid dendritic cells
+X | 6B | 033 | CD3,16887,39225,Myeloid dendritic cells,0,Germinal center - CD3+,CD3,Myeloid dendritic cells
+X | 6B | 033 | CD3,16887,39225,Classical monocytes,0,Germinal center - CD3+,CD3,Classical monocytes
+X | 6B | 033 | CD3,16887,39225,"Non-classical, intermediate monocytes",0,Germinal center - CD3+,CD3,"Non-classical, intermediate monocytes"
+X | 6B | 033 | CD3,16887,39225,Neutrophils,0,Germinal center - CD3+,CD3,Neutrophils
+X | 6B | 033 | CD3,16887,39225,Regulatory T cells,0.0790695519480339,Germinal center - CD3+,CD3,Regulatory T cells
+X | 6B | 033 | CD3,16887,39225,Endothelial cells,0.00326985619623326,Germinal center - CD3+,CD3,Endothelial cells
+X | 6B | 033 | CD3,16887,39225,Fibroblasts,0.00593099575970106,Germinal center - CD3+,CD3,Fibroblasts
+Y | 6B | 001 | Full ROI,23975,27060,Macrophages,0.0297929988471144,Germinal center,Geometric,Macrophages
+Y | 6B | 001 | Full ROI,23975,27060,Mast cells,0.000174339361070256,Germinal center,Geometric,Mast cells
+Y | 6B | 001 | Full ROI,23975,27060,Naïve B cells,0.407584154170506,Germinal center,Geometric,Naïve B cells
+Y | 6B | 001 | Full ROI,23975,27060,Memory B cells,0.36674029840281,Germinal center,Geometric,Memory B cells
+Y | 6B | 001 | Full ROI,23975,27060,Plasma cells,0.0311331509966712,Germinal center,Geometric,Plasma cells
+Y | 6B | 001 | Full ROI,23975,27060,Naïve CD4 T cells,0,Germinal center,Geometric,Naïve CD4 T cells
+Y | 6B | 001 | Full ROI,23975,27060,Memory CD4 T cells,0.0277351225369206,Germinal center,Geometric,Memory CD4 T cells
+Y | 6B | 001 | Full ROI,23975,27060,Naïve CD8 T cells,0,Germinal center,Geometric,Naïve CD8 T cells
+Y | 6B | 001 | Full ROI,23975,27060,Memory CD8 T cells,0.0119475772599202,Germinal center,Geometric,Memory CD8 T cells
+Y | 6B | 001 | Full ROI,23975,27060,Natural killer cells,0.00964799617098082,Germinal center,Geometric,Natural killer cells
+Y | 6B | 001 | Full ROI,23975,27060,Plasmacytoid dendritic cells,0,Germinal center,Geometric,Plasmacytoid dendritic cells
+Y | 6B | 001 | Full ROI,23975,27060,Myeloid dendritic cells,0,Germinal center,Geometric,Myeloid dendritic cells
+Y | 6B | 001 | Full ROI,23975,27060,Classical monocytes,0,Germinal center,Geometric,Classical monocytes
+Y | 6B | 001 | Full ROI,23975,27060,"Non-classical, intermediate monocytes",0,Germinal center,Geometric,"Non-classical, intermediate monocytes"
+Y | 6B | 001 | Full ROI,23975,27060,Neutrophils,0.00306937422092997,Germinal center,Geometric,Neutrophils
+Y | 6B | 001 | Full ROI,23975,27060,Regulatory T cells,0.096267254740549,Germinal center,Geometric,Regulatory T cells
+Y | 6B | 001 | Full ROI,23975,27060,Endothelial cells,0.00833816482974071,Germinal center,Geometric,Endothelial cells
+Y | 6B | 001 | Full ROI,23975,27060,Fibroblasts,0.00756956846278746,Germinal center,Geometric,Fibroblasts
+Z | 6B | 004 | Full ROI,25384,18364,Macrophages,0.0459087475819521,Germinal center,Geometric,Macrophages
+Z | 6B | 004 | Full ROI,25384,18364,Mast cells,4.13146319802908e-05,Germinal center,Geometric,Mast cells
+Z | 6B | 004 | Full ROI,25384,18364,Naïve B cells,0.333197887678139,Germinal center,Geometric,Naïve B cells
+Z | 6B | 004 | Full ROI,25384,18364,Memory B cells,0.394926971052016,Germinal center,Geometric,Memory B cells
+Z | 6B | 004 | Full ROI,25384,18364,Plasma cells,0.0475104501013412,Germinal center,Geometric,Plasma cells
+Z | 6B | 004 | Full ROI,25384,18364,Naïve CD4 T cells,0,Germinal center,Geometric,Naïve CD4 T cells
+Z | 6B | 004 | Full ROI,25384,18364,Memory CD4 T cells,0.112120272580924,Germinal center,Geometric,Memory CD4 T cells
+Z | 6B | 004 | Full ROI,25384,18364,Naïve CD8 T cells,0.000135322710144994,Germinal center,Geometric,Naïve CD8 T cells
+Z | 6B | 004 | Full ROI,25384,18364,Memory CD8 T cells,0.0053729096847619,Germinal center,Geometric,Memory CD8 T cells
+Z | 6B | 004 | Full ROI,25384,18364,Natural killer cells,0.000385332161163811,Germinal center,Geometric,Natural killer cells
+Z | 6B | 004 | Full ROI,25384,18364,Plasmacytoid dendritic cells,0.00305184720768743,Germinal center,Geometric,Plasmacytoid dendritic cells
+Z | 6B | 004 | Full ROI,25384,18364,Myeloid dendritic cells,0,Germinal center,Geometric,Myeloid dendritic cells
+Z | 6B | 004 | Full ROI,25384,18364,Classical monocytes,0,Germinal center,Geometric,Classical monocytes
+Z | 6B | 004 | Full ROI,25384,18364,"Non-classical, intermediate monocytes",0,Germinal center,Geometric,"Non-classical, intermediate monocytes"
+Z | 6B | 004 | Full ROI,25384,18364,Neutrophils,0,Germinal center,Geometric,Neutrophils
+Z | 6B | 004 | Full ROI,25384,18364,Regulatory T cells,0.040045199344584,Germinal center,Geometric,Regulatory T cells
+Z | 6B | 004 | Full ROI,25384,18364,Endothelial cells,0.00847985503166755,Germinal center,Geometric,Endothelial cells
+Z | 6B | 004 | Full ROI,25384,18364,Fibroblasts,0.00882389023363788,Germinal center,Geometric,Fibroblasts
+a | 6B | 007 | Full ROI,9503,34845,Macrophages,0.0501271478037685,Germinal center,Geometric,Macrophages
+a | 6B | 007 | Full ROI,9503,34845,Mast cells,0.000323965889407586,Germinal center,Geometric,Mast cells
+a | 6B | 007 | Full ROI,9503,34845,Naïve B cells,0.353131225336,Germinal center,Geometric,Naïve B cells
+a | 6B | 007 | Full ROI,9503,34845,Memory B cells,0.419112311877371,Germinal center,Geometric,Memory B cells
+a | 6B | 007 | Full ROI,9503,34845,Plasma cells,0.0267813722230277,Germinal center,Geometric,Plasma cells
+a | 6B | 007 | Full ROI,9503,34845,Naïve CD4 T cells,0.0049015287811617,Germinal center,Geometric,Naïve CD4 T cells
+a | 6B | 007 | Full ROI,9503,34845,Memory CD4 T cells,0.0413219794073542,Germinal center,Geometric,Memory CD4 T cells
+a | 6B | 007 | Full ROI,9503,34845,Naïve CD8 T cells,0,Germinal center,Geometric,Naïve CD8 T cells
+a | 6B | 007 | Full ROI,9503,34845,Memory CD8 T cells,0.0181303677558505,Germinal center,Geometric,Memory CD8 T cells
+a | 6B | 007 | Full ROI,9503,34845,Natural killer cells,0,Germinal center,Geometric,Natural killer cells
+a | 6B | 007 | Full ROI,9503,34845,Plasmacytoid dendritic cells,0.00403719189107956,Germinal center,Geometric,Plasmacytoid dendritic cells
+a | 6B | 007 | Full ROI,9503,34845,Myeloid dendritic cells,0,Germinal center,Geometric,Myeloid dendritic cells
+a | 6B | 007 | Full ROI,9503,34845,Classical monocytes,0,Germinal center,Geometric,Classical monocytes
+a | 6B | 007 | Full ROI,9503,34845,"Non-classical, intermediate monocytes",0,Germinal center,Geometric,"Non-classical, intermediate monocytes"
+a | 6B | 007 | Full ROI,9503,34845,Neutrophils,0.000937075342263584,Germinal center,Geometric,Neutrophils
+a | 6B | 007 | Full ROI,9503,34845,Regulatory T cells,0.057721963818783,Germinal center,Geometric,Regulatory T cells
+a | 6B | 007 | Full ROI,9503,34845,Endothelial cells,0.0120841065040018,Germinal center,Geometric,Endothelial cells
+a | 6B | 007 | Full ROI,9503,34845,Fibroblasts,0.0113897633699311,Germinal center,Geometric,Fibroblasts
+b | 6B | 010 | Full ROI,9318,33128,Macrophages,0.0387306023589159,Germinal center,Geometric,Macrophages
+b | 6B | 010 | Full ROI,9318,33128,Mast cells,0.000285039446412867,Germinal center,Geometric,Mast cells
+b | 6B | 010 | Full ROI,9318,33128,Naïve B cells,0.232320516102241,Germinal center,Geometric,Naïve B cells
+b | 6B | 010 | Full ROI,9318,33128,Memory B cells,0.53869794573925,Germinal center,Geometric,Memory B cells
+b | 6B | 010 | Full ROI,9318,33128,Plasma cells,0.0307500301845747,Germinal center,Geometric,Plasma cells
+b | 6B | 010 | Full ROI,9318,33128,Naïve CD4 T cells,0,Germinal center,Geometric,Naïve CD4 T cells
+b | 6B | 010 | Full ROI,9318,33128,Memory CD4 T cells,0.0733019922687467,Germinal center,Geometric,Memory CD4 T cells
+b | 6B | 010 | Full ROI,9318,33128,Naïve CD8 T cells,0,Germinal center,Geometric,Naïve CD8 T cells
+b | 6B | 010 | Full ROI,9318,33128,Memory CD8 T cells,0.00890682974539412,Germinal center,Geometric,Memory CD8 T cells
+b | 6B | 010 | Full ROI,9318,33128,Natural killer cells,0,Germinal center,Geometric,Natural killer cells
+b | 6B | 010 | Full ROI,9318,33128,Plasmacytoid dendritic cells,0.00354923531555486,Germinal center,Geometric,Plasmacytoid dendritic cells
+b | 6B | 010 | Full ROI,9318,33128,Myeloid dendritic cells,0,Germinal center,Geometric,Myeloid dendritic cells
+b | 6B | 010 | Full ROI,9318,33128,Classical monocytes,0,Germinal center,Geometric,Classical monocytes
+b | 6B | 010 | Full ROI,9318,33128,"Non-classical, intermediate monocytes",0,Germinal center,Geometric,"Non-classical, intermediate monocytes"
+b | 6B | 010 | Full ROI,9318,33128,Neutrophils,0,Germinal center,Geometric,Neutrophils
+b | 6B | 010 | Full ROI,9318,33128,Regulatory T cells,0.0502838769617444,Germinal center,Geometric,Regulatory T cells
+b | 6B | 010 | Full ROI,9318,33128,Endothelial cells,0.0133403519845171,Germinal center,Geometric,Endothelial cells
+b | 6B | 010 | Full ROI,9318,33128,Fibroblasts,0.00983357989264773,Germinal center,Geometric,Fibroblasts
+c | 6B | 013 | Full ROI,21798,36418,Macrophages,0.0653231321982187,Germinal center,Geometric,Macrophages
+c | 6B | 013 | Full ROI,21798,36418,Mast cells,0,Germinal center,Geometric,Mast cells
+c | 6B | 013 | Full ROI,21798,36418,Naïve B cells,0.294939526176521,Germinal center,Geometric,Naïve B cells
+c | 6B | 013 | Full ROI,21798,36418,Memory B cells,0.395211263500312,Germinal center,Geometric,Memory B cells
+c | 6B | 013 | Full ROI,21798,36418,Plasma cells,0.0321899613030388,Germinal center,Geometric,Plasma cells
+c | 6B | 013 | Full ROI,21798,36418,Naïve CD4 T cells,0,Germinal center,Geometric,Naïve CD4 T cells
+c | 6B | 013 | Full ROI,21798,36418,Memory CD4 T cells,0.0623092063246529,Germinal center,Geometric,Memory CD4 T cells
+c | 6B | 013 | Full ROI,21798,36418,Naïve CD8 T cells,0.00262988766535515,Germinal center,Geometric,Naïve CD8 T cells
+c | 6B | 013 | Full ROI,21798,36418,Memory CD8 T cells,0.0227916479424599,Germinal center,Geometric,Memory CD8 T cells
+c | 6B | 013 | Full ROI,21798,36418,Natural killer cells,0.00454364581844304,Germinal center,Geometric,Natural killer cells
+c | 6B | 013 | Full ROI,21798,36418,Plasmacytoid dendritic cells,0.00183434160360829,Germinal center,Geometric,Plasmacytoid dendritic cells
+c | 6B | 013 | Full ROI,21798,36418,Myeloid dendritic cells,0,Germinal center,Geometric,Myeloid dendritic cells
+c | 6B | 013 | Full ROI,21798,36418,Classical monocytes,0,Germinal center,Geometric,Classical monocytes
+c | 6B | 013 | Full ROI,21798,36418,"Non-classical, intermediate monocytes",0,Germinal center,Geometric,"Non-classical, intermediate monocytes"
+c | 6B | 013 | Full ROI,21798,36418,Neutrophils,0,Germinal center,Geometric,Neutrophils
+c | 6B | 013 | Full ROI,21798,36418,Regulatory T cells,0.0946422650087581,Germinal center,Geometric,Regulatory T cells
+c | 6B | 013 | Full ROI,21798,36418,Endothelial cells,0.0112349469462252,Germinal center,Geometric,Endothelial cells
+c | 6B | 013 | Full ROI,21798,36418,Fibroblasts,0.012350175512407,Germinal center,Geometric,Fibroblasts
+d | 6B | 016 | Full ROI,25388,26749,Macrophages,0.04271999048533,Germinal center,Geometric,Macrophages
+d | 6B | 016 | Full ROI,25388,26749,Mast cells,0.000252255482846464,Germinal center,Geometric,Mast cells
+d | 6B | 016 | Full ROI,25388,26749,Naïve B cells,0.252074229271029,Germinal center,Geometric,Naïve B cells
+d | 6B | 016 | Full ROI,25388,26749,Memory B cells,0.528690174643163,Germinal center,Geometric,Memory B cells
+d | 6B | 016 | Full ROI,25388,26749,Plasma cells,0.0247115671206023,Germinal center,Geometric,Plasma cells
+d | 6B | 016 | Full ROI,25388,26749,Naïve CD4 T cells,0.00847567385936276,Germinal center,Geometric,Naïve CD4 T cells
+d | 6B | 016 | Full ROI,25388,26749,Memory CD4 T cells,0.0478804807968365,Germinal center,Geometric,Memory CD4 T cells
+d | 6B | 016 | Full ROI,25388,26749,Naïve CD8 T cells,0,Germinal center,Geometric,Naïve CD8 T cells
+d | 6B | 016 | Full ROI,25388,26749,Memory CD8 T cells,0.00673604559753099,Germinal center,Geometric,Memory CD8 T cells
+d | 6B | 016 | Full ROI,25388,26749,Natural killer cells,0.00373080760151782,Germinal center,Geometric,Natural killer cells
+d | 6B | 016 | Full ROI,25388,26749,Plasmacytoid dendritic cells,0.000946403002498559,Germinal center,Geometric,Plasmacytoid dendritic cells
+d | 6B | 016 | Full ROI,25388,26749,Myeloid dendritic cells,0,Germinal center,Geometric,Myeloid dendritic cells
+d | 6B | 016 | Full ROI,25388,26749,Classical monocytes,0,Germinal center,Geometric,Classical monocytes
+d | 6B | 016 | Full ROI,25388,26749,"Non-classical, intermediate monocytes",0,Germinal center,Geometric,"Non-classical, intermediate monocytes"
+d | 6B | 016 | Full ROI,25388,26749,Neutrophils,0,Germinal center,Geometric,Neutrophils
+d | 6B | 016 | Full ROI,25388,26749,Regulatory T cells,0.0580878478208351,Germinal center,Geometric,Regulatory T cells
+d | 6B | 016 | Full ROI,25388,26749,Endothelial cells,0.0139877443370789,Germinal center,Geometric,Endothelial cells
+d | 6B | 016 | Full ROI,25388,26749,Fibroblasts,0.0117067799813686,Germinal center,Geometric,Fibroblasts
+e | 6B | 019 | Full ROI,9260,15437,Macrophages,0.0259942837746171,Germinal center,Geometric,Macrophages
+e | 6B | 019 | Full ROI,9260,15437,Mast cells,0.000165805240264729,Germinal center,Geometric,Mast cells
+e | 6B | 019 | Full ROI,9260,15437,Naïve B cells,0.367262468569154,Germinal center,Geometric,Naïve B cells
+e | 6B | 019 | Full ROI,9260,15437,Memory B cells,0.359904647626393,Germinal center,Geometric,Memory B cells
+e | 6B | 019 | Full ROI,9260,15437,Plasma cells,0.0361085438680021,Germinal center,Geometric,Plasma cells
+e | 6B | 019 | Full ROI,9260,15437,Naïve CD4 T cells,0,Germinal center,Geometric,Naïve CD4 T cells
+e | 6B | 019 | Full ROI,9260,15437,Memory CD4 T cells,0.162029321419544,Germinal center,Geometric,Memory CD4 T cells
+e | 6B | 019 | Full ROI,9260,15437,Naïve CD8 T cells,0.0108341404290489,Germinal center,Geometric,Naïve CD8 T cells
+e | 6B | 019 | Full ROI,9260,15437,Memory CD8 T cells,0.0172465135202466,Germinal center,Geometric,Memory CD8 T cells
+e | 6B | 019 | Full ROI,9260,15437,Natural killer cells,0,Germinal center,Geometric,Natural killer cells
+e | 6B | 019 | Full ROI,9260,15437,Plasmacytoid dendritic cells,0,Germinal center,Geometric,Plasmacytoid dendritic cells
+e | 6B | 019 | Full ROI,9260,15437,Myeloid dendritic cells,0,Germinal center,Geometric,Myeloid dendritic cells
+e | 6B | 019 | Full ROI,9260,15437,Classical monocytes,0,Germinal center,Geometric,Classical monocytes
+e | 6B | 019 | Full ROI,9260,15437,"Non-classical, intermediate monocytes",0.000931975898417702,Germinal center,Geometric,"Non-classical, intermediate monocytes"
+e | 6B | 019 | Full ROI,9260,15437,Neutrophils,0,Germinal center,Geometric,Neutrophils
+e | 6B | 019 | Full ROI,9260,15437,Regulatory T cells,0.00038902193178274,Germinal center,Geometric,Regulatory T cells
+e | 6B | 019 | Full ROI,9260,15437,Endothelial cells,0.00856225467576659,Germinal center,Geometric,Endothelial cells
+e | 6B | 019 | Full ROI,9260,15437,Fibroblasts,0.010571023046763,Germinal center,Geometric,Fibroblasts
+f | 6B | 020 | Full ROI,6925,16105,Macrophages,0.0492928929692491,Germinal center,Geometric,Macrophages
+f | 6B | 020 | Full ROI,6925,16105,Mast cells,0.000175699317316577,Germinal center,Geometric,Mast cells
+f | 6B | 020 | Full ROI,6925,16105,Naïve B cells,0.260157894878015,Germinal center,Geometric,Naïve B cells
+f | 6B | 020 | Full ROI,6925,16105,Memory B cells,0.444366434496281,Germinal center,Geometric,Memory B cells
+f | 6B | 020 | Full ROI,6925,16105,Plasma cells,0.0457656084618433,Germinal center,Geometric,Plasma cells
+f | 6B | 020 | Full ROI,6925,16105,Naïve CD4 T cells,0.0108766492080145,Germinal center,Geometric,Naïve CD4 T cells
+f | 6B | 020 | Full ROI,6925,16105,Memory CD4 T cells,0.0691412524404104,Germinal center,Geometric,Memory CD4 T cells
+f | 6B | 020 | Full ROI,6925,16105,Naïve CD8 T cells,0,Germinal center,Geometric,Naïve CD8 T cells
+f | 6B | 020 | Full ROI,6925,16105,Memory CD8 T cells,0.0185976423475209,Germinal center,Geometric,Memory CD8 T cells
+f | 6B | 020 | Full ROI,6925,16105,Natural killer cells,0.00847962822178925,Germinal center,Geometric,Natural killer cells
+f | 6B | 020 | Full ROI,6925,16105,Plasmacytoid dendritic cells,0.00680902097454048,Germinal center,Geometric,Plasmacytoid dendritic cells
+f | 6B | 020 | Full ROI,6925,16105,Myeloid dendritic cells,0.000109199060640077,Germinal center,Geometric,Myeloid dendritic cells
+f | 6B | 020 | Full ROI,6925,16105,Classical monocytes,0,Germinal center,Geometric,Classical monocytes
+f | 6B | 020 | Full ROI,6925,16105,"Non-classical, intermediate monocytes",0,Germinal center,Geometric,"Non-classical, intermediate monocytes"
+f | 6B | 020 | Full ROI,6925,16105,Neutrophils,0.00214447217150097,Germinal center,Geometric,Neutrophils
+f | 6B | 020 | Full ROI,6925,16105,Regulatory T cells,0.0465918326257743,Germinal center,Geometric,Regulatory T cells
+f | 6B | 020 | Full ROI,6925,16105,Endothelial cells,0.0236844129041322,Germinal center,Geometric,Endothelial cells
+f | 6B | 020 | Full ROI,6925,16105,Fibroblasts,0.0138073599229724,Germinal center,Geometric,Fibroblasts
+g | 6B | 021 | Full ROI,11177,16145,Macrophages,0.0364757017611729,Germinal center,Geometric,Macrophages
+g | 6B | 021 | Full ROI,11177,16145,Mast cells,0.000125058219448944,Germinal center,Geometric,Mast cells
+g | 6B | 021 | Full ROI,11177,16145,Naïve B cells,0.36948404679333,Germinal center,Geometric,Naïve B cells
+g | 6B | 021 | Full ROI,11177,16145,Memory B cells,0.388522242896911,Germinal center,Geometric,Memory B cells
+g | 6B | 021 | Full ROI,11177,16145,Plasma cells,0.0287265777381111,Germinal center,Geometric,Plasma cells
+g | 6B | 021 | Full ROI,11177,16145,Naïve CD4 T cells,0.0554991771121913,Germinal center,Geometric,Naïve CD4 T cells
+g | 6B | 021 | Full ROI,11177,16145,Memory CD4 T cells,0.0333868970105737,Germinal center,Geometric,Memory CD4 T cells
+g | 6B | 021 | Full ROI,11177,16145,Naïve CD8 T cells,0,Germinal center,Geometric,Naïve CD8 T cells
+g | 6B | 021 | Full ROI,11177,16145,Memory CD8 T cells,0.000269897454906303,Germinal center,Geometric,Memory CD8 T cells
+g | 6B | 021 | Full ROI,11177,16145,Natural killer cells,0.00495692684245592,Germinal center,Geometric,Natural killer cells
+g | 6B | 021 | Full ROI,11177,16145,Plasmacytoid dendritic cells,0.00168562899750387,Germinal center,Geometric,Plasmacytoid dendritic cells
+g | 6B | 021 | Full ROI,11177,16145,Myeloid dendritic cells,0,Germinal center,Geometric,Myeloid dendritic cells
+g | 6B | 021 | Full ROI,11177,16145,Classical monocytes,0,Germinal center,Geometric,Classical monocytes
+g | 6B | 021 | Full ROI,11177,16145,"Non-classical, intermediate monocytes",0,Germinal center,Geometric,"Non-classical, intermediate monocytes"
+g | 6B | 021 | Full ROI,11177,16145,Neutrophils,0,Germinal center,Geometric,Neutrophils
+g | 6B | 021 | Full ROI,11177,16145,Regulatory T cells,0.0626436368865858,Germinal center,Geometric,Regulatory T cells
+g | 6B | 021 | Full ROI,11177,16145,Endothelial cells,0.00971070215202064,Germinal center,Geometric,Endothelial cells
+g | 6B | 021 | Full ROI,11177,16145,Fibroblasts,0.00851350613478887,Germinal center,Geometric,Fibroblasts
+h | 6B | 022 | Full ROI,7333,20899,Macrophages,0.039681675207783,Germinal center,Geometric,Macrophages
+h | 6B | 022 | Full ROI,7333,20899,Mast cells,0.000465452549375152,Germinal center,Geometric,Mast cells
+h | 6B | 022 | Full ROI,7333,20899,Naïve B cells,0.468184744412714,Germinal center,Geometric,Naïve B cells
+h | 6B | 022 | Full ROI,7333,20899,Memory B cells,0.287334057041089,Germinal center,Geometric,Memory B cells
+h | 6B | 022 | Full ROI,7333,20899,Plasma cells,0.0293000401653239,Germinal center,Geometric,Plasma cells
+h | 6B | 022 | Full ROI,7333,20899,Naïve CD4 T cells,0,Germinal center,Geometric,Naïve CD4 T cells
+h | 6B | 022 | Full ROI,7333,20899,Memory CD4 T cells,0.064296298554929,Germinal center,Geometric,Memory CD4 T cells
+h | 6B | 022 | Full ROI,7333,20899,Naïve CD8 T cells,0.00648691621776243,Germinal center,Geometric,Naïve CD8 T cells
+h | 6B | 022 | Full ROI,7333,20899,Memory CD8 T cells,0.00541466301218502,Germinal center,Geometric,Memory CD8 T cells
+h | 6B | 022 | Full ROI,7333,20899,Natural killer cells,0,Germinal center,Geometric,Natural killer cells
+h | 6B | 022 | Full ROI,7333,20899,Plasmacytoid dendritic cells,0.00318146845201626,Germinal center,Geometric,Plasmacytoid dendritic cells
+h | 6B | 022 | Full ROI,7333,20899,Myeloid dendritic cells,0,Germinal center,Geometric,Myeloid dendritic cells
+h | 6B | 022 | Full ROI,7333,20899,Classical monocytes,0,Germinal center,Geometric,Classical monocytes
+h | 6B | 022 | Full ROI,7333,20899,"Non-classical, intermediate monocytes",0,Germinal center,Geometric,"Non-classical, intermediate monocytes"
+h | 6B | 022 | Full ROI,7333,20899,Neutrophils,0.00145990418267083,Germinal center,Geometric,Neutrophils
+h | 6B | 022 | Full ROI,7333,20899,Regulatory T cells,0.079449110989705,Germinal center,Geometric,Regulatory T cells
+h | 6B | 022 | Full ROI,7333,20899,Endothelial cells,0.00687487129845542,Germinal center,Geometric,Endothelial cells
+h | 6B | 022 | Full ROI,7333,20899,Fibroblasts,0.00787079791599166,Germinal center,Geometric,Fibroblasts
+i | 6B | 023 | Full ROI,12921,26841,Macrophages,0.026099725948924,Germinal center,Geometric,Macrophages
+i | 6B | 023 | Full ROI,12921,26841,Mast cells,0.000872777194487324,Germinal center,Geometric,Mast cells
+i | 6B | 023 | Full ROI,12921,26841,Naïve B cells,0.415573130541755,Germinal center,Geometric,Naïve B cells
+i | 6B | 023 | Full ROI,12921,26841,Memory B cells,0.295221988608714,Germinal center,Geometric,Memory B cells
+i | 6B | 023 | Full ROI,12921,26841,Plasma cells,0.0191884794518736,Germinal center,Geometric,Plasma cells
+i | 6B | 023 | Full ROI,12921,26841,Naïve CD4 T cells,0,Germinal center,Geometric,Naïve CD4 T cells
+i | 6B | 023 | Full ROI,12921,26841,Memory CD4 T cells,0.0578051935293459,Germinal center,Geometric,Memory CD4 T cells
+i | 6B | 023 | Full ROI,12921,26841,Naïve CD8 T cells,0,Germinal center,Geometric,Naïve CD8 T cells
+i | 6B | 023 | Full ROI,12921,26841,Memory CD8 T cells,0.0153990922205829,Germinal center,Geometric,Memory CD8 T cells
+i | 6B | 023 | Full ROI,12921,26841,Natural killer cells,0.00689359065985814,Germinal center,Geometric,Natural killer cells
+i | 6B | 023 | Full ROI,12921,26841,Plasmacytoid dendritic cells,0,Germinal center,Geometric,Plasmacytoid dendritic cells
+i | 6B | 023 | Full ROI,12921,26841,Myeloid dendritic cells,0.00171882066086624,Germinal center,Geometric,Myeloid dendritic cells
+i | 6B | 023 | Full ROI,12921,26841,Classical monocytes,0,Germinal center,Geometric,Classical monocytes
+i | 6B | 023 | Full ROI,12921,26841,"Non-classical, intermediate monocytes",0,Germinal center,Geometric,"Non-classical, intermediate monocytes"
+i | 6B | 023 | Full ROI,12921,26841,Neutrophils,0,Germinal center,Geometric,Neutrophils
+i | 6B | 023 | Full ROI,12921,26841,Regulatory T cells,0.14415647923347,Germinal center,Geometric,Regulatory T cells
+i | 6B | 023 | Full ROI,12921,26841,Endothelial cells,0.00629212671194112,Germinal center,Geometric,Endothelial cells
+i | 6B | 023 | Full ROI,12921,26841,Fibroblasts,0.0107785952381821,Germinal center,Geometric,Fibroblasts
+j | 6B | 024 | Full ROI,20423,22880,Macrophages,0.0321218954739521,Germinal center,Geometric,Macrophages
+j | 6B | 024 | Full ROI,20423,22880,Mast cells,0.000807146363180096,Germinal center,Geometric,Mast cells
+j | 6B | 024 | Full ROI,20423,22880,Naïve B cells,0.321837936125474,Germinal center,Geometric,Naïve B cells
+j | 6B | 024 | Full ROI,20423,22880,Memory B cells,0.396438351513172,Germinal center,Geometric,Memory B cells
+j | 6B | 024 | Full ROI,20423,22880,Plasma cells,0.0294767165035503,Germinal center,Geometric,Plasma cells
+j | 6B | 024 | Full ROI,20423,22880,Naïve CD4 T cells,0.0379135218234219,Germinal center,Geometric,Naïve CD4 T cells
+j | 6B | 024 | Full ROI,20423,22880,Memory CD4 T cells,0.0395439538478989,Germinal center,Geometric,Memory CD4 T cells
+j | 6B | 024 | Full ROI,20423,22880,Naïve CD8 T cells,0,Germinal center,Geometric,Naïve CD8 T cells
+j | 6B | 024 | Full ROI,20423,22880,Memory CD8 T cells,0.00824030132876274,Germinal center,Geometric,Memory CD8 T cells
+j | 6B | 024 | Full ROI,20423,22880,Natural killer cells,0.0021761363324564,Germinal center,Geometric,Natural killer cells
+j | 6B | 024 | Full ROI,20423,22880,Plasmacytoid dendritic cells,0.00592325938433115,Germinal center,Geometric,Plasmacytoid dendritic cells
+j | 6B | 024 | Full ROI,20423,22880,Myeloid dendritic cells,0,Germinal center,Geometric,Myeloid dendritic cells
+j | 6B | 024 | Full ROI,20423,22880,Classical monocytes,0,Germinal center,Geometric,Classical monocytes
+j | 6B | 024 | Full ROI,20423,22880,"Non-classical, intermediate monocytes",0,Germinal center,Geometric,"Non-classical, intermediate monocytes"
+j | 6B | 024 | Full ROI,20423,22880,Neutrophils,0,Germinal center,Geometric,Neutrophils
+j | 6B | 024 | Full ROI,20423,22880,Regulatory T cells,0.119630320981396,Germinal center,Geometric,Regulatory T cells
+j | 6B | 024 | Full ROI,20423,22880,Endothelial cells,0.00126079325754326,Germinal center,Geometric,Endothelial cells
+j | 6B | 024 | Full ROI,20423,22880,Fibroblasts,0.00462966706486052,Germinal center,Geometric,Fibroblasts
+k | 6B | 025 | Full ROI,22106,13564,Macrophages,0.030533250403,Germinal center,Geometric,Macrophages
+k | 6B | 025 | Full ROI,22106,13564,Mast cells,0.000600031260812637,Germinal center,Geometric,Mast cells
+k | 6B | 025 | Full ROI,22106,13564,Naïve B cells,0.418746932642639,Germinal center,Geometric,Naïve B cells
+k | 6B | 025 | Full ROI,22106,13564,Memory B cells,0.394538562417542,Germinal center,Geometric,Memory B cells
+k | 6B | 025 | Full ROI,22106,13564,Plasma cells,0.0147934128683675,Germinal center,Geometric,Plasma cells
+k | 6B | 025 | Full ROI,22106,13564,Naïve CD4 T cells,0.00295570222803693,Germinal center,Geometric,Naïve CD4 T cells
+k | 6B | 025 | Full ROI,22106,13564,Memory CD4 T cells,0.0287836260124274,Germinal center,Geometric,Memory CD4 T cells
+k | 6B | 025 | Full ROI,22106,13564,Naïve CD8 T cells,0,Germinal center,Geometric,Naïve CD8 T cells
+k | 6B | 025 | Full ROI,22106,13564,Memory CD8 T cells,0.0113146679259318,Germinal center,Geometric,Memory CD8 T cells
+k | 6B | 025 | Full ROI,22106,13564,Natural killer cells,0,Germinal center,Geometric,Natural killer cells
+k | 6B | 025 | Full ROI,22106,13564,Plasmacytoid dendritic cells,0.00386896258567495,Germinal center,Geometric,Plasmacytoid dendritic cells
+k | 6B | 025 | Full ROI,22106,13564,Myeloid dendritic cells,0,Germinal center,Geometric,Myeloid dendritic cells
+k | 6B | 025 | Full ROI,22106,13564,Classical monocytes,0,Germinal center,Geometric,Classical monocytes
+k | 6B | 025 | Full ROI,22106,13564,"Non-classical, intermediate monocytes",0,Germinal center,Geometric,"Non-classical, intermediate monocytes"
+k | 6B | 025 | Full ROI,22106,13564,Neutrophils,0,Germinal center,Geometric,Neutrophils
+k | 6B | 025 | Full ROI,22106,13564,Regulatory T cells,0.0872342063381893,Germinal center,Geometric,Regulatory T cells
+k | 6B | 025 | Full ROI,22106,13564,Endothelial cells,0.000892642010179935,Germinal center,Geometric,Endothelial cells
+k | 6B | 025 | Full ROI,22106,13564,Fibroblasts,0.00573800330719842,Germinal center,Geometric,Fibroblasts
+l | 6B | 026 | Full ROI,27284,24303,Macrophages,0.0164982243958389,Germinal center,Geometric,Macrophages
+l | 6B | 026 | Full ROI,27284,24303,Mast cells,0.000136503647314474,Germinal center,Geometric,Mast cells
+l | 6B | 026 | Full ROI,27284,24303,Naïve B cells,0.401651095738627,Germinal center,Geometric,Naïve B cells
+l | 6B | 026 | Full ROI,27284,24303,Memory B cells,0.355754063831207,Germinal center,Geometric,Memory B cells
+l | 6B | 026 | Full ROI,27284,24303,Plasma cells,0.0295563697336408,Germinal center,Geometric,Plasma cells
+l | 6B | 026 | Full ROI,27284,24303,Naïve CD4 T cells,0.0175726002633827,Germinal center,Geometric,Naïve CD4 T cells
+l | 6B | 026 | Full ROI,27284,24303,Memory CD4 T cells,0.0533899744198723,Germinal center,Geometric,Memory CD4 T cells
+l | 6B | 026 | Full ROI,27284,24303,Naïve CD8 T cells,0,Germinal center,Geometric,Naïve CD8 T cells
+l | 6B | 026 | Full ROI,27284,24303,Memory CD8 T cells,0.000358470821667336,Germinal center,Geometric,Memory CD8 T cells
+l | 6B | 026 | Full ROI,27284,24303,Natural killer cells,0,Germinal center,Geometric,Natural killer cells
+l | 6B | 026 | Full ROI,27284,24303,Plasmacytoid dendritic cells,0.000755529079298451,Germinal center,Geometric,Plasmacytoid dendritic cells
+l | 6B | 026 | Full ROI,27284,24303,Myeloid dendritic cells,0,Germinal center,Geometric,Myeloid dendritic cells
+l | 6B | 026 | Full ROI,27284,24303,Classical monocytes,0,Germinal center,Geometric,Classical monocytes
+l | 6B | 026 | Full ROI,27284,24303,"Non-classical, intermediate monocytes",0,Germinal center,Geometric,"Non-classical, intermediate monocytes"
+l | 6B | 026 | Full ROI,27284,24303,Neutrophils,0,Germinal center,Geometric,Neutrophils
+l | 6B | 026 | Full ROI,27284,24303,Regulatory T cells,0.115327262043324,Germinal center,Geometric,Regulatory T cells
+l | 6B | 026 | Full ROI,27284,24303,Endothelial cells,0.00463255887640897,Germinal center,Geometric,Endothelial cells
+l | 6B | 026 | Full ROI,27284,24303,Fibroblasts,0.00436734714941895,Germinal center,Geometric,Fibroblasts
+m | 6B | 027 | Full ROI,21345,12134,Macrophages,0.0226619385036959,Germinal center,Geometric,Macrophages
+m | 6B | 027 | Full ROI,21345,12134,Mast cells,0.000571357176137102,Germinal center,Geometric,Mast cells
+m | 6B | 027 | Full ROI,21345,12134,Naïve B cells,0.262608031613894,Germinal center,Geometric,Naïve B cells
+m | 6B | 027 | Full ROI,21345,12134,Memory B cells,0.567999448154411,Germinal center,Geometric,Memory B cells
+m | 6B | 027 | Full ROI,21345,12134,Plasma cells,0.0323167261893003,Germinal center,Geometric,Plasma cells
+m | 6B | 027 | Full ROI,21345,12134,Naïve CD4 T cells,0,Germinal center,Geometric,Naïve CD4 T cells
+m | 6B | 027 | Full ROI,21345,12134,Memory CD4 T cells,0.0398042568571656,Germinal center,Geometric,Memory CD4 T cells
+m | 6B | 027 | Full ROI,21345,12134,Naïve CD8 T cells,0,Germinal center,Geometric,Naïve CD8 T cells
+m | 6B | 027 | Full ROI,21345,12134,Memory CD8 T cells,0,Germinal center,Geometric,Memory CD8 T cells
+m | 6B | 027 | Full ROI,21345,12134,Natural killer cells,0,Germinal center,Geometric,Natural killer cells
+m | 6B | 027 | Full ROI,21345,12134,Plasmacytoid dendritic cells,0,Germinal center,Geometric,Plasmacytoid dendritic cells
+m | 6B | 027 | Full ROI,21345,12134,Myeloid dendritic cells,0,Germinal center,Geometric,Myeloid dendritic cells
+m | 6B | 027 | Full ROI,21345,12134,Classical monocytes,0,Germinal center,Geometric,Classical monocytes
+m | 6B | 027 | Full ROI,21345,12134,"Non-classical, intermediate monocytes",0,Germinal center,Geometric,"Non-classical, intermediate monocytes"
+m | 6B | 027 | Full ROI,21345,12134,Neutrophils,0.0026775605662052,Germinal center,Geometric,Neutrophils
+m | 6B | 027 | Full ROI,21345,12134,Regulatory T cells,0.0609472593115181,Germinal center,Geometric,Regulatory T cells
+m | 6B | 027 | Full ROI,21345,12134,Endothelial cells,0.00397515447851037,Germinal center,Geometric,Endothelial cells
+m | 6B | 027 | Full ROI,21345,12134,Fibroblasts,0.00643826714916245,Germinal center,Geometric,Fibroblasts
+n | 6B | 003 | Full ROI,23615,27609,Macrophages,0.0382773922299143,Paracortex zone,Geometric,Macrophages
+n | 6B | 003 | Full ROI,23615,27609,Mast cells,0.000160216224115069,Paracortex zone,Geometric,Mast cells
+n | 6B | 003 | Full ROI,23615,27609,Naïve B cells,0.0589776601848575,Paracortex zone,Geometric,Naïve B cells
+n | 6B | 003 | Full ROI,23615,27609,Memory B cells,0.052997369372824,Paracortex zone,Geometric,Memory B cells
+n | 6B | 003 | Full ROI,23615,27609,Plasma cells,0.00723297809272283,Paracortex zone,Geometric,Plasma cells
+n | 6B | 003 | Full ROI,23615,27609,Naïve CD4 T cells,0.523608272539237,Paracortex zone,Geometric,Naïve CD4 T cells
+n | 6B | 003 | Full ROI,23615,27609,Memory CD4 T cells,0.0810962211519979,Paracortex zone,Geometric,Memory CD4 T cells
+n | 6B | 003 | Full ROI,23615,27609,Naïve CD8 T cells,0.0112659421137759,Paracortex zone,Geometric,Naïve CD8 T cells
+n | 6B | 003 | Full ROI,23615,27609,Memory CD8 T cells,0.0359885263779762,Paracortex zone,Geometric,Memory CD8 T cells
+n | 6B | 003 | Full ROI,23615,27609,Natural killer cells,0.00971271755082388,Paracortex zone,Geometric,Natural killer cells
+n | 6B | 003 | Full ROI,23615,27609,Plasmacytoid dendritic cells,0.00818429892421039,Paracortex zone,Geometric,Plasmacytoid dendritic cells
+n | 6B | 003 | Full ROI,23615,27609,Myeloid dendritic cells,0.00441049547824999,Paracortex zone,Geometric,Myeloid dendritic cells
+n | 6B | 003 | Full ROI,23615,27609,Classical monocytes,0,Paracortex zone,Geometric,Classical monocytes
+n | 6B | 003 | Full ROI,23615,27609,"Non-classical, intermediate monocytes",0.00432995260566617,Paracortex zone,Geometric,"Non-classical, intermediate monocytes"
+n | 6B | 003 | Full ROI,23615,27609,Neutrophils,0.00691024099851196,Paracortex zone,Geometric,Neutrophils
+n | 6B | 003 | Full ROI,23615,27609,Regulatory T cells,0.126582896306211,Paracortex zone,Geometric,Regulatory T cells
+n | 6B | 003 | Full ROI,23615,27609,Endothelial cells,0.0171235692923258,Paracortex zone,Geometric,Endothelial cells
+n | 6B | 003 | Full ROI,23615,27609,Fibroblasts,0.0131412505565804,Paracortex zone,Geometric,Fibroblasts
+o | 6B | 006 | Full ROI,25105,18785,Macrophages,0.0482429836367648,Paracortex zone,Geometric,Macrophages
+o | 6B | 006 | Full ROI,25105,18785,Mast cells,0.000413826505613146,Paracortex zone,Geometric,Mast cells
+o | 6B | 006 | Full ROI,25105,18785,Naïve B cells,0.0450662938190331,Paracortex zone,Geometric,Naïve B cells
+o | 6B | 006 | Full ROI,25105,18785,Memory B cells,0.0981052290389551,Paracortex zone,Geometric,Memory B cells
+o | 6B | 006 | Full ROI,25105,18785,Plasma cells,0.0114801527779549,Paracortex zone,Geometric,Plasma cells
+o | 6B | 006 | Full ROI,25105,18785,Naïve CD4 T cells,0.476554762198018,Paracortex zone,Geometric,Naïve CD4 T cells
+o | 6B | 006 | Full ROI,25105,18785,Memory CD4 T cells,0.0738106867337981,Paracortex zone,Geometric,Memory CD4 T cells
+o | 6B | 006 | Full ROI,25105,18785,Naïve CD8 T cells,0,Paracortex zone,Geometric,Naïve CD8 T cells
+o | 6B | 006 | Full ROI,25105,18785,Memory CD8 T cells,0.0568589440788024,Paracortex zone,Geometric,Memory CD8 T cells
+o | 6B | 006 | Full ROI,25105,18785,Natural killer cells,0.0108815853158041,Paracortex zone,Geometric,Natural killer cells
+o | 6B | 006 | Full ROI,25105,18785,Plasmacytoid dendritic cells,0.00768236141627349,Paracortex zone,Geometric,Plasmacytoid dendritic cells
+o | 6B | 006 | Full ROI,25105,18785,Myeloid dendritic cells,0.003770424417291,Paracortex zone,Geometric,Myeloid dendritic cells
+o | 6B | 006 | Full ROI,25105,18785,Classical monocytes,0,Paracortex zone,Geometric,Classical monocytes
+o | 6B | 006 | Full ROI,25105,18785,"Non-classical, intermediate monocytes",0.00396655915273766,Paracortex zone,Geometric,"Non-classical, intermediate monocytes"
+o | 6B | 006 | Full ROI,25105,18785,Neutrophils,0.00485692845647914,Paracortex zone,Geometric,Neutrophils
+o | 6B | 006 | Full ROI,25105,18785,Regulatory T cells,0.121435816931646,Paracortex zone,Geometric,Regulatory T cells
+o | 6B | 006 | Full ROI,25105,18785,Endothelial cells,0.0220930197949717,Paracortex zone,Geometric,Endothelial cells
+o | 6B | 006 | Full ROI,25105,18785,Fibroblasts,0.0147804257258569,Paracortex zone,Geometric,Fibroblasts
+p | 6B | 009 | Full ROI,10097,34409,Macrophages,0.0257660437610787,Paracortex zone,Geometric,Macrophages
+p | 6B | 009 | Full ROI,10097,34409,Mast cells,0.000271246148878606,Paracortex zone,Geometric,Mast cells
+p | 6B | 009 | Full ROI,10097,34409,Naïve B cells,0.00712826319520133,Paracortex zone,Geometric,Naïve B cells
+p | 6B | 009 | Full ROI,10097,34409,Memory B cells,0.0248236104668417,Paracortex zone,Geometric,Memory B cells
+p | 6B | 009 | Full ROI,10097,34409,Plasma cells,0.0116573221958455,Paracortex zone,Geometric,Plasma cells
+p | 6B | 009 | Full ROI,10097,34409,Naïve CD4 T cells,0.590993760365507,Paracortex zone,Geometric,Naïve CD4 T cells
+p | 6B | 009 | Full ROI,10097,34409,Memory CD4 T cells,0.0805313168648999,Paracortex zone,Geometric,Memory CD4 T cells
+p | 6B | 009 | Full ROI,10097,34409,Naïve CD8 T cells,0.0775743085874496,Paracortex zone,Geometric,Naïve CD8 T cells
+p | 6B | 009 | Full ROI,10097,34409,Memory CD8 T cells,0.00167457657762919,Paracortex zone,Geometric,Memory CD8 T cells
+p | 6B | 009 | Full ROI,10097,34409,Natural killer cells,0.0110817948044408,Paracortex zone,Geometric,Natural killer cells
+p | 6B | 009 | Full ROI,10097,34409,Plasmacytoid dendritic cells,0.00465378304800698,Paracortex zone,Geometric,Plasmacytoid dendritic cells
+p | 6B | 009 | Full ROI,10097,34409,Myeloid dendritic cells,0.00279806697686019,Paracortex zone,Geometric,Myeloid dendritic cells
+p | 6B | 009 | Full ROI,10097,34409,Classical monocytes,0,Paracortex zone,Geometric,Classical monocytes
+p | 6B | 009 | Full ROI,10097,34409,"Non-classical, intermediate monocytes",0.00307618644808254,Paracortex zone,Geometric,"Non-classical, intermediate monocytes"
+p | 6B | 009 | Full ROI,10097,34409,Neutrophils,0.00465551667511909,Paracortex zone,Geometric,Neutrophils
+p | 6B | 009 | Full ROI,10097,34409,Regulatory T cells,0.136053890344012,Paracortex zone,Geometric,Regulatory T cells
+p | 6B | 009 | Full ROI,10097,34409,Endothelial cells,0.00997835375359401,Paracortex zone,Geometric,Endothelial cells
+p | 6B | 009 | Full ROI,10097,34409,Fibroblasts,0.00728195978655236,Paracortex zone,Geometric,Fibroblasts
+q | 6B | 012 | Full ROI,10169,32873,Macrophages,0.0239557793404293,Paracortex zone,Geometric,Macrophages
+q | 6B | 012 | Full ROI,10169,32873,Mast cells,0.000572785550850496,Paracortex zone,Geometric,Mast cells
+q | 6B | 012 | Full ROI,10169,32873,Naïve B cells,0.0624784397682208,Paracortex zone,Geometric,Naïve B cells
+q | 6B | 012 | Full ROI,10169,32873,Memory B cells,0.0615685248767201,Paracortex zone,Geometric,Memory B cells
+q | 6B | 012 | Full ROI,10169,32873,Plasma cells,0.0125659394714827,Paracortex zone,Geometric,Plasma cells
+q | 6B | 012 | Full ROI,10169,32873,Naïve CD4 T cells,0.518805736229715,Paracortex zone,Geometric,Naïve CD4 T cells
+q | 6B | 012 | Full ROI,10169,32873,Memory CD4 T cells,0.0823807909528914,Paracortex zone,Geometric,Memory CD4 T cells
+q | 6B | 012 | Full ROI,10169,32873,Naïve CD8 T cells,0,Paracortex zone,Geometric,Naïve CD8 T cells
+q | 6B | 012 | Full ROI,10169,32873,Memory CD8 T cells,0.0449676284457405,Paracortex zone,Geometric,Memory CD8 T cells
+q | 6B | 012 | Full ROI,10169,32873,Natural killer cells,0.0060229728107714,Paracortex zone,Geometric,Natural killer cells
+q | 6B | 012 | Full ROI,10169,32873,Plasmacytoid dendritic cells,0.00617261606875046,Paracortex zone,Geometric,Plasmacytoid dendritic cells
+q | 6B | 012 | Full ROI,10169,32873,Myeloid dendritic cells,0.00323657162900997,Paracortex zone,Geometric,Myeloid dendritic cells
+q | 6B | 012 | Full ROI,10169,32873,Classical monocytes,0,Paracortex zone,Geometric,Classical monocytes
+q | 6B | 012 | Full ROI,10169,32873,"Non-classical, intermediate monocytes",0.000972387215696707,Paracortex zone,Geometric,"Non-classical, intermediate monocytes"
+q | 6B | 012 | Full ROI,10169,32873,Neutrophils,0.00446587647679111,Paracortex zone,Geometric,Neutrophils
+q | 6B | 012 | Full ROI,10169,32873,Regulatory T cells,0.14520027556214,Paracortex zone,Geometric,Regulatory T cells
+q | 6B | 012 | Full ROI,10169,32873,Endothelial cells,0.0142881916923223,Paracortex zone,Geometric,Endothelial cells
+q | 6B | 012 | Full ROI,10169,32873,Fibroblasts,0.012345483908468,Paracortex zone,Geometric,Fibroblasts
+r | 6B | 015 | Full ROI,20756,36279,Macrophages,0.0254426031578652,Paracortex zone,Geometric,Macrophages
+r | 6B | 015 | Full ROI,20756,36279,Mast cells,0.000399551624267896,Paracortex zone,Geometric,Mast cells
+r | 6B | 015 | Full ROI,20756,36279,Naïve B cells,0,Paracortex zone,Geometric,Naïve B cells
+r | 6B | 015 | Full ROI,20756,36279,Memory B cells,0.0604040026550333,Paracortex zone,Geometric,Memory B cells
+r | 6B | 015 | Full ROI,20756,36279,Plasma cells,0.014889972030722,Paracortex zone,Geometric,Plasma cells
+r | 6B | 015 | Full ROI,20756,36279,Naïve CD4 T cells,0.497516680325004,Paracortex zone,Geometric,Naïve CD4 T cells
+r | 6B | 015 | Full ROI,20756,36279,Memory CD4 T cells,0.0618437457324795,Paracortex zone,Geometric,Memory CD4 T cells
+r | 6B | 015 | Full ROI,20756,36279,Naïve CD8 T cells,0.0832404303147136,Paracortex zone,Geometric,Naïve CD8 T cells
+r | 6B | 015 | Full ROI,20756,36279,Memory CD8 T cells,0.0139535689261315,Paracortex zone,Geometric,Memory CD8 T cells
+r | 6B | 015 | Full ROI,20756,36279,Natural killer cells,0.0118249154004007,Paracortex zone,Geometric,Natural killer cells
+r | 6B | 015 | Full ROI,20756,36279,Plasmacytoid dendritic cells,0.00480178980898822,Paracortex zone,Geometric,Plasmacytoid dendritic cells
+r | 6B | 015 | Full ROI,20756,36279,Myeloid dendritic cells,0.00283169201430041,Paracortex zone,Geometric,Myeloid dendritic cells
+r | 6B | 015 | Full ROI,20756,36279,Classical monocytes,0,Paracortex zone,Geometric,Classical monocytes
+r | 6B | 015 | Full ROI,20756,36279,"Non-classical, intermediate monocytes",0.002526159484845,Paracortex zone,Geometric,"Non-classical, intermediate monocytes"
+r | 6B | 015 | Full ROI,20756,36279,Neutrophils,0.00524982614898174,Paracortex zone,Geometric,Neutrophils
+r | 6B | 015 | Full ROI,20756,36279,Regulatory T cells,0.193097028272274,Paracortex zone,Geometric,Regulatory T cells
+r | 6B | 015 | Full ROI,20756,36279,Endothelial cells,0.0098379954314968,Paracortex zone,Geometric,Endothelial cells
+r | 6B | 015 | Full ROI,20756,36279,Fibroblasts,0.0121400386724956,Paracortex zone,Geometric,Fibroblasts
+s | 6B | 018 | Full ROI,26014,26134,Macrophages,0.0364250729729395,Paracortex zone,Geometric,Macrophages
+s | 6B | 018 | Full ROI,26014,26134,Mast cells,0.000312699402525103,Paracortex zone,Geometric,Mast cells
+s | 6B | 018 | Full ROI,26014,26134,Naïve B cells,0.00813777424083206,Paracortex zone,Geometric,Naïve B cells
+s | 6B | 018 | Full ROI,26014,26134,Memory B cells,0.0310523088783168,Paracortex zone,Geometric,Memory B cells
+s | 6B | 018 | Full ROI,26014,26134,Plasma cells,0.0108132139817055,Paracortex zone,Geometric,Plasma cells
+s | 6B | 018 | Full ROI,26014,26134,Naïve CD4 T cells,0.495904070710628,Paracortex zone,Geometric,Naïve CD4 T cells
+s | 6B | 018 | Full ROI,26014,26134,Memory CD4 T cells,0.134915490357293,Paracortex zone,Geometric,Memory CD4 T cells
+s | 6B | 018 | Full ROI,26014,26134,Naïve CD8 T cells,0.0577835552065277,Paracortex zone,Geometric,Naïve CD8 T cells
+s | 6B | 018 | Full ROI,26014,26134,Memory CD8 T cells,0.0121656010740277,Paracortex zone,Geometric,Memory CD8 T cells
+s | 6B | 018 | Full ROI,26014,26134,Natural killer cells,0.0131781645503071,Paracortex zone,Geometric,Natural killer cells
+s | 6B | 018 | Full ROI,26014,26134,Plasmacytoid dendritic cells,0.00752269940258989,Paracortex zone,Geometric,Plasmacytoid dendritic cells
+s | 6B | 018 | Full ROI,26014,26134,Myeloid dendritic cells,0.00354158963456345,Paracortex zone,Geometric,Myeloid dendritic cells
+s | 6B | 018 | Full ROI,26014,26134,Classical monocytes,0,Paracortex zone,Geometric,Classical monocytes
+s | 6B | 018 | Full ROI,26014,26134,"Non-classical, intermediate monocytes",0.00106197789748689,Paracortex zone,Geometric,"Non-classical, intermediate monocytes"
+s | 6B | 018 | Full ROI,26014,26134,Neutrophils,0.00422226025909478,Paracortex zone,Geometric,Neutrophils
+s | 6B | 018 | Full ROI,26014,26134,Regulatory T cells,0.159928396052297,Paracortex zone,Geometric,Regulatory T cells
+s | 6B | 018 | Full ROI,26014,26134,Endothelial cells,0.0132205140721214,Paracortex zone,Geometric,Endothelial cells
+s | 6B | 018 | Full ROI,26014,26134,Fibroblasts,0.00981461130674445,Paracortex zone,Geometric,Fibroblasts
