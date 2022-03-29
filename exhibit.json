@@ -92,7 +92,11 @@
             "y": {
                 "field": "GenesDetected", 
                 "type": "quantitative"
-            }
+            },
+            "tooltip": [
+                {"field": "GenesDetected", "type": "quantitative", "title": "Genes Detected"},
+                {"field": "type", "type": "nominal", "title": "Histological structure"}
+            ]
         }
     }]
 }}, 
@@ -172,7 +176,11 @@
                     "scale": {"domain": ["Mantle zone", "GC - CD11c+", "GC - CD20+", "GC - CD3+", "Germinal center", "Paracortex zone"], 
                         "range": ["#f0e442", "#d55e00", "#e69f00", "#decac2", "#cc79a7", "#484e4e"]}
                 },
-                "order": {"field": "order"}}
+                "tooltip": [
+                    {"field": "type", "type": "nominal", "title": "Histological structure"}
+                ],
+                "order": {"field": "order"}
+            }
     }],
   "resolve": {"scale": {"color": "independent"}}
 }}, 
@@ -252,6 +260,9 @@
             "scale": {"domain": ["Germinal center", "Paracortex zone", "Mantle zone"], 
                 "range": ["#cc79a7", "#484e4e", "#f0e442"]}
         },
+        "tooltip": [
+            {"field": "type", "type": "nominal", "title": "Histological structure"}
+        ],
         "order": {"field": "order"}
         }
     }], 
@@ -433,7 +444,11 @@
             "y": {
                 "field": "CD3E", 
                 "type": "quantitative"
-            }
+            },
+            "tooltip": [
+                {"field": "CD3E", "type": "quantitative", "format": ".0f", "title": "CD3E Expression"},
+                {"field": "type", "type": "nominal", "title": "Histological structure"}
+            ]
         }
     }]
 }}, 
@@ -500,7 +515,11 @@
             "y": {
                 "field": "PDCD1", 
                 "type": "quantitative"
-            }
+            },
+            "tooltip": [
+                {"field": "PDCD1", "type": "quantitative", "format": ".0f", "title": "PDCD1 Expression"},
+                {"field": "type", "type": "nominal", "title": "Histological structure"}
+            ]
         }
     }]
 }},
@@ -567,7 +586,11 @@
             "y": {
                 "field": "ITGAX", 
                 "type": "quantitative"
-            }
+            },
+            "tooltip": [
+                {"field": "ITGAX", "type": "quantitative", "format": ".0f", "title": "ITGAX Expression"},
+                {"field": "type", "type": "nominal", "title": "Histological structure"}
+            ]
         }
     }]
 }}
