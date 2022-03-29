@@ -1,0 +1,46 @@
+bar,X_position,Y_position,type,name,order,percentage
+one,24303,27332,Mantle zone,Mantle zone,Zj,0.02222
+one,25645,18105,Mantle zone,Mantle zone,Zi,0.02222
+one,9380,34978,Mantle zone,Mantle zone,Zh,0.02222
+one,8967,33528,Mantle zone,Mantle zone,Zg,0.02222
+one,22224,36621,Mantle zone,Mantle zone,Zf,0.02222
+one,25314,27219,Mantle zone,Mantle zone,Ze,0.02222
+one,3849,25684,Germinal center - CD11c+,GC - CD11c+,Zd,0.02222
+one,21741,29893,Germinal center - CD11c+,GC - CD11c+,Zc,0.02222
+one,18493,9579,Germinal center - CD11c+,GC - CD11c+,Zb,0.02222
+one,14101,37273,Germinal center - CD11c+,GC - CD11c+,Za,0.02222
+one,21888,32371,Germinal center - CD11c+,GC - CD11c+,Z,0.02222
+one,16887,39225,Germinal center - CD11c+,GC - CD11c+,Y,0.02222
+one,3849,25684,Germinal center - CD20+,GC - CD20+,X,0.02222
+one,21741,29893,Germinal center - CD20+,GC - CD20+,W,0.02222
+one,18493,9579,Germinal center - CD20+,GC - CD20+,V,0.02222
+one,14101,37273,Germinal center - CD20+,GC - CD20+,U,0.02222
+one,21888,32371,Germinal center - CD20+,GC - CD20+,T,0.02222
+one,16887,39225,Germinal center - CD20+,GC - CD20+,S,0.02222
+one,3849,25684,Germinal center - CD3+,GC - CD3+,R,0.02222
+one,21741,29893,Germinal center - CD3+,GC - CD3+,Q,0.02222
+one,18493,9579,Germinal center - CD3+,GC - CD3+,P,0.02222
+one,14101,37273,Germinal center - CD3+,GC - CD3+,O,0.02222
+one,21888,32371,Germinal center - CD3+,GC - CD3+,N,0.02222
+one,16887,39225,Germinal center - CD3+,GC - CD3+,M,0.02222
+one,23975,27060,Germinal center,Germinal center,L,0.02222
+one,25384,18364,Germinal center,Germinal center,K,0.02222
+one,9503,34845,Germinal center,Germinal center,J,0.02222
+one,9318,33128,Germinal center,Germinal center,I,0.02222
+one,21798,36418,Germinal center,Germinal center,H,0.02222
+one,25388,26749,Germinal center,Germinal center,G,0.02222
+one,9260,15437,Germinal center,Germinal center,F,0.02222
+one,6925,16105,Germinal center,Germinal center,E,0.02222
+one,11177,16145,Germinal center,Germinal center,D,0.02222
+one,7333,20899,Germinal center,Germinal center,C,0.02222
+one,12921,26841,Germinal center,Germinal center,B,0.02222
+one,20423,22880,Germinal center,Germinal center,A,0.02222
+one,22106,13564,Germinal center,Germinal center,9,0.02222
+one,27284,24303,Germinal center,Germinal center,8,0.02222
+one,21345,12134,Germinal center,Germinal center,7,0.02222
+one,23615,27609,Paracortex zone,Paracortex zone,6,0.02222
+one,25105,18785,Paracortex zone,Paracortex zone,5,0.02222
+one,10097,34409,Paracortex zone,Paracortex zone,4,0.02222
+one,10169,32873,Paracortex zone,Paracortex zone,3,0.02222
+one,20756,36279,Paracortex zone,Paracortex zone,2,0.02222
+one,26014,26134,Paracortex zone,Paracortex zone,1,0.02222

@@ -141,14 +141,7 @@
              }
     },
     {
-        "data": {
-            "values": [{
-            "Sample_ID": "ROI 001", "order": "F", "name": "Mantle zone", "type": "Mantle zone", "percentage": 0.1333},
-            {"Sample_ID": "ROI 001", "order": "E", "name": "GC - CD11c+", "type": "Germinal center - CD11c+", "percentage": 0.1333},
-            {"Sample_ID": "ROI 001", "order": "D", "name": "GC - CD20+", "type": "Germinal center - CD20+", "percentage": 0.1333},
-            {"Sample_ID": "ROI 001", "order": "C", "name": "GC - CD3+", "type": "Germinal center - CD3+", "percentage": 0.1333},
-            {"Sample_ID": "ROI 001", "order": "B", "name": "Germinal center", "type": "Germinal center", "percentage": 0.3333},
-            {"Sample_ID": "ROI 001", "order": "A", "name": "Paracortex zone", "type": "Paracortex zone", "percentage": 0.1333}]},
+        "data": {"url": "data/decon_sorted_annotation.csv"},
             "mark": {"type": "bar", "xOffset": -7},
             "width": 7,
             "height": 900,
@@ -163,7 +156,7 @@
                         "title": null
                 },
                 "x": {
-                        "field": "Sample_ID", 
+                        "field": "bar", 
                         "type": "nominal",     
                         "title": null,
                         "axis": {
@@ -227,12 +220,7 @@
         }
     },
     {
-        "data": {
-        "values" : [
-            {"bar": "one", "order": "A", "type": "Germinal center", "percentage": 0.5556},
-            {"bar": "one", "order": "B", "type": "Paracortex zone", "percentage": 0.2222},
-            {"bar": "one", "order": "C", "type": "Mantle zone", "percentage": 0.2222}
-        ]},
+        "data": {"url": "data/WPT5_PathwayHeatmap_annotations.csv"},
         "mark": {
             "type": "bar",
             "yOffset": 560
