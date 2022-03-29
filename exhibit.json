@@ -172,7 +172,7 @@
                     "field": "name", 
                     "type": "nominal",
                     "sort": null,
-                    "legend": {"orient": "top", "direction": "vertical", "title": "Histological Structure"},
+                    "legend": {"orient": "top", "direction": "vertical", "title": null},
                     "scale": {"domain": ["Mantle zone", "GC - CD11c+", "GC - CD20+", "GC - CD3+", "Germinal center", "Paracortex zone"], 
                         "range": ["#f0e442", "#d55e00", "#e69f00", "#decac2", "#cc79a7", "#484e4e"]}
                 },
