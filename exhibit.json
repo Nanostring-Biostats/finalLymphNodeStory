@@ -172,12 +172,12 @@
                     "field": "name", 
                     "type": "nominal",
                     "sort": null,
-                    "legend": {"orient": "top", "direction": "vertical", "title": null},
+                    "legend": {"orient": "top", "direction": "vertical", "title": "Histological Structure"},
                     "scale": {"domain": ["Mantle zone", "GC - CD11c+", "GC - CD20+", "GC - CD3+", "Germinal center", "Paracortex zone"], 
                         "range": ["#f0e442", "#d55e00", "#e69f00", "#decac2", "#cc79a7", "#484e4e"]}
                 },
                 "tooltip": [
-                    {"field": "type", "type": "nominal", "title": "Histological structure"}
+                    {"field": "type", "type": "nominal", "title": null}
                 ],
                 "order": {"field": "order"}
             }
@@ -261,7 +261,7 @@
                 "range": ["#cc79a7", "#484e4e", "#f0e442"]}
         },
         "tooltip": [
-            {"field": "type", "type": "nominal", "title": "Histological structure"}
+            {"field": "type", "type": "nominal", "title": null}
         ],
         "order": {"field": "order"}
         }
